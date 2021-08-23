@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/christmas-sublimation.atom"/>
+  <title>Design Blanks</title>
+  <updated>2020-05-07T16:01:01-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4630336929877</id>
+    <published>2020-05-07T16:01:01-04:00</published>
+    <updated>2020-05-07T16:01:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-apple"/>
+    <title>Sublimation MDF Ornament - APPLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-apple.jpg?v=1621439380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 8x8cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4630336929877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4495976857685</id>
+    <published>2020-01-15T12:46:56-05:00</published>
+    <updated>2020-01-15T12:46:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-house"/>
+    <title>Sublimation MDF Ornament - HOUSE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-house.jpg?v=1621438998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 8x8cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4495976857685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4420053237845</id>
+    <published>2019-12-04T12:54:54-05:00</published>
+    <updated>2019-12-04T12:54:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-snow-globe-size-jumbo"/>
+    <title>Sublimation MDF Ornament -  SNOW GLOBE size JUMBO</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-snow-globe-size-jumbo.jpg?v=1621438961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 5 inches </p>
+<p>Pictured is the  jumbo size snow globe ornament and the regular size (3.5inch) sitting on top of the Jumbo size (5inch)</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420053237845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4420048257109</id>
+    <published>2019-12-04T12:49:49-05:00</published>
+    <updated>2019-12-04T12:49:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-snow-globe-regular-size"/>
+    <title>Sublimation MDF Ornament -  SNOW GLOBE regular size</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Sublimation-MDF-Ornament-SNOW-GLOBE-regular-size_212dd055-e845-46cf-931b-620b8af61626.jpg?v=1629389704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 3.5 inches </p>
+<p>Pictured is the regular size snow globe ornament and the regular size (3.5inch) sitting on top of the Jumbo size (5inch)</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420048257109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4420045799509</id>
+    <published>2019-12-04T12:48:07-05:00</published>
+    <updated>2019-12-04T12:48:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-elf"/>
+    <title>Sublimation MDF Ornament - ELF</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-elf.jpg?v=1621438958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 4 x 2.6 inches</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420045799509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4346586234965</id>
+    <published>2019-11-05T10:28:09-05:00</published>
+    <updated>2019-11-05T10:28:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-flower-flake"/>
+    <title>Sublimation MDF Ornament - FLOWER or FLAKE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-flower-or-flake.jpg?v=1621438940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4346586234965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290625405013</id>
+    <published>2019-10-19T16:44:18-04:00</published>
+    <updated>2019-10-19T16:44:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-santa-key-ornament-3pack"/>
+    <title>Sublimation Santa Key Ornament 3pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-santa-key-ornament-3pack.jpg?v=1621438909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>When Santa needs a key to enter your home on Christmas Eve!</span></p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Print area approx 2cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290625405013</id>
+      <title>Silver</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290625405013</id>
+      <title>Bronze</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290612985941</id>
+    <published>2019-10-19T16:32:22-04:00</published>
+    <updated>2019-10-19T16:32:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-rectangle-tile"/>
+    <title>Sublimation MDF Ornament - Rectangle TILE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-rectangle-tile.jpg?v=1621438908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 10 x 7 cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290612985941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290598469717</id>
+    <published>2019-10-19T16:20:18-04:00</published>
+    <updated>2019-10-19T16:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-heart"/>
+    <title>Sublimation MDF Ornament - HEART</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-heart.jpg?v=1621438907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 7 x 7 cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290598469717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290593357909</id>
+    <published>2019-10-19T16:16:37-04:00</published>
+    <updated>2019-10-19T16:16:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-reindeer"/>
+    <title>Sublimation MDF Ornament - REINDEER</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-reindeer.jpg?v=1621438906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 7 x 10cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290593357909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290590015573</id>
+    <published>2019-10-19T16:13:18-04:00</published>
+    <updated>2019-10-19T16:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-hex"/>
+    <title>Sublimation MDF Ornament - HEX</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-hex.jpg?v=1621438905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 7 x 7 cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290590015573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290581266517</id>
+    <published>2019-10-19T16:05:09-04:00</published>
+    <updated>2019-10-19T16:05:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-star"/>
+    <title>Sublimation MDF Ornament - STAR</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Sublimation-MDF-Ornament-STAR_83dfc257-cf27-4b39-89ef-6e2f1ffc4bfd.jpg?v=1628785072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 7 x 7 cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290581266517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290573140053</id>
+    <published>2019-10-19T15:58:38-04:00</published>
+    <updated>2019-10-19T15:58:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-snowflake"/>
+    <title>Sublimation MDF Ornament - SNOWFLAKE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Sublimation-MDF-Ornament-SNOWFLAKE_1b2a31cb-faf3-46f8-ab26-21fc197bb2a8.jpg?v=1629389694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 9x8.2cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290573140053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290568355925</id>
+    <published>2019-10-19T15:54:32-04:00</published>
+    <updated>2019-10-19T15:54:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-dog-bone"/>
+    <title>Sublimation MDF Ornament - DOG BONE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Sublimation-MDF-Ornament-DOG-BONE_8c8a6844-63f2-4ea5-b122-fdcb685e66f6.jpg?v=1628957965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 10x6cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290568355925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290562130005</id>
+    <published>2019-10-19T15:50:02-04:00</published>
+    <updated>2019-10-19T15:50:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-benelux-square"/>
+    <title>Sublimation MDF Ornament - Benelux SQUARE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-benelux-square.jpg?v=1621438898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 8.2x8.2cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290562130005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290550759509</id>
+    <published>2019-10-19T15:40:38-04:00</published>
+    <updated>2019-10-19T15:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-benelux"/>
+    <title>Sublimation MDF Ornament - Benelux RECTANGLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-mdf-ornament-benelux-rectangle.jpg?v=1621438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 11x8cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290550759509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290526740565</id>
+    <published>2019-10-19T15:16:26-04:00</published>
+    <updated>2019-10-19T15:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-mdf-ornament-christmas-ball"/>
+    <title>Sublimation MDF Ornament - CIRCLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Sublimation-MDF-Ornament-CIRCLE_59bce335-e987-400f-bcdc-d413ba98d526.jpg?v=1628785067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double sided </p>
+<p>Perfect for sublimation Christmas ornaments. </p>
+<p>Approx 8 x 8 cm </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290526740565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2326908043349</id>
+    <published>2019-10-16T13:59:35-04:00</published>
+    <updated>2019-10-16T13:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-blank-santa-sack"/>
+    <title>POLY Blank Drawstring Sack - Large (natural colour ties not red as pictured)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/POLY-Blank-Drawstring-Sack-Large-natural-colour-ties-not-red-as-pictured.jpg?v=1629216920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa sack birthday sack or laundry bag!</p>
+<p>Heavy polyester drawstring sack with a natural coloured drawstring. Perfect for your custom sublimation designs. </p>
+<p>Approx 50x65cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2326908043349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4264954429525</id>
+    <published>2019-10-16T13:46:00-04:00</published>
+    <updated>2019-10-16T13:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/poly-blank-drawstring-santa-sack-small"/>
+    <title>POLY Blank Sack - Small</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/POLY-Blank-Sack-Small_913206f7-a958-41c2-a1f8-aa458f5c9970.jpg?v=1629216938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy polyester drawstring sack with a red drawstring. Perfect for sublimation designs. </p>
+<p>Approx 32x39cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4264954429525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2743324049493</id>
+    <published>2019-09-12T11:22:09-04:00</published>
+    <updated>2019-09-12T11:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-ornaments"/>
+    <title>Sublimation Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-ornaments.jpg?v=1621438852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Ball Ornaments with sublimation disc on the front.</p>
+<p>Perfect gift for family pictures!</p>
+<p>80mm acrylic.</p>
+<p>Disc to sublimate is 2 inches</p>
+<p>Each comes with its own small gift box but due to shipping, we will not guarantee the condition of the gift box.</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743324049493</id>
+      <title>Red</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743324049493</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743324049493</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743324049493</id>
+      <title>Pink Purple</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/tea-towels.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-04-20T13:47:01-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6568891514965</id>
+    <published>2021-04-20T13:47:01-04:00</published>
+    <updated>2021-04-20T13:47:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-polyester-waffle-weave"/>
+    <title>Tea Towel 100% POLYESTER WAFFLE WEAVE 51 x 70.5 cm</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tea-Towel-100-POLYESTER-WAFFLE-WEAVE-51-x-705-cm_6dda56fc-caf9-490b-be2c-f969584f943b.jpg?v=1629389725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality polyester tea towels. They feel like velvet!</span></p>
+<p>Tea Towels are white, 100% Polyester microfibre in a thick and lux waffle weave. Towels are packed individually.  </p>
+<p>They are perfect for sublimation! </p>
+<p>They are large at approx 51cm x 70.5 cm</p>
+<p><span data-mce-fragment="1">195C degrees for 60 seconds</span><span> </span></p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6568891514965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4818220679253</id>
+    <published>2020-12-05T18:03:48-05:00</published>
+    <updated>2020-12-05T18:03:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-cotton-navy"/>
+    <title>Tea Towel 100% Cotton Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tea-towel-100-cotton-navy.jpg?v=1620244763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span>Tea Towels are navy, 100% Cotton. Towels are packed individually. These get better with each wash. Very high quality, high thread count cotton. </p>
+<p>   <br>They love Siser HTV. They are perfect for screen printing! </p>
+<p>They are large at 50cm x 70cm. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4818220679253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4818219139157</id>
+    <published>2020-12-05T18:00:27-05:00</published>
+    <updated>2020-12-05T18:00:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-cotton-charcoal"/>
+    <title>Tea Towel 100% Cotton Charcoal</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tea-towel-100-cotton-charcoal.jpg?v=1620244759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span>Tea Towels are charcoal, 100% Cotton. Towels are packed individually. These get better with each wash. Very high quality, high thread count cotton. </p>
+<p>   <br>They love Siser HTV. They are perfect for screen printing! </p>
+<p>They are large at 50cm x 70cm. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4818219139157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4818218713173</id>
+    <published>2020-12-05T17:59:21-05:00</published>
+    <updated>2020-12-05T17:59:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-cotton-black"/>
+    <title>Tea Towel 100% Cotton Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tea-towel-100-cotton-black.jpg?v=1620244753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span>Tea Towels are black, 100% Cotton. Towels are packed individually. These get better with each wash. Very high quality, high thread count cotton. </p>
+<p>They love Siser HTV. They are perfect for screen printing! </p>
+<p>They are large at 50cm x 70cm. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4818218713173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4818207342677</id>
+    <published>2020-12-05T16:59:27-05:00</published>
+    <updated>2020-12-05T16:59:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-cotton-red"/>
+    <title>Tea Towel 100% Cotton Red</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tea-towel-100-cotton-red.jpg?v=1620244748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span>Tea Towels are red, 100% Cotton. Towels are packed individually. These get better with each wash. Very high quality, high thread count cotton. </p>
+<p>   <br>They love Siser HTV. They are perfect for screen printing! </p>
+<p>They are large at 50cm x 70cm. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4818207342677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4609377337429</id>
+    <published>2020-04-24T16:45:54-04:00</published>
+    <updated>2020-04-24T16:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/summer-garden-tea-towel-100-cotton-limited"/>
+    <title>Autumn Garden Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/autumn-garden-tea-towel-100-cotton-limited.jpg?v=1621439360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4609377337429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4352978124885</id>
+    <published>2019-11-07T11:09:20-05:00</published>
+    <updated>2019-11-07T11:09:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/table-runner-buffalo-plaid-white"/>
+    <title>Table Runner Buffalo Plaid - WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/table-runner-buffalo-plaid-white.jpg?v=1621438942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton table runner</p>
+<p>12x70 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4352978124885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4343776477269</id>
+    <published>2019-11-04T12:37:19-05:00</published>
+    <updated>2019-11-04T12:37:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/table-runner-buffalo-plaid-red"/>
+    <title>Table Runner Buffalo Plaid - RED</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/table-runner-buffalo-plaid-red.jpg?v=1621438938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton table runner</p>
+<p>12x70 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4343776477269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330027319381</id>
+    <published>2019-10-29T11:21:44-04:00</published>
+    <updated>2019-10-29T11:21:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/blue-and-white-striped-tea-towel-100-cotton-limited"/>
+    <title>Blue and White Striped Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/blue-and-white-striped-tea-towel-100-cotton-limited.jpg?v=1621438919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330027319381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330018439253</id>
+    <published>2019-10-29T11:15:00-04:00</published>
+    <updated>2019-10-29T11:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/striped-tea-towel-100-cotton-limited"/>
+    <title>Grey-Green-White Striped Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-green-white-striped-tea-towel-100-cotton-limited.jpg?v=1621438918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330018439253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330012311637</id>
+    <published>2019-10-29T11:10:30-04:00</published>
+    <updated>2019-10-29T11:10:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-fruit-tea-towel-100-cotton-limited"/>
+    <title>Grey Plaid with Terry Back Tea Towel 100% Cotton</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-plaid-with-terry-back-tea-towel-100-cotton.jpg?v=1621438916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, with a thick Terry backing</span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330012311637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2710438838357</id>
+    <published>2019-08-23T14:48:35-04:00</published>
+    <updated>2019-08-23T14:48:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/navy-tea-towel-100-cotton-limited"/>
+    <title>Navy Tea Towel with Grommet 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/navy-tea-towel-with-grommet-100-cotton-limited.jpg?v=1621438832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These have a slight sun-bleached distressed wash. This is intentional and each towel varies slightly in colouring. The metal grommet and hang rope give them a nautical feel. </span></p>
+<p><span>These are very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2710438838357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2532781457493</id>
+    <published>2019-05-27T21:33:35-04:00</published>
+    <updated>2019-05-27T21:33:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tiki-tea-towel-100-cotton-limited"/>
+    <title>Tiki Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tiki-tea-towel-100-cotton-limited.jpg?v=1621438728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2532781457493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2532780408917</id>
+    <published>2019-04-21T16:09:44-04:00</published>
+    <updated>2019-04-21T16:09:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tree-tea-towel-100-cotton-limited"/>
+    <title>Tree Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tree-Tea-Towel-100-Cotton-Limited_abb910a2-a168-4dd0-adee-0f3d48ad78ae.jpg?v=1628957949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2532780408917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2532772872277</id>
+    <published>2019-04-21T15:42:30-04:00</published>
+    <updated>2019-04-21T15:42:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fruit-tea-towel-100-cotton-limited"/>
+    <title>Fruit Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/fruit-tea-towel-100-cotton-limited.jpg?v=1621438725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span></p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2532772872277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2376240595029</id>
+    <published>2017-04-09T22:51:00-04:00</published>
+    <updated>2017-04-09T22:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/grey-and-white-tea-towel-100-cotton"/>
+    <title>Grey and White Tea Towel 100% Cotton **Limited</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-and-white-tea-towel-100-cotton-limited.jpg?v=1621438660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality, flat tea towel. </span>Tea Towels are white with a gorgeous grey print.</p>
+<p>100% Cotton with an inside hang loop.</p>
+<p>They are large at approx 50cm x 70cm. Customized these can retail for $10-15</p>
+<p><span>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2376240595029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1392479993909</id>
+    <published>2017-04-09T22:51:00-04:00</published>
+    <updated>2017-04-09T22:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-polyester"/>
+    <title>Tea Towel 100% POLYESTER</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tea-Towel-100-POLYESTER_682bc610-16d0-4893-a9bf-798c7296ea0e.jpg?v=1628871445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality polyester tea towel. </span>Tea Towels are white, 100% Polyester. Towels are packed individually. </p>
+<p>They are perfect for sublimation! </p>
+<p>They are large at 50cm x 70cm. </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1392479993909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9161517121</id>
+    <published>2017-04-09T22:51:00-04:00</published>
+    <updated>2017-04-09T22:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-cotton"/>
+    <title>Tea Towel 100% Cotton White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tea-Towel-100-Cotton-White_d3eda193-9ed7-40ca-9947-f0ebc6883878.jpg?v=1629303272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality, flat tea towel. </span>Tea Towels are white, 100% Cotton. Towels are packed individually. These get better with each wash. Very high quality, high thread count cotton. </p>
+<p>   <br>They will take fabric dye well. They love Siser HTV. They are perfect for screen printing! </p>
+<p>They are large at 50cm x 70cm. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9161517121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

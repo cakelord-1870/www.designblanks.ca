@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/blankets-quilts.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-03-26T22:04:01-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/2477355565141</id>
+    <published>2019-03-26T22:04:01-04:00</published>
+    <updated>2019-03-26T22:04:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/100-polyester-baby-receiving-blanket"/>
+    <title>100% Polyester Baby Swaddle Blanket</title>
+    <s:type></s:type>
+    <s:vendor>giraffe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/100-Polyester-Baby-Swaddle-Blanket_c301b4c6-851c-4ef5-a61c-57ca8c43489d.png?v=1629303367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>giraffe<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>30" x 40" Swaddle Baby Blanket or receiving blanket</span></p>
+<p><br><span>1 Ply Interlock Knit, 5.4 Oz. - 100% Polyester</span><br><strong>Color:</strong><span> White</span></p>
+<p><span>CPSIA compliant</span></p>
+<div class="attr">
+<div class="attr_key">Temperature 375F (190C)</div>
+</div>
+<div class="attr">
+<div class="attr_key">Time 35 secs</div>
+</div>
+<div class="attr">
+<div class="attr_key">Pressure Light</div>
+<div class="attr_key"></div>
+<div class="attr_key">This blanket is blank. The finished blanket is an example of a finished product. </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>receiving blanket</s:tag>
+    <s:tag>swaddle blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2477355565141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/296629600296</id>
+    <published>2017-11-23T17:24:10-05:00</published>
+    <updated>2017-11-23T17:24:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-baby-quilt-navy"/>
+    <title>Cotton Baby Quilt - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Cotton-Baby-Quilt-Navy_2e3330c1-5d6f-45f3-b099-7a776d197158.jpg?v=1628957786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous, soft 100% cotton baby quilts. <span>These have a lot of quilting and may not be well suited to </span>htv<span> personalization but wow! they are a beautiful boutique-quality baby quilt.</span></p>
+<p>Measuring 36inches x 46inches or 90cm x 115cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/296629600296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/296617246760</id>
+    <published>2017-11-23T17:24:03-05:00</published>
+    <updated>2017-11-23T17:24:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-baby-quilt-white-blue"/>
+    <title>Cotton Baby Quilt - White/Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Cotton-Baby-Quilt-WhiteBlue_00991c32-5fbe-4ed7-a36f-d203860787a0.jpg?v=1628957775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous, soft 100% cotton baby quilts. <span>These have a lot of quilting and may not be well suited to </span>htv<span> personalisation but wow! they are a beautiful boutique quality baby quilt.</span></p>
+<p>Measuring 36inches x 46inches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/296617246760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/296616984616</id>
+    <published>2017-11-23T17:24:01-05:00</published>
+    <updated>2017-11-23T17:24:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-baby-quilt-fushcia"/>
+    <title>Cotton Baby Quilt - Dark Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Cotton-Baby-Quilt-Dark-Pink_73589726-1d05-44dd-82f5-a3659cad0030.jpg?v=1628957740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous, soft 100% cotton baby quilts. <span>These have a lot of quilting and may not be well suited to </span>htv<span> personalisation but wow! they are a beautiful boutique quality baby quilt.</span></p>
+<p>Measuring 36inches x 46inches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/296616984616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/296616853544</id>
+    <published>2017-11-23T17:23:53-05:00</published>
+    <updated>2017-11-23T17:23:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-baby-quilt-teal"/>
+    <title>Cotton Baby Quilt - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Cotton-Baby-Quilt-Green_5bf5d21c-1c2d-46a5-bf54-b4a4f0878473.jpg?v=1628957718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous, soft 100% cotton baby quilts. <span>These have a lot of quilting and may not be well suited to </span>htv<span> personalisation but wow! they are a beautiful boutique quality baby quilt.</span></p>
+<p>Measuring 36inches x 46inches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/296616853544</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/296617181224</id>
+    <published>2017-11-23T17:23:47-05:00</published>
+    <updated>2017-11-23T17:23:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-baby-quilt-light-blue"/>
+    <title>Cotton Baby Quilt - Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Cotton-Baby-Quilt-Light-Blue_eff8c346-1cce-403b-89d9-e444c1e787a2.jpg?v=1628957751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous, soft 100% cotton baby quilts. <span>These have a lot of quilting and may not be well suited to </span>htv<span> personalisation but wow! they are a beautiful boutique quality baby quilt.</span></p>
+<p>Measuring 36inches x 46inches.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby blanket</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/296617181224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+</feed>

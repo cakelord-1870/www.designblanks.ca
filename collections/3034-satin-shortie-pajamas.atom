@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/3034-satin-shortie-pajamas.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-02-10T11:41:56-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4840937422933</id>
+    <published>2021-02-10T11:41:56-05:00</published>
+    <updated>2021-02-10T11:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-smoke-blue"/>
+    <title>Satin Short Pajamas 3034 Smoke Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Satin-Short-Pajamas-3034-Smoke-Blue_010f5417-cc14-4518-b54f-bf40989d86e9.jpg?v=1628785359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937422933</id>
+      <title>Smoke Blue / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937422933</id>
+      <title>Smoke Blue / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937422933</id>
+      <title>Smoke Blue / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937422933</id>
+      <title>Smoke Blue / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937422933</id>
+      <title>Smoke Blue / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4840937160789</id>
+    <published>2021-02-10T11:40:54-05:00</published>
+    <updated>2021-02-10T11:40:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-forest-green"/>
+    <title>Satin Short Pajamas 3034 Forest Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-forest-green.jpg?v=1621439626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937160789</id>
+      <title>Forest Green / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937160789</id>
+      <title>Forest Green / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937160789</id>
+      <title>Forest Green / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937160789</id>
+      <title>Forest Green / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4840937160789</id>
+      <title>Forest Green / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527618785365</id>
+    <published>2020-02-12T11:55:20-05:00</published>
+    <updated>2020-02-12T11:55:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-navy"/>
+    <title>Satin Short Pajamas 3034 NAVY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-navy.jpg?v=1621439085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527618785365</id>
+      <title>Navy / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527618785365</id>
+      <title>Navy / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527618785365</id>
+      <title>Navy / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527618785365</id>
+      <title>Navy / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527618785365</id>
+      <title>Navy / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527612362837</id>
+    <published>2020-02-12T11:47:39-05:00</published>
+    <updated>2020-02-12T11:47:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-dusty-rose"/>
+    <title>Satin Short Pajamas 3034 DUSTY ROSE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-dusty-rose.jpg?v=1621439084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527612362837</id>
+      <title>Dusty Rose / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527612362837</id>
+      <title>Dusty Rose / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527612362837</id>
+      <title>Dusty Rose / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527612362837</id>
+      <title>Dusty Rose / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527612362837</id>
+      <title>Dusty Rose / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527610986581</id>
+    <published>2020-02-12T11:47:05-05:00</published>
+    <updated>2020-02-12T11:47:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-burgundy"/>
+    <title>Satin Short Pajamas 3034 BURGUNDY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-burgundy.jpg?v=1621439081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527610986581</id>
+      <title>Burgundy / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527610986581</id>
+      <title>Burgundy / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527610986581</id>
+      <title>Burgundy / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527610986581</id>
+      <title>Burgundy / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527610986581</id>
+      <title>Burgundy / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527609675861</id>
+    <published>2020-02-12T11:46:30-05:00</published>
+    <updated>2020-02-12T11:46:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-nude"/>
+    <title>Satin Short Pajamas 3034 NUDE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-nude.jpg?v=1621439079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527609675861</id>
+      <title>Nude / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527609675861</id>
+      <title>Nude / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527609675861</id>
+      <title>Nude / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527609675861</id>
+      <title>Nude / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527609675861</id>
+      <title>Nude / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527608528981</id>
+    <published>2020-02-12T11:46:06-05:00</published>
+    <updated>2020-02-12T11:46:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-white"/>
+    <title>Satin Short Pajamas 3034 WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-white.jpg?v=1621439077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527608528981</id>
+      <title>White / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527608528981</id>
+      <title>White / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527608528981</id>
+      <title>White / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527608528981</id>
+      <title>White / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527608528981</id>
+      <title>White / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527607021653</id>
+    <published>2020-02-12T11:45:27-05:00</published>
+    <updated>2020-02-12T11:45:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-short-pajamas-3034-blush"/>
+    <title>Satin Short Pajamas 3034 BLUSH</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-short-pajamas-3034-blush.jpg?v=1621439074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Satin Short Pajamas perfect for gifts or matching wedding party pjs for the night before the wedding.</span></p>
+<p><span>Lightweight and comfortable. 100% polyester</span></p>
+<p><span>These come in 5 different colours : Navy, White, Nude, Blush, burgundy</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1669/2063/files/big-Short_PJS_Size_Chart_large.png?v=1566856870" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527607021653</id>
+      <title>Blush / Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527607021653</id>
+      <title>Blush / Medium</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527607021653</id>
+      <title>Blush / Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527607021653</id>
+      <title>Blush / XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527607021653</id>
+      <title>Blush / XXL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+</feed>

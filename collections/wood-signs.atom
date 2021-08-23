@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/wood-signs.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-13T16:41:46-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6602723000405</id>
+    <published>2021-07-13T16:41:46-04:00</published>
+    <updated>2021-07-13T16:41:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-panel-sign-6-x-12"/>
+    <title>Simple Panel Sign 6 X 12</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-panel-sign-6-x-12.jpg?v=1626279327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for little sign-making projects. Our most affordable option. So many possibilities. Both sides can be used.</p>
+<p>Measuring approx. 6 x 12 inches square<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6602723000405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6602721656917</id>
+    <published>2021-07-13T16:34:42-04:00</published>
+    <updated>2021-07-13T16:34:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-panel-sign-4-5-x-4-5"/>
+    <title>Simple Panel Sign 4.5 X 4.5</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-panel-sign-45-x-45.jpg?v=1626279323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for little sign-making projects. Our most affordable option. So many possibilities. Both sides can be used.</p>
+<p>Measuring 4.5 x 4.5 inches square<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6602721656917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6602695376981</id>
+    <published>2021-07-13T16:02:48-04:00</published>
+    <updated>2021-07-13T16:02:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/rustic-handcrafted-box-signs"/>
+    <title>Rustic Handcrafted Box Signs - 2pcs (12 X 18 and 8 X 10)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rustic-handcrafted-box-signs-2pcs-12-x-18-and-8-x-10.jpg?v=1626279313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These rustic signs are finished and ready for your design! Support Canadian Small Business.</span></p>
+<p><span>One 12 X 16 and one 8 X 10 - walnut frame with blackboard finish.</span></p>
+<p>Perfect for sign-making projects. Custom made in Canada</p>
+<p>**PLEASE NOTE** - These are handmade signs, these are rustic by design. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made in Canada</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6602695376981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>3750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594197160021</id>
+    <published>2021-06-23T13:28:05-04:00</published>
+    <updated>2021-06-23T13:28:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/blaze-gel-wood-burning-gel"/>
+    <title>Blaze Gel - Wood Burning Gel</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Blaze-Gel-Wood-Burning-Gel_0860c6d7-1a79-41ac-b617-6df5b0bb374b.jpg?v=1628871874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00 - 36.00
+            <a href="https://www.designblanks.ca/products/blaze-gel-wood-burning-gel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blaze Gel - Wood Burning Compound</p>
+<p>Open up your options by adding wood burning to your resume.</p>
+<p>All of the instructions are included but it's a simple add water and stir recipe. Apply to your wood project over your desired stencil (or freehand your design with a paintbrush), let dry, apply heat using a heat gun. Ta-da! Admire your results.</p>
+<p>25gm size makes more than 5.5oz of gel</p>
+<p>50gm size makes more than 11oz of gel</p>
+<p>Made in Canada</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>torch paste</s:tag>
+    <s:tag>wood burning paste</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594197160021</id>
+      <title>Regular 25gm</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594197160021</id>
+      <title>XL 50gm</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6580453769301</id>
+    <published>2021-05-17T14:01:58-04:00</published>
+    <updated>2021-05-17T14:01:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/small-keepsake-shadow-box"/>
+    <title>Small Keepsake Shadow Box</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/small-keepsake-shadow-box.jpg?v=1621439646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A small keepsake shadow box. The top lifts off. You can cut a small slot into the top to make into a savings bank for loonies and/or twoonies! <span data-mce-fragment="1">The cork base is perfect for pinning your favorite pics, messages, tickets, and other keepsakes. </span></p>
+<p>Unfinished wood for you to customize and decorate <span data-mce-fragment="1">with paint, stains, decoupage, embellishments, and more.</span></p>
+<p>Measures approx 6.4 x 4.25 x 2 inches in size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6580453769301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6575899246677</id>
+    <published>2021-05-04T12:46:13-04:00</published>
+    <updated>2021-05-04T12:46:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/natural-birch-wood-slice-large-13-15cm-1pc"/>
+    <title>Natural Birch Wood Slice - Large 13-15cm -1pc pack L</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-birch-wood-slice-large-13-15cm-1pc-pack-l.jpg?v=1620246046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural birchwood wood slices add a rustic touch! Approximately 13-15cm in size. Perfect for ornaments or craft projects.</p>
+<p>One slice per package</p>
+<p>*Please be aware that natural wood slices do have imperfections. from knots to loose bark to cracks. This is part of their rustic charm. They are not perfect circle shapes either.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6575899246677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4842873159765</id>
+    <published>2021-02-18T15:08:33-05:00</published>
+    <updated>2021-02-18T15:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/diy-paint-pots-pack-of-2-6-pot-strips-5ml-size"/>
+    <title>DIY Paint Pots -Pack of 2 - 6 Pot Strips 5ml Size</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/diy-paint-pots-pack-of-2-6-pot-strips-5ml-size.jpg?v=1620245510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Paint pots are great for keeping paints mess-free while working on a masterpiece. The clear cap lets you see which color of paint you have stored in each pot. Flip open lids for easy accessibility. </span></p>
+<p><span data-mce-fragment="1">Perfect for your DIY craft kits!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842873159765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834578694229</id>
+    <published>2021-01-20T12:38:03-05:00</published>
+    <updated>2021-01-20T12:38:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tic-tac-toe"/>
+    <title>Tic Tac Toe</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/tic-tac-toe.jpg?v=1620244886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This 10pc Tic Tac Toe set is sure to please kids and adults alike. Decorate with paint, stains, decoupage, embellishments, and more, or use unfinished for hours of fun.</span></p>
+<p><span data-mce-fragment="1">Makes a perfect DIY set to sell as-is with paints!</span></p>
+<p><span>10x10x1.1"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834578694229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799239127125</id>
+    <published>2020-11-01T18:23:24-05:00</published>
+    <updated>2020-11-01T18:23:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/holiday-diy-laser-cut-word-set-8cm-6pcs-holiday-words"/>
+    <title>HOLIDAY DIY Laser-Cut MDF Word Set 8cm - 6pcs HOLIDAY WORDS</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/holiday-diy-laser-cut-mdf-word-set-8cm-6pcs-holiday-words.jpg?v=1621439611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Fully customizable, DIY Laser-Cut Words are crafted from unfinished wood that's waiting to be decorated with paint, stain, embellishments, and more.</span></p>
+<p><span data-mce-fragment="1">6pcs - Approx 8cm. One of each believe, hohoho, let it snow, noel, merry, Christmas.</span></p>
+<p><span data-mce-fragment="1">Approx 5mm thick</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799239127125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799233622101</id>
+    <published>2020-11-01T17:54:02-05:00</published>
+    <updated>2020-11-01T17:54:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/diy-laser-cut-word-set-8cm-6pcs"/>
+    <title>DIY Laser-Cut MDF Word Set 8cm - 6pcs</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/diy-laser-cut-mdf-word-set-8cm-6pcs.jpg?v=1621439609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Fully customizable, DIY Laser-Cut Words are crafted from unfinished wood that's waiting to be decorated with paint, stain, embellishments, and more.</span></p>
+<p><span data-mce-fragment="1">6pcs - Approx 8cm. One of each laugh, home, live, family, believe, love.</span></p>
+<p><span data-mce-fragment="1">Approx 5mm thick</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799233622101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799227723861</id>
+    <published>2020-11-01T17:34:15-05:00</published>
+    <updated>2020-11-01T17:34:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-14"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 14&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Wood-Embroidery-Hoop-wBrass-Clamp-14_7e895821-5ea0-45b4-8995-078623a57930.jpg?v=1629303436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">14" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799227723861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799222939733</id>
+    <published>2020-11-01T17:10:46-05:00</published>
+    <updated>2020-11-01T17:10:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-12"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 12&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-12.jpg?v=1620244675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">12" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799222939733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799219073109</id>
+    <published>2020-11-01T16:49:46-05:00</published>
+    <updated>2020-11-01T16:49:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-10"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 10&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-10.jpg?v=1620244667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">10" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799219073109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799217598549</id>
+    <published>2020-11-01T16:41:52-05:00</published>
+    <updated>2020-11-01T16:41:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-8"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 8&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-8.jpg?v=1620244658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">8" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799217598549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799216549973</id>
+    <published>2020-11-01T16:37:17-05:00</published>
+    <updated>2020-11-01T16:37:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-6"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 6&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-6.jpg?v=1620244650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">6" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799216549973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799215992917</id>
+    <published>2020-11-01T16:34:05-05:00</published>
+    <updated>2020-11-01T16:34:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-4"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-4.jpg?v=1620244641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">4" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799215992917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799213797461</id>
+    <published>2020-11-01T16:25:19-05:00</published>
+    <updated>2020-11-01T16:25:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-panel-sign-8-x-10"/>
+    <title>Simple Panel Sign 8 x 10</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Simple-Panel-Sign-8-x-10_124f90ab-07a0-4dde-bd47-c7286f14a6ee.jpg?v=1628871787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. Our most affordable option. So many possibilities. Both sides can be used.</p>
+<p>Measuring approx 8 x 10 inches square<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799213797461</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799208423509</id>
+    <published>2020-11-01T15:59:12-05:00</published>
+    <updated>2020-11-01T15:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/natural-birch-wood-slice-large-9cm-1pc"/>
+    <title>Natural Birch Wood Slice - Large 9cm -1pc pack M</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-birch-wood-slice-large-9cm-1pc-pack-m.jpg?v=1620244611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural birchwood wood slices. Approximately 9cm in size. Perfect for ornaments or craft projects.</p>
+<p>One slice per package</p>
+<p><span>*Please be aware that natural wood slices do have imperfections. from knots to loose bark to cracks. This is part of their rustic charm. They are not perfect circle shapes either.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799208423509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4755321421909</id>
+    <published>2020-08-29T11:49:20-04:00</published>
+    <updated>2020-08-29T11:49:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/hexagon-chalkboard"/>
+    <title>Hexagon Chalkboard 10-inch</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/hexagon-chalkboard-10-inch.jpg?v=1620244321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making or chalk paste projects.  A nice solid hexagon chalkboard. So many possibilities!</p>
+<p>This one shines as a Santa please stop here board.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4755321421909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4691268894805</id>
+    <published>2020-06-05T12:03:30-04:00</published>
+    <updated>2020-06-05T12:03:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mount-canvas-panel-10-4-x-12-4-inches"/>
+    <title>Wood Frame Mount Canvas Panel: 10.3 x 12.3 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-frame-mount-canvas-panel-103-x-123-inches.jpg?v=1621439482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>This hard canvas can be removed from the frame, paint the frame, and design your canvas then secure them together!</span></p>
+<p>Measuring Approx 10.3 x 12.3  inches including the frame, canvas measures 8 x 10 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4691268894805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4691268075605</id>
+    <published>2020-06-05T12:01:27-04:00</published>
+    <updated>2020-06-05T12:01:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mount-canvas-panel-11-4-x-14-4-inches"/>
+    <title>Wood Frame Mount Canvas Panel: 11.4 x 14.4 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-frame-mount-canvas-panel-114-x-144-inches.jpg?v=1621439480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>This hard canvas can be removed from the frame, paint the frame, and design your canvas then secure them together!</span></p>
+<p>Measuring 11.4 x 14.4  inches including the frame, canvas measures 9 x 12 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4691268075605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4688798842965</id>
+    <published>2020-06-03T18:11:16-04:00</published>
+    <updated>2020-06-03T18:11:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mounted-canvas-panel-8-3-x-10-2-inches"/>
+    <title>Beveled Wood Frame Mounted Canvas Panel: 8.3 x 10.2 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/beveled-wood-frame-mounted-canvas-panel-83-x-102-inches.jpg?v=1621439479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>This hard canvas can be removed from the frame, paint the frame, and design your canvas then secure them together!</span></p>
+<p>Measuring 8..3 x 10.2 inches including the frame, canvas measures 5 x 7 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4688798842965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4688795566165</id>
+    <published>2020-06-03T18:08:28-04:00</published>
+    <updated>2020-06-03T18:08:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mounted-canvas-panel-9-x-12-2-inches"/>
+    <title>Beveled Wood Frame Mounted Canvas Panel: 9 x 12.2 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/beveled-wood-frame-mounted-canvas-panel-9-x-122-inches.png?v=1621439477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>The canvas can be removed from the frame, paint the frame and design your canvas then secure them together!</span></p>
+<p>Measuring 9 x 12 inches including the frame, canvas measures 6 x 9 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4688795566165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>710</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4688793272405</id>
+    <published>2020-06-03T18:02:42-04:00</published>
+    <updated>2020-06-03T18:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mounted-canvas-panel-11-x-15-inches"/>
+    <title>Beveled Wood Frame Mounted Canvas Panel: 11 x 15 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/beveled-wood-frame-mounted-canvas-panel-11-x-15-inches.jpg?v=1621439475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>The canvas can be removed from the frame, paint the frame and design your canvas then secure them together!</span></p>
+<p>Measuring 11 x 15 inches including the frame, canvas measures 8 x 12 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4688793272405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4688788619349</id>
+    <published>2020-06-03T17:52:19-04:00</published>
+    <updated>2020-06-03T17:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-frame-mounted-canvas-panel-13-x-17-3-inches"/>
+    <title>Beveled Wood Frame Mounted Canvas Panel: 13 x 17.3 Inches</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/beveled-wood-frame-mounted-canvas-panel-13-x-173-inches.jpg?v=1621439473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sign making projects. <span>Create a custom masterpiece with this Artist Quality Canvas. 100% Cotton, triple primed, and great for all mediums. Wood mounted and ready to display!</span></p>
+<p><span>The canvas can be removed from the frame, paint the frame and design your canvas then secure them together!</span></p>
+<p>Measuring 13 x 17.3 inches including the frame, canvas measures 10 x 14 inches<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4688788619349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

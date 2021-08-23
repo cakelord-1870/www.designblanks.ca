@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/shirts-sweaters.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-06-15T11:45:10-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4842877976661</id>
+    <published>2021-06-15T11:45:10-04:00</published>
+    <updated>2021-06-15T11:45:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ladies-pocket-tights"/>
+    <title>Ladies Pocket Leggings</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ladies-pocket-leggings.jpg?v=1623860228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Microfibre leggings with side pockets! POCKETS! These do not offer any compression. They are lightweight. These are just a nice soft and comfy pair of tights. </p>
+<p>Made for the American boutique market we find that these fit quite generously. </p>
+<p>Polyester 92% Spandex 8%</p>
+<p>Available in Black, Navy, Plum (we included a pic of the light pink as it's easier to see details on a lighter colour, we did not order the light pink colour)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Regular 4-12 / Black</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Regular 4-12 / Plum</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Regular 4-12 / Navy</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus 14-20 / Black</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus 14-20 / Plum</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus 14-20 / Navy</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus-Plus 22-28 / Black</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus-Plus 22-28 / Plum</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4842877976661</id>
+      <title>Plus-Plus 22-28 / Navy</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4757073625173</id>
+    <published>2020-09-01T17:31:59-04:00</published>
+    <updated>2020-09-01T17:31:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tie-dye-romper"/>
+    <title>Tie Dye Romper</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tie-Dye-Romper_2dabc158-084d-4dc9-a7be-4cb455b89578.png?v=1628785326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>**This item is a bright blue as pictured in the mannequin picture. The professional photos show it as a duller blue than it is**</p>
+<p>Stretchy, comfy and delightful! Meet our buttery soft and stretchy romper. This romper features pockets and adjustable straps. Super flattering on all shapes and sizes. I am a standard size large and this fit me perfectly in a large. The fit was loose and comfortable. I love tying the small knots in the bottom of the legs to draw them in a bit. </p>
+<p>Fit - True to size or generous the size chart is pictured.</p>
+<p>The photos are model shots of our actual romper. The model is 5'8" and wearing a Medium. Her normal size is an 8.</p>
+<p><span>Fabric : 30% polyester  65% cotton  5% spandex</span></p>
+<p><span>MSRP is 70$ or up depending on your market. </span></p>
+<p style="text-align: left;"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4757073625173</id>
+      <title>Small</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4757073625173</id>
+      <title>Medium</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4757073625173</id>
+      <title>Large</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4757073625173</id>
+      <title>XL</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4757073625173</id>
+      <title>2XL</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4747467653205</id>
+    <published>2020-08-15T11:28:57-04:00</published>
+    <updated>2020-08-15T11:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/flora-lounge-pant-flamingo"/>
+    <title>Flora Lounge Pant - Flamingo</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/flora-lounge-pant-flamingo.png?v=1620244109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretchy, comfy and delightful! Long, wide bottom lounge pants. They feature a wide, soft and stretchy waistband with a drawstring. They do not have pockets. I think that these will be super cute with flip-flops. I am a standard size large and these fit me perfectly in a large. The fit was loose and comfortable. The Flora Lounge Pant feels like the next best thing to wearing no pants at all! </p>
+<p>Fit - True to size or generous </p>
+<p>The photos are model shots of our actual pants. Model is 5'6" and wearing a Medium.</p>
+<p><span>Fabric : 75% polyester  20% cotton  5% spandex</span></p>
+<p><span>Inseam :  </span><span>S- 30.9''  M- 31.1"  L- 31.2"  XL- 31.4"  2XL- 31.6"   3XL- 31.8"</span></p>
+<p style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/1669/2063/files/42549791_273233269973188_2301960307238502400_n_1_large.jpg?v=1549133801" style="float: none;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4747467653205</id>
+      <title>Large</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4747467653205</id>
+      <title>3XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4747458117717</id>
+    <published>2020-08-15T11:05:11-04:00</published>
+    <updated>2020-08-15T11:05:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/flora-lounge-pant-cheetah"/>
+    <title>Flora Lounge Pant - Cheetah</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/flora-lounge-pant-cheetah.png?v=1620244104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretchy, comfy and delightful! Long, wide bottom lounge pants. They feature a wide, soft and stretchy waistband with a drawstring. They do not have pockets. I think that these will be super cute with flip-flops. I am a standard size large and these fit me perfectly in a large. The fit was loose and comfortable. The Flora Lounge Pant feels like the next best thing to wearing no pants at all! </p>
+<p>Fit - True to size or generous </p>
+<p>The photos are model shots of our actual pants. Model is 5'6" and wearing a Medium.</p>
+<p><span>Fabric : 75% polyester  20% cotton  5% spandex</span></p>
+<p><span>Inseam :  </span><span>S- 30.9''  M- 31.1"  L- 31.2"  XL- 31.4"  2XL- 31.6"   3XL- 31.8"</span></p>
+<p style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/1669/2063/files/42549791_273233269973188_2301960307238502400_n_1_large.jpg?v=1549133801" style="float: none;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4747458117717</id>
+      <title>Small</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4747458117717</id>
+      <title>3XL</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2688726466645</id>
+    <published>2019-08-09T10:20:39-04:00</published>
+    <updated>2019-08-09T10:20:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/floral-maxi-tank-with-pockets"/>
+    <title>The Keaton - Floral Maxi Tank with Pockets **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-keaton-floral-maxi-tank-with-pockets-limited.jpg?v=1621438828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00 - 22.50
+            <a href="https://www.designblanks.ca/products/floral-maxi-tank-with-pockets">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Available in ladies and Childrens sizes. Our floral maxi features a solid tank-style top with a high elastic gathered waistline. A full floral skirt with slit pockets on each side.</p>
+<p>Our adult model is 5'6" and 140lbs wearing a medium. OUr child model is wearing a children's large (5-6)</p>
+<p>These dresses fit true to size or generous. </p>
+<p>Jersey feel - <span>75% polyester,20% cotton,5% spandex</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-XS</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-S</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-M</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-L</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-2XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Kids-3XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-S</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-M</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-L</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-XL</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-2XL</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2688726466645</id>
+      <title>Adult-3XL</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2601692889173</id>
+    <published>2019-06-09T11:41:41-04:00</published>
+    <updated>2019-06-09T11:41:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stripe-sleeveless-sundress"/>
+    <title>Rainbow Stripe Sleeveless Sundress</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rainbow-stripe-sleeveless-sundress.jpg?v=1621438789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fits true to size or generous. Cotton/poly blend.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2601692889173</id>
+      <title>Small</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2601692889173</id>
+      <title>Medium</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2601692889173</id>
+      <title>Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2601692889173</id>
+      <title>XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2601692889173</id>
+      <title>3XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2580939833429</id>
+    <published>2019-05-25T22:16:20-04:00</published>
+    <updated>2019-05-25T22:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/racer-back-sundress-with-pockets-cranberry"/>
+    <title>Racer Back Sundress with Pockets - Cranberry</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/racer-back-sundress-with-pockets-cranberry.jpg?v=1621438769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton/poly blend. Super soft with a slight scallop bottom.</p>
+<p>We have heard that these fit true to size but a close snug fit in the chest if you are busty. If you want a looser fit, size up.</p>
+<p>Small - bust 86cm, length 92cm, shoulder 32cm</p>
+<p>Medium - bust 92, length 94cm, shoulder 33cm</p>
+<p>Large - bust 98cm, length 96cm, shoulder 34cm</p>
+<p>XL - bust 104cm, length 98cm, shoulder 35cm</p>
+<p>XXL - bistro 110cm, length 100cm, shoulder 36cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580939833429</id>
+      <title>Small</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580939833429</id>
+      <title>Medium</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2580937506901</id>
+    <published>2019-05-25T22:13:42-04:00</published>
+    <updated>2019-05-25T22:13:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/racer-back-sundress-with-pockets-royal-blue"/>
+    <title>Racer Back Sundress with Pockets - Royal Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/racer-back-sundress-with-pockets-royal-blue.jpg?v=1621438767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton/poly blend. Super soft with a slight scallop bottom.</p>
+<p>We have heard that these fit true to size but a close snug fit in the chest if you are busty. If you want a looser fit, size up.</p>
+<p>Small - bust 86cm, length 92cm, shoulder 32cm</p>
+<p>Medium - bust 92, length 94cm, shoulder 33cm</p>
+<p>Large - bust 98cm, length 96cm, shoulder 34cm</p>
+<p>XL - bust 104cm, length 98cm, shoulder 35cm</p>
+<p>XXL - bistro 110cm, length 100cm, shoulder 36cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580937506901</id>
+      <title>Small</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580937506901</id>
+      <title>Medium</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580937506901</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580937506901</id>
+      <title>2XL</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2580933476437</id>
+    <published>2019-05-25T22:10:00-04:00</published>
+    <updated>2019-05-25T22:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/racer-back-sundress-with-pockets-black"/>
+    <title>Racer Back Sundress with Pockets - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/racer-back-sundress-with-pockets-black.jpg?v=1621438765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton/poly blend. Super soft with a slight scallop bottom.</p>
+<p>We have heard that these fit true to size but a close snug fit in the chest if you are busty. If you want a looser fit, size up.</p>
+<p>Small - bust 86cm, length 92cm, shoulder 32cm</p>
+<p>Medium - bust 92, length 94cm, shoulder 33cm</p>
+<p>Large - bust 98cm, length 96cm, shoulder 34cm</p>
+<p>XL - bust 104cm, length 98cm, shoulder 35cm</p>
+<p>XXL - bistro 110cm, length 100cm, shoulder 36cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580933476437</id>
+      <title>Small</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2580929871957</id>
+    <published>2019-05-25T22:06:42-04:00</published>
+    <updated>2019-05-25T22:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/racer-back-sundress-with-pockets-navy"/>
+    <title>Racer Back Sundress with Pockets - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/racer-back-sundress-with-pockets-navy.jpg?v=1621438763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton/poly blend. Super soft with a slight scallop bottom.</p>
+<p>We have heard that these fit true to size but a close snug fit in the chest if you are busty. If you want a looser fit, size up.</p>
+<p>Small - bust 86cm, length 92cm, shoulder 32cm</p>
+<p>Medium - bust 92, length 94cm, shoulder 33cm</p>
+<p>Large - bust 98cm, length 96cm, shoulder 34cm</p>
+<p>XL - bust 104cm, length 98cm, shoulder 35cm</p>
+<p>XXL - bistro 110cm, length 100cm, shoulder 36cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580929871957</id>
+      <title>Small</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580929871957</id>
+      <title>Medium</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2580845723733</id>
+    <published>2019-05-25T20:59:27-04:00</published>
+    <updated>2019-05-25T20:59:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tank-style-sundress-with-pockets-coral"/>
+    <title>Racer Back Sundress with Pockets - Coral</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/racer-back-sundress-with-pockets-coral.jpg?v=1621438761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton/poly blend. Super soft with a slight scallop bottom.</p>
+<p>We have heard that these fit true to size but a close snug fit in the chest if you are busty. If you want a looser fit, size up.</p>
+<p>Small - bust 86cm, length 92cm, shoulder 32cm</p>
+<p>Medium - bust 92, length 94cm, shoulder 33cm</p>
+<p>Large - bust 98cm, length 96cm, shoulder 34cm</p>
+<p>XL - bust 104cm, length 98cm, shoulder 35cm</p>
+<p>XXL - bistro 110cm, length 100cm, shoulder 36cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580845723733</id>
+      <title>Small</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580845723733</id>
+      <title>Medium</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580845723733</id>
+      <title>Large</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580845723733</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2580845723733</id>
+      <title>2XL</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

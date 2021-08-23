@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/bracelets.atom"/>
+  <title>Design Blanks</title>
+  <updated>2017-11-21T17:24:49-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/293539676200</id>
+    <published>2017-11-21T17:24:49-05:00</published>
+    <updated>2017-11-21T17:24:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-sequin-bracelet-rainbow-silver"/>
+    <title>Superhero Wrist Wrap or Mermaid Sequin Bracelet - Rainbow/Silver</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/superhero-wrist-wrap-or-mermaid-sequin-bracelet-rainbowsilver.jpg?v=1621437946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flipping sequins with a velcro closure and a soft velvet back. Approximately 20cm x 5cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mermaid bracelet</s:tag>
+    <s:tag>sequin bracelet</s:tag>
+    <s:tag>sublimation bracelet</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/293539676200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/293535023144</id>
+    <published>2017-11-21T17:24:47-05:00</published>
+    <updated>2017-11-21T17:24:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-sequin-bracelet-navy-silver"/>
+    <title>Superhero Wrist Wrap or Mermaid Sequin Bracelet - Navy/Silver</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/superhero-wrist-wrap-or-mermaid-sequin-bracelet-navysilver.jpg?v=1621437944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flipping sequins with a velcro closure and a soft velvet back. Approximately 20cm x 5cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mermaid bracelet</s:tag>
+    <s:tag>sequin bracelet</s:tag>
+    <s:tag>sublimation bracelet</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/293535023144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/293534466088</id>
+    <published>2017-11-21T17:24:45-05:00</published>
+    <updated>2017-11-21T17:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-sequin-bracelet-silver-white"/>
+    <title>Superhero Wrist Wrap or Mermaid Sequin Bracelet - Silver/White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/superhero-wrist-wrap-or-mermaid-sequin-bracelet-silverwhite.jpg?v=1621437942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flipping sequins with a velcro closure and a soft velvet back. Approximately 20cm x 5cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mermaid bracelet</s:tag>
+    <s:tag>sequin bracelet</s:tag>
+    <s:tag>sublimation bracelet</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/293534466088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/293524602920</id>
+    <published>2017-11-21T17:24:43-05:00</published>
+    <updated>2017-11-21T17:24:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-sequin-bracelet-pink-carbon"/>
+    <title>Superhero Wrist Wrap or Mermaid Sequin Bracelet - Pink/Carbon</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/superhero-wrist-wrap-or-mermaid-sequin-bracelet-pinkcarbon.jpg?v=1621437940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flipping sequins with a velcro closure and a soft velvet back. Approximately 20cm x 5cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mermaid bracelet</s:tag>
+    <s:tag>sequin bracelet</s:tag>
+    <s:tag>sublimation bracelet</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/293524602920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/292184588328</id>
+    <published>2017-11-20T22:20:42-05:00</published>
+    <updated>2017-11-20T22:20:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-sequin-bracelet-rose-gold-white"/>
+    <title>Superhero Wrist Wrap or Mermaid Sequin Bracelet - Rose Gold/White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/superhero-wrist-wrap-or-mermaid-sequin-bracelet-rose-goldwhite.jpg?v=1621437939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flipping sequins with a velcro closure and a soft velvet back. Approximately 20cm x 5cm.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mermaid bracelet</s:tag>
+    <s:tag>sequin bracelet</s:tag>
+    <s:tag>sublimation bracelet</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/292184588328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/tote-bags.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-03-12T15:52:55-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6544801661013</id>
+    <published>2021-03-12T15:52:55-05:00</published>
+    <updated>2021-03-12T15:52:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-small-zipper-bag"/>
+    <title>Glitter Bottom Small Zipper Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-small-zipper-bag.jpg?v=1620245700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>The perfect makeup bag.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p> Measuring approx - 8.5 x 5.5 inches or 21.5 x 13.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Green</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Platinum</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Deep Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Light Pinky</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6544800514133</id>
+    <published>2021-03-05T18:45:48-05:00</published>
+    <updated>2021-03-05T18:45:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-deep-blue"/>
+    <title>Glitter Bottom Cotton Tote - Deep Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-deep-blue.jpg?v=1620245652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p> Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544800514133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4657252565077</id>
+    <published>2020-05-20T16:30:26-04:00</published>
+    <updated>2020-05-20T16:30:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/budget-canvas-tote"/>
+    <title>Budget Canvas Tote</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/budget-canvas-tote.jpg?v=1621439435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A budget tote option. Smaller than our usual totes but a good option for fundraisers, loot or gift bags, large bulk orders or other DIY craft projects to keep costs low.</span></p>
+<p><span>Made of lightweight canvas material, these Canvas Bags can be personalized with paint, markers, embellishments, HTV, and more.</span></p>
+<p><span>11.5"x12.3"x1.75" </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657252565077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174064943189</id>
+    <published>2019-10-01T08:38:13-04:00</published>
+    <updated>2019-10-01T08:38:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-green"/>
+    <title>Glitter Bottom Cotton Tote - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-green.jpg?v=1620240170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas with a glittered bottom.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p>Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174064943189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174064812117</id>
+    <published>2019-10-01T08:37:56-04:00</published>
+    <updated>2019-10-01T08:37:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-red"/>
+    <title>Glitter Bottom Cotton Tote - Red</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-red.jpg?v=1620240161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p>Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174064812117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174064746581</id>
+    <published>2019-10-01T08:37:44-04:00</published>
+    <updated>2019-10-01T08:37:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-light-blue"/>
+    <title>Glitter Bottom Cotton Tote - Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-light-blue.jpg?v=1620240151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p>Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174064746581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174064648277</id>
+    <published>2019-10-01T08:37:30-04:00</published>
+    <updated>2019-10-01T08:37:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-platinum"/>
+    <title>Glitter Bottom Cotton Tote - Platinum</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-platinum.jpg?v=1620240141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p>Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174064648277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174064549973</id>
+    <published>2019-10-01T08:37:17-04:00</published>
+    <updated>2019-10-01T08:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-rose-gold"/>
+    <title>Glitter Bottom Cotton Tote - Rose Gold</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-rose-gold.jpg?v=1620240132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p>Approx measurements<br><br>37 cm wide x 37 cm high with a 40cm handle drop <br><br>13.5 inches wide x 15 inches high with an 18 inch handle drop</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174064549973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174061895765</id>
+    <published>2019-10-01T08:35:48-04:00</published>
+    <updated>2019-10-01T08:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-tote-pink"/>
+    <title>Glitter Bottom Cotton Tote - Pinky</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-cotton-tote-pinky.jpg?v=1620240123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p> Approx measurements</p>
+<p>37 cm wide x 37 cm high with a 40cm handle drop </p>
+<p>13.5 inches wide x 15 inches high with an 18 inch handle drop</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174061895765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4172997165141</id>
+    <published>2019-09-30T18:02:38-04:00</published>
+    <updated>2019-09-30T18:02:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tote-bags-polyester"/>
+    <title>Tote Bags - 100% Polyester</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tote-Bags-100-Polyester_61d04fbe-11f7-4dcc-bbb6-fc12ef04c130.jpg?v=1629389689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tote bag with a gusset bottom. Perfect for sublimation but beware they will smoke as you press them.</p>
+<p>Tote bags are 100% polyester. These are a bright white colour.</p>
+<p>They are high quality and measure approx 13.5  x  15.5 inches with a 3.75-inch gusset button.</p>
+<p>30x40x10cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sub tote</s:tag>
+    <s:tag>sublimation tote</s:tag>
+    <s:tag>tote</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4172997165141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2528087867477</id>
+    <published>2019-07-04T15:48:24-04:00</published>
+    <updated>2019-07-04T15:48:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-totes"/>
+    <title>Tote Bags - HEAVYWEIGHT Cotton Blend</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tote-Bags-HEAVYWEIGHT-Cotton-Blend_4ea32281-0649-4492-8fe2-37a650f6bd05.jpg?v=1629303375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tote bag with gusset bottom. </p>
+<p>Tote bags are a cotton/poly blend. These are a bright white colour.</p>
+<p>They will take htv very well.</p>
+<p>They are a high quality and measure approx 30 x 40cm with a 10cm gusset button. 2 handles 2.5 x 52cm. Approx 14 x 15 with a 4 inch gusset</p>
+<p>The fabric is a heavyweight fabric. </p>
+<p>30x40x10cm</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sub tote</s:tag>
+    <s:tag>sublimation tote</s:tag>
+    <s:tag>tote</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2528087867477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/281219661864</id>
+    <published>2017-06-14T19:39:49-04:00</published>
+    <updated>2017-06-14T19:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-drawstring-backpack-100-cotton-2-colours"/>
+    <title>Drawstring Backpack 100% Cotton - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/drawstring-backpack-100-cotton-black.jpg?v=1621437915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight cotton drawstring backpack. The perfect gym bag or book bag. I love that you can just toss these in the wash. So heavy duty compared to the nylon bags of the same style that often can't stand up to regular use without popping seams.</p>
+<p>Bag measures 35cmx43cm or 14x17inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/281219661864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9699637313</id>
+    <published>2017-06-14T19:39:49-04:00</published>
+    <updated>2017-06-14T19:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/drawstring-backpack-100-cotton"/>
+    <title>Drawstring Backpack 100% Cotton - Unbleached</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/drawstring-backpack-100-cotton-unbleached.jpg?v=1621437789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight cotton drawstring backpack. The perfect gym bag or book bag. I love that you can just toss these in the wash. So heavy duty compared to the nylon bags of the same style that often can't stand up to regular use without popping seams.</p>
+<p><span>Bag measures 35cmx43cm or 14x17inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9699637313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9450888769</id>
+    <published>2017-05-16T11:14:15-04:00</published>
+    <updated>2017-05-16T11:14:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/beach-bags"/>
+    <title>Beach Bag Tote</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Beach-Bag-Tote_29b9a516-f28f-4d16-ab21-bc6bd69e7d1b.jpg?v=1629303298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95 - 23.90
+            <a href="https://www.designblanks.ca/products/beach-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Super cute beach bags in 3 colours.</p>
+<p>These have a 'faux jute' look but are a polyester fibre. The bags have a poly/nylon lining throughout the whole inside. The lining is off-white in colour. It is not waterproof.</p>
+<p>They have no pockets inside or outside. They are an open beach bag. They have a firm bottom (haha, I said firm bottom)</p>
+<p>approx 50cm wide by 56cm high with a 15cm gusseted bottom.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9450888769</id>
+      <title>Soft Mint</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9450888769</id>
+      <title>Berry Pink</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9450888769</id>
+      <title>Navy</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9450888769</id>
+      <title>One of each colour! SAVE 20%</title>
+      <s:price currency="CAD">23.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9201248705</id>
+    <published>2017-04-17T12:46:39-04:00</published>
+    <updated>2017-04-17T12:46:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tote-bags-100-natural-cotton"/>
+    <title>Tote Bags - LIGHTWEIGHT 100% Natural Cotton</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tote-Bags-LIGHTWEIGHT-100-Natural-Cotton_d4506e22-8ba2-42f2-bed7-06b68858d717.jpg?v=1628871310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tote bag with a gusset bottom. Perfect as a shopping bag or as a fundraiser for any organization!</p>
+<p>Tote bags are natural, <span>unbleached</span> 100% Cotton. Reminder, it is the nature of unbleached cotton to contain flecks in it. These bags are not bleached, pure cotton.</p>
+<p>They will take fabric dye well. They will take htv very well.</p>
+<p>They are high quality and measure 35.5 x 40cm with a 10cm gusset button. 2 handles 2.5 x 52cm. Approx 14 x 15 with a 4-inch gusset</p>
+<p> The fabric is a lightweight cotton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9201248705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

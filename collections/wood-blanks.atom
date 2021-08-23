@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/wood-blanks.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-05-04T12:46:13-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6575899246677</id>
+    <published>2021-05-04T12:46:13-04:00</published>
+    <updated>2021-05-04T12:46:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/natural-birch-wood-slice-large-13-15cm-1pc"/>
+    <title>Natural Birch Wood Slice - Large 13-15cm -1pc pack L</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-birch-wood-slice-large-13-15cm-1pc-pack-l.jpg?v=1620246046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural birchwood wood slices add a rustic touch! Approximately 13-15cm in size. Perfect for ornaments or craft projects.</p>
+<p>One slice per package</p>
+<p>*Please be aware that natural wood slices do have imperfections. from knots to loose bark to cracks. This is part of their rustic charm. They are not perfect circle shapes either.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6575899246677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799239127125</id>
+    <published>2020-11-01T18:23:24-05:00</published>
+    <updated>2020-11-01T18:23:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/holiday-diy-laser-cut-word-set-8cm-6pcs-holiday-words"/>
+    <title>HOLIDAY DIY Laser-Cut MDF Word Set 8cm - 6pcs HOLIDAY WORDS</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/holiday-diy-laser-cut-mdf-word-set-8cm-6pcs-holiday-words.jpg?v=1621439611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Fully customizable, DIY Laser-Cut Words are crafted from unfinished wood that's waiting to be decorated with paint, stain, embellishments, and more.</span></p>
+<p><span data-mce-fragment="1">6pcs - Approx 8cm. One of each believe, hohoho, let it snow, noel, merry, Christmas.</span></p>
+<p><span data-mce-fragment="1">Approx 5mm thick</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799239127125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799233622101</id>
+    <published>2020-11-01T17:54:02-05:00</published>
+    <updated>2020-11-01T17:54:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/diy-laser-cut-word-set-8cm-6pcs"/>
+    <title>DIY Laser-Cut MDF Word Set 8cm - 6pcs</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/diy-laser-cut-mdf-word-set-8cm-6pcs.jpg?v=1621439609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Fully customizable, DIY Laser-Cut Words are crafted from unfinished wood that's waiting to be decorated with paint, stain, embellishments, and more.</span></p>
+<p><span data-mce-fragment="1">6pcs - Approx 8cm. One of each laugh, home, live, family, believe, love.</span></p>
+<p><span data-mce-fragment="1">Approx 5mm thick</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799233622101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799227723861</id>
+    <published>2020-11-01T17:34:15-05:00</published>
+    <updated>2020-11-01T17:34:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-14"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 14&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Wood-Embroidery-Hoop-wBrass-Clamp-14_7e895821-5ea0-45b4-8995-078623a57930.jpg?v=1629303436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">14" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799227723861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799222939733</id>
+    <published>2020-11-01T17:10:46-05:00</published>
+    <updated>2020-11-01T17:10:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-12"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 12&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-12.jpg?v=1620244675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">12" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799222939733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799219073109</id>
+    <published>2020-11-01T16:49:46-05:00</published>
+    <updated>2020-11-01T16:49:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-10"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 10&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-10.jpg?v=1620244667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">10" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799219073109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799217598549</id>
+    <published>2020-11-01T16:41:52-05:00</published>
+    <updated>2020-11-01T16:41:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-8"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 8&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-8.jpg?v=1620244658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">8" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799217598549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799216549973</id>
+    <published>2020-11-01T16:37:17-05:00</published>
+    <updated>2020-11-01T16:37:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-6"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 6&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-6.jpg?v=1620244650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">6" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799216549973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799215992917</id>
+    <published>2020-11-01T16:34:05-05:00</published>
+    <updated>2020-11-01T16:34:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-embroidery-hoop-w-brass-clamp-4"/>
+    <title>Wood Embroidery Hoop w/Brass Clamp 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-embroidery-hoop-wbrass-clamp-4.jpg?v=1620244641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made from polished bamboo, a tried and true craft essential to embroider a lovely design, or portray an inspirational message. </span></p>
+<p><span data-mce-fragment="1">4" Embroidery Hoop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799215992917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799211733077</id>
+    <published>2020-11-01T16:15:27-05:00</published>
+    <updated>2020-11-01T16:15:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-mini-muskoka-adirondack-chair"/>
+    <title>Wood Mini Muskoka/Adirondack Chair</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-mini-muskokaadirondack-chair.jpg?v=1620244628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">These unfinished adorable wood pieces are waiting to be customized. Just decorate with paint, stains, decoupage, fabric, embellishments, and more!</span><br></p>
+<p>1 chair per package <span data-mce-fragment="1">7x6x11cm DIY Mini Muskoka/Adirondack Chair</span></p>
+<p><span data-mce-fragment="1">Perfect for memorial lanterns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799211733077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799210487893</id>
+    <published>2020-11-01T16:09:22-05:00</published>
+    <updated>2020-11-01T16:09:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-mini-rocking-chair"/>
+    <title>Wood Mini Rocking Chair</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-mini-rocking-chair.jpg?v=1620244619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">These unfinished adorable wood pieces are waiting to be customized. Just decorate with paint, stains, decoupage, fabric, embellishments, and more!</span><br></p>
+<p>1 chair per package <span data-mce-fragment="1">7x6x11cm DIY Mini Rocking Chair</span></p>
+<p><span data-mce-fragment="1">Perfect for memorial lanterns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799210487893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4799208423509</id>
+    <published>2020-11-01T15:59:12-05:00</published>
+    <updated>2020-11-01T15:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/natural-birch-wood-slice-large-9cm-1pc"/>
+    <title>Natural Birch Wood Slice - Large 9cm -1pc pack M</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-birch-wood-slice-large-9cm-1pc-pack-m.jpg?v=1620244611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural birchwood wood slices. Approximately 9cm in size. Perfect for ornaments or craft projects.</p>
+<p>One slice per package</p>
+<p><span>*Please be aware that natural wood slices do have imperfections. from knots to loose bark to cracks. This is part of their rustic charm. They are not perfect circle shapes either.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4799208423509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4781779583061</id>
+    <published>2020-10-01T15:54:45-04:00</published>
+    <updated>2020-10-01T15:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/natural-dowel-4-pk"/>
+    <title>Natural Dowel 4/pk</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-dowel-4pk.jpg?v=1620244475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">4 natural wood dowels</span></p>
+<p><span data-mce-fragment="1">Approx 7/16"x12" </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4781779583061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4657197908053</id>
+    <published>2020-05-20T15:22:01-04:00</published>
+    <updated>2020-05-20T15:22:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mdf-sign-words-welcome"/>
+    <title>MDF Sign Words 12&quot; Size</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mdf-sign-words-12-size.jpg?v=1621439425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Add a personal touch to these unfinished self-standing Word Decor! Just paint, stain, and decorate to make a one-of-a-kind word art!</span></p>
+<p><span>It comes with gold hanging hardware attached but can easily be removed to mount to a larger sign base. </span></p>
+<p><span>WELCOME, SMILE, FRIENDS - approx 12 1/4" or 31cm at the widest point</span></p>
+<p>HAPPY - approx 12" or 30.5cm at the widest point</p>
+<p><span>HOME, LOVE - approx 11 3/4" or 30cm at the widest point</span></p>
+<p><span>FAMILY, BELIEVE - 13 3/4" or 35cm at the widest point</span></p>
+<p><span>DREAM - 14 1/2" or 37cm at the widest point</span></p>
+<p><span>All are approx 11mm thick</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Welcome</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Smile</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Happy</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Family</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Home</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Believe</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Love</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Friends</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4657197908053</id>
+      <title>Dream</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4609656062037</id>
+    <published>2020-04-24T22:38:02-04:00</published>
+    <updated>2020-04-24T22:38:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-spoon-2pc"/>
+    <title>Wood Spoon - 2pc</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-spoon-2pc.jpg?v=1621439365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural wooden spoon. 2pcs. Perfect to add to your tea towels at shows and markets. </p>
+<p>Approximately 11.8 x 1.9 inches in size. </p>
+<p>Tea towel is not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4609656062037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4609635582037</id>
+    <published>2020-04-24T22:24:01-04:00</published>
+    <updated>2020-04-24T22:24:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-door-hangers-2pc"/>
+    <title>Wood Door Hangers - 2pc</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-door-hangers-2pc.jpg?v=1621439364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural wood door knob hangers. 2pcs. </p>
+<p>Approximately 3 1/8 x 9 1/2 inches in size. Perfect for craft projects.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4609635582037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4605425123413</id>
+    <published>2020-04-21T10:35:42-04:00</published>
+    <updated>2020-04-21T10:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-slice"/>
+    <title>Natural Birch Wood Slice - 6-7cm - 2pc pack S</title>
+    <s:type></s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/natural-birch-wood-slice-6-7cm-2pc-pack-s.jpg?v=1621439246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural birchwood wood slices. Approximately 6-7cm in size. Perfect for ornaments or craft projects.</p>
+<p>2 slices per package</p>
+<p><span>*Please be aware that natural wood slices do have imperfections. from knots to loose bark to cracks. This is part of their rustic charm. They are not perfect circle shapes either.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4605425123413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2598325747797</id>
+    <published>2019-06-06T12:06:30-04:00</published>
+    <updated>2019-06-06T12:06:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-tile-blank"/>
+    <title>Wood Tile Blank</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-tile-blank.jpg?v=1621438788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect decoration or ornament. </p>
+<p>Measures approx 70mm at it's longest point.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chalk</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2598325747797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9998409793</id>
+    <published>2017-08-06T22:23:56-04:00</published>
+    <updated>2017-08-06T22:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wooden-snowflake-ornaments"/>
+    <title>Wooden Snowflake Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wooden-snowflake-ornaments.jpg?v=1621437835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.60 - 0.95
+            <a href="https://www.designblanks.ca/products/wooden-snowflake-ornaments">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat wooden Snowflake ornaments or tags for you to decorate! <span> </span><br><br>Glitter them, paint them, monogram them. I can't wait to see what you creative types do with them.</p>
+<p>Ornaments measure - Large 70mm Small 50mm</p>
+<p><br>Plan your Christmas season early. It's a very busy time for crafters and makers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9998409793</id>
+      <title>Small</title>
+      <s:price currency="CAD">0.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9998409793</id>
+      <title>Large</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9243621953</id>
+    <published>2017-04-21T22:08:53-04:00</published>
+    <updated>2017-04-21T22:08:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wood-heart-blanks-2-hole"/>
+    <title>Wood Heart Blanks - 2 hole 100pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-heart-blanks-2-hole-100pcs.jpg?v=1621437731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wood heart shape blanks with 2 holes. These are what you are looking for if you are making a family sign with the family members birthdays hanging from each month.</span></p>
+<p><span><br>Each heart measures approx 38mm</span></p>
+<p><span>Each bag contains 100pcs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9243621953</id>
+      <title>Hearts - 100pcs</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/8845404673</id>
+    <published>2017-02-13T15:30:00-05:00</published>
+    <updated>2017-02-13T15:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wooden-christmas-ornaments"/>
+    <title>WOOD Christmas Ornament Blanks</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wood-christmas-ornament-blanks.jpg?v=1621437705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.60 - 1.10
+            <a href="https://www.designblanks.ca/products/wooden-christmas-ornaments">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat wooden Christmas ornaments or tags for you to decorate!  <br><br>Glitter them, paint them, monogram them. I can't wait to see what you creative types do with them.</p>
+<p>Ornaments measure - Large 80mm x 100mm Small 50mm x 65mm<br><br>Plan your Christmas season early. It's a very busy time for crafters and makers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chalk</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/8845404673</id>
+      <title>Small</title>
+      <s:price currency="CAD">0.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/8845404673</id>
+      <title>Large</title>
+      <s:price currency="CAD">1.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/misc-health-beauty.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-03-12T15:52:55-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6544801661013</id>
+    <published>2021-03-12T15:52:55-05:00</published>
+    <updated>2021-03-12T15:52:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-bottom-small-zipper-bag"/>
+    <title>Glitter Bottom Small Zipper Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-bottom-small-zipper-bag.jpg?v=1620245700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These totes are the perfect gift to personalize! Add a monogram or image. Beautiful heavy cotton canvas.</p>
+<p>The perfect makeup bag.</p>
+<p>TIP - These are thick natural cotton. They may experience shrinking. Be very cautious when heat pressing.  </p>
+<p> Measuring approx - 8.5 x 5.5 inches or 21.5 x 13.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Green</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Platinum</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Deep Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6544801661013</id>
+      <title>Light Pinky</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/425787064360</id>
+    <published>2020-09-09T14:49:23-04:00</published>
+    <updated>2020-09-09T14:49:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pill-box"/>
+    <title>Pink Pill Box - 3 Compartment</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pink-pill-box-3-compartment.jpg?v=1620236396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh, I really love these! This will look amazing with a monogram or a small cheeky saying.</p>
+<p>Cases measure 8cm x 6.5cm x 2.5cm</p>
+<p>Each pink plastic pillbox has 3 small pill compartments. With a small rubber seal for airtightness. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/425787064360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/466117394472</id>
+    <published>2018-03-05T20:42:15-05:00</published>
+    <updated>2018-03-05T20:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/microfiber-makeup-remover-mitt"/>
+    <title>Microfiber Make Up Remover Mitt</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/microfiber-make-up-remover-mitt.png?v=1621438280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are the best! You should have a couple of them on hand. Perfect to add to your spa packages or makeup bags.</p>
+<p>Remove makeup, oils and daily pollutants <span>using only water. </span></p>
+<p><span>Super soft microfiber material keeps your skin glowing and is gentle enough to for the most sensitive skin.</span></p>
+<p><span>Approx 13x10cm  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleansing cloth</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/466117394472</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

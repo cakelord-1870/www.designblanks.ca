@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/mason-jar-lids.atom"/>
+  <title>Design Blanks</title>
+  <updated>2018-09-26T20:52:57-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/285236953128</id>
+    <published>2018-09-26T20:52:57-04:00</published>
+    <updated>2018-09-26T20:52:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wide-mouth-silver"/>
+    <title>Wide Mouth Straw Lid - Silver</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wide-mouth-straw-lid-silver.jpg?v=1621437920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wide mouth mason jar lid with silicone straw hole.</p>
+<p>76mm size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason jar straw lid</s:tag>
+    <s:tag>mason jar wide mouth straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/285236953128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/385810268200</id>
+    <published>2017-12-29T17:23:26-05:00</published>
+    <updated>2017-12-29T17:23:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/reusable-straw"/>
+    <title>Reusable Straw - 5pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/reusable-straw-5pcs.jpg?v=1621438059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each straw measures approx 9" long. The price listed is for a bundle of 5 straws.</p>
+<p>Straws are clear.</p>
+<p>5 straws</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/385810268200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289727709224</id>
+    <published>2017-11-19T14:30:41-05:00</published>
+    <updated>2017-11-19T14:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-yellow-polka-dot"/>
+    <title>Regular Straw Lid - Yellow Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-yellow-polka-dot.jpg?v=1621437938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289727709224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289724891176</id>
+    <published>2017-11-19T14:28:28-05:00</published>
+    <updated>2017-11-19T14:28:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-red-polka-dot"/>
+    <title>Regular Straw Lid - Red Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-red-polka-dot.jpg?v=1621437936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289724891176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289712078888</id>
+    <published>2017-11-19T14:24:38-05:00</published>
+    <updated>2017-11-19T14:24:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lids-pale-purple-polka-dot"/>
+    <title>Regular Straw Lids - Pale Purple Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lids-pale-purple-polka-dot.jpg?v=1621437933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289712078888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289720762408</id>
+    <published>2017-11-19T14:23:15-05:00</published>
+    <updated>2017-11-19T14:23:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-dark-purple"/>
+    <title>Regular Straw Lid - Dark Purple polka dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-dark-purple-polka-dot.jpg?v=1621437935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mason jar lids with silicone lined straw holes<br><br>60mm size</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289720762408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289715912744</id>
+    <published>2017-11-19T14:23:14-05:00</published>
+    <updated>2017-11-19T14:23:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-blue-polka-dot"/>
+    <title>Regular Straw Lid - Blue Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-blue-polka-dot.jpg?v=1621437934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289715912744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289710473256</id>
+    <published>2017-11-19T14:23:12-05:00</published>
+    <updated>2017-11-19T14:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-green-polka-dot"/>
+    <title>Regular Straw Lid - Green Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-green-polka-dot.jpg?v=1621437932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289710473256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289709162536</id>
+    <published>2017-11-19T14:18:56-05:00</published>
+    <updated>2017-11-19T14:18:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-orange-polka-dot"/>
+    <title>Regular Straw Lid - Orange Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-orange-polka-dot.jpg?v=1621437931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289709162536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289260044328</id>
+    <published>2017-11-18T19:03:32-05:00</published>
+    <updated>2017-11-18T19:03:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-red"/>
+    <title>Regular Straw Lid - Red</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-red.jpg?v=1621437928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p>
+<p>The red lids may show small imperfections as pictured.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289260044328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289259651112</id>
+    <published>2017-11-18T17:52:11-05:00</published>
+    <updated>2017-11-18T17:52:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-blue"/>
+    <title>Regular Straw Lid - Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-blue.jpg?v=1621437924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289259651112</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289259716648</id>
+    <published>2017-11-18T17:49:13-05:00</published>
+    <updated>2017-11-18T17:49:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-green"/>
+    <title>Regular Straw Lid - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-green.jpg?v=1621437925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289259716648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289259782184</id>
+    <published>2017-11-18T17:45:41-05:00</published>
+    <updated>2017-11-18T17:45:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-yellow"/>
+    <title>Regular Straw Lid - Yellow</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-yellow.jpg?v=1621437926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289259782184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/289259880488</id>
+    <published>2017-11-18T17:43:18-05:00</published>
+    <updated>2017-11-18T17:43:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-straw-lid-pink"/>
+    <title>Regular Straw Lid - Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-straw-lid-pink.jpg?v=1621437927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mason jar lids with silicone lined straw holes</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>mason Jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/289259880488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/285241016360</id>
+    <published>2017-11-18T16:44:30-05:00</published>
+    <updated>2017-11-18T16:44:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-star-lid-white"/>
+    <title>Regular Star Lid - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-star-lid-white.jpg?v=1621437922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sold as one individual lid </span></p>
+<p><span>Perfect for mason jar candle making lids</span></p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle lid</s:tag>
+    <s:tag>candle making</s:tag>
+    <s:tag>mason jar candle lid</s:tag>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>Mason jar star lid</s:tag>
+    <s:tag>mason jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/285241016360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/285240885288</id>
+    <published>2017-11-18T16:44:22-05:00</published>
+    <updated>2017-11-18T16:44:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/regular-star-lid-black"/>
+    <title>Regular Star Lid - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/regular-star-lid-black.jpg?v=1621437921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sold as one individual lid</p>
+<p>Perfect for mason jar candle making lids!</p>
+<p><span>60mm size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle lid</s:tag>
+    <s:tag>candle making</s:tag>
+    <s:tag>mason jar candle lid</s:tag>
+    <s:tag>mason jar lid</s:tag>
+    <s:tag>Mason jar star lid</s:tag>
+    <s:tag>mason jar straw lid</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/285240885288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

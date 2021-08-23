@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/sublimation-drinkware.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-08-19T13:40:50-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6616480710741</id>
+    <published>2021-08-19T13:40:50-04:00</published>
+    <updated>2021-08-19T13:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-water-bottle-with-bamboo-lid-white"/>
+    <title>SUBLIMATION  Water Bottle with Bamboo Lid - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20210813_154514.jpg?v=1629395014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #ffffaa;">These tumblers are suitable for sublimation. Please ensure that you have selected the correct tumblers. We carry both regular and sublimation ready in the same styles. </span></p>
+<p>These double-walled stainless steel water bottles with bamboo wood lids are great for summer parties or wedding party gifts. Customize with sublimation or adhesive PSV vinyl by Siser!</p>
+<p>Perfect for your hot and cold </p>
+<p>600ml </p>
+<p><span>DISCLAIMER: Hand-wash only and do not soak,</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6616480710741</id>
+      <title>One Tumbler</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6583817863253</id>
+    <published>2021-06-02T14:30:12-04:00</published>
+    <updated>2021-06-02T14:30:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-20oz-skinny-tumbler-white"/>
+    <title>SUBLIMATION 20oz SKINNY Tumbler - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/SUBLIMATION-20oz-SKINNY-Tumbler-White_abc13ab1-3f56-4b0b-a453-f1656884a1bb.jpg?v=1628958104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.95 - 250.00
+            <a href="https://www.designblanks.ca/products/sublimation-20oz-skinny-tumbler-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #ffffaa;">These tumblers are suitable for sublimation. Please ensure that you have selected the correct tumblers. We carry both regular and sublimation ready in the same styles. </span></p>
+<p><span style="background-color: #ffffaa;">Includes Stainless steel straw and straw cleaning brush! (not pictured)</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. Customize with adhesive PSV vinyl by Siser!</p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid. </p>
+<p>Each 20oz sublimation tumbler includes a plastic reusable straw.</p>
+<p>Perfect for your hot and cold </p>
+<p><span>DISCLAIMER: Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. Metal may scratch if pressed with a sharp object.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6583817863253</id>
+      <title>One Tumbler</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6583817863253</id>
+      <title>Case of 25 Tumblers</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+  </entry>
+</feed>

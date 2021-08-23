@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/stuffed-animals.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-01-19T14:53:56-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/401890410536</id>
+    <published>2021-01-19T14:53:56-05:00</published>
+    <updated>2021-01-19T14:53:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-elephants-this-is-a-pre-order-not-an-in-stock-item-16-inches"/>
+    <title>Stuffed Elephants - 16 inches</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-elephants-16-inches.jpg?v=1621438145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Elephants! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Elephants measure 16" or 40cm approx. From the top of the head to the bottom of the foot. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for very young children.</p>
+<p>In the one picture, you will see our 16" pink and grey elephants posing with a smaller 10" elephant in cream colour.</p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401890410536</id>
+      <title>Grey</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520032567381</id>
+    <published>2020-12-29T17:20:46-05:00</published>
+    <updated>2020-12-29T17:20:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-heart-nose-ballet-costume"/>
+    <title>Ballerina Stuffed Bunny</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ballerina-stuffed-bunny.jpg?v=1621439045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Super soft bunnies! <br><br>Measured from the top of head to toe is 32cm. I did not include ears in that measurement. <br><br>Bunny has one long ear and one shorter ear. This is his design and it makes him more charming. <br><br>He has no button eyes or hard plastic pieces on him.<br><br>These bunnies comply with all safety standards and are manufactured for a UK company for the European market. They are not dollar store quality bunnies.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520032567381</id>
+      <title>Purple</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520032567381</id>
+      <title>Peachy</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520032567381</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520032567381</id>
+      <title>Red</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520032567381</id>
+      <title>Pink</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4601273942101</id>
+    <published>2020-04-16T14:28:22-04:00</published>
+    <updated>2020-04-16T14:28:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bear-bandanas"/>
+    <title>Stuffed Animal Bandanas for Sublimation</title>
+    <s:type></s:type>
+    <s:vendor>PDN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-animal-bandanas-for-sublimation.jpg?v=1621439208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PDN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.25 - 1.50
+            <a href="https://www.designblanks.ca/products/bear-bandanas">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Polyester bandannas for teddies or stuffed animals. These work for sublimation but also work <span>beautifully with your heat transfer vinyl. Now you can personalize any stuffed animal for your special little one. </span></p>
+<p>2 different sizes</p>
+<p> See the size chart image</p>
+<p>The picture is for reference, stuffed elephants are not included (do we really need to say that?)</p>
+<p><span>200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandanna</s:tag>
+    <s:tag>bandannas</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273942101</id>
+      <title>Regular</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273942101</id>
+      <title>Large</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4601273516117</id>
+    <published>2020-04-16T14:25:24-04:00</published>
+    <updated>2020-04-16T14:25:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bear-t-shirts"/>
+    <title>Stuffed Animal T-shirts</title>
+    <s:type></s:type>
+    <s:vendor>PDN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-animal-t-shirts.jpg?v=1621439202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PDN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40 - 19.20
+            <a href="https://www.designblanks.ca/products/bear-t-shirts">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Polyester Tshirts for teddies or stuffed animals. These work for sublimation but also work beautifully with your heat transfer vinyl. Now you can personalize any stuffed animal for your special little one. </p>
+<p>2 different sizes available<br></p>
+<p>Large (#1) - 5" high by 6" wide across the chest (underarm) approx</p>
+<p>Small (#3) - 4.5" high by 5" <span data-mce-fragment="1">wide across the chest (underarm) </span>approx</p>
+<p><span>The picture is for reference, stuffed elephants are not included (do we really need to say that?)</span></p>
+<p><span>200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bearwear</s:tag>
+    <s:tag>tee shirt</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273516117</id>
+      <title>Small</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273516117</id>
+      <title>Large</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273516117</id>
+      <title>Small 6 pack (2.90 each)</title>
+      <s:price currency="CAD">17.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601273516117</id>
+      <title>Large 6 pack (3.20 each)</title>
+      <s:price currency="CAD">19.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520362115157</id>
+    <published>2020-02-05T21:47:44-05:00</published>
+    <updated>2020-02-05T21:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-light-pink"/>
+    <title>Stuffed Bunny - LIGHT PINK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Stuffed-Bunny-LIGHT-PINK_6c3ac40c-c32c-48e1-aeb1-710b5973f113.jpg?v=1628785173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-light-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520362115157</id>
+      <title>Light Pink 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520362115157</id>
+      <title>Light pink 16”</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520382496853</id>
+    <published>2020-02-05T20:51:02-05:00</published>
+    <updated>2020-02-05T20:51:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-coffee"/>
+    <title>Stuffed Bunny - COFFEE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-bunny-coffee.jpg?v=1621439055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-coffee">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520382496853</id>
+      <title>Coffee 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520382496853</id>
+      <title>Coffee 16&quot;</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>465</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520381349973</id>
+    <published>2020-02-05T20:48:58-05:00</published>
+    <updated>2020-02-05T20:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-purple"/>
+    <title>Stuffed Bunny - PURPLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Stuffed-Bunny-PURPLE_3cec1fdf-8742-446f-846d-9d0a08f8864d.jpg?v=1628785177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520381349973</id>
+      <title>Purple 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520381349973</id>
+      <title>Purple 16”</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520379646037</id>
+    <published>2020-02-05T20:47:06-05:00</published>
+    <updated>2020-02-05T20:47:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-grey"/>
+    <title>Stuffed Bunny - GREY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-bunny-grey.jpg?v=1621439054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520379646037</id>
+      <title>Grey 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520379646037</id>
+      <title>Grey 16”</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520375418965</id>
+    <published>2020-02-05T20:42:58-05:00</published>
+    <updated>2020-02-05T20:42:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-cream"/>
+    <title>Stuffed Bunny - CREAM</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Stuffed-Bunny-CREAM_10690f85-3edb-414b-a6a2-c401b167d24c.jpg?v=1629389708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520375418965</id>
+      <title>Cream 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520375418965</id>
+      <title>Cream 16”</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4520371028053</id>
+    <published>2020-02-05T20:40:40-05:00</published>
+    <updated>2020-02-05T20:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny-blue"/>
+    <title>Stuffed Bunny - BLUE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-bunny-blue.jpg?v=1621439052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75 - 13.00
+            <a href="https://www.designblanks.ca/products/stuffed-bunny-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Easter bunnies! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Bunnies come in 2 sizes</p>
+<p>10" or 25cm approx</p>
+<p>16” or 40cm approx</p>
+<p>From the top of the head to the bottom of the foot. Measurement does not include the ears. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for young children.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520371028053</id>
+      <title>Blue 10”</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4520371028053</id>
+      <title>Blue 16”</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2384433840213</id>
+    <published>2019-01-29T18:19:04-05:00</published>
+    <updated>2019-01-29T18:19:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/faux-fur-bunny"/>
+    <title>Faux Fur Bunny - PURPLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/faux-fur-bunny-purple.jpg?v=1621438672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So incredibly soft! These were almost impossible to take a picture of. They just sort of melt. They are so super squishy! Each with a solid ring attachment to clip to a bag or backpack. The inside of the ear is a soft smooth fabric to add a small personalization. </p>
+<p>Please note that the gold stitching on the feet is stitched through but not tied off with a knot. It is just the way they are manufactured. I have included a close up of the feet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2384433840213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/425792667688</id>
+    <published>2018-02-04T17:10:59-05:00</published>
+    <updated>2018-02-04T17:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mini-bunnies-5-pack"/>
+    <title>Mini Bunnies - 5 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mini-bunnies-5-pack.jpg?v=1621438214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable mixed package of 5 different bunnies. Each bunny measures approx 12cm not including the ears. Bunnies are soft and squishy with a bead nose and eyes. Each bunny has a small hang cord and can easily be used as a keychain or hung on an Easter basket. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/425792667688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/401879138344</id>
+    <published>2018-01-02T12:32:52-05:00</published>
+    <updated>2018-01-02T12:32:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-elephants-10-inches"/>
+    <title>Stuffed Elephants - 10&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-elephants-10.jpg?v=1621438139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute and colourful plush Elephants! People do htv on the ears of these but they are furry. We won't be able to offer refunds for 'furry ears'. They are 100% polyester. </p>
+<p>Elephants measure 10" or 25cm approx. From the top of the head to the bottom of the foot. The bottom does contain weighted beads so they sit up nicely. They do have plastic eyes and won't be safe for very young children.</p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401879138344</id>
+      <title>Coffee</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401879138344</id>
+      <title>Cream</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401879138344</id>
+      <title>Blue</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401879138344</id>
+      <title>Pink</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401879138344</id>
+      <title>Grey</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9161414785</id>
+    <published>2017-04-09T22:12:00-04:00</published>
+    <updated>2017-04-09T22:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stuffed-bunny"/>
+    <title>Stuffed Bunny - Heart Nose</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stuffed-bunny-heart-nose.jpg?v=1621437707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Super soft bunnies! <br><br>Measured from the top of head to toe is 39cm or about 11.5 inches. I did not include ears in that measurement. <br><br>Bunny has one long ear and one shorter ear. This is his design and it makes him more charming. <br><br>He has no button eyes or hard plastic pieces on him, making him perfect for all ages. <br><br>These bunnies comply with all safety standards and are manufactured for a UK company for the European market. They are not dollar store quality bunnies. They retail as is for 12pounds in UK ($20 Canadian)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9161414785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/christmas-stockings.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-10-09T16:22:08-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4185334448213</id>
+    <published>2019-10-09T16:22:08-04:00</published>
+    <updated>2019-10-09T16:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-stocking-white"/>
+    <title>Buffalo Plaid Stocking WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-stocking-white.jpg?v=1621438890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton buffalo plaid stocking with a faux jute cuff.  </p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4185334448213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4174069039189</id>
+    <published>2019-10-01T08:41:30-04:00</published>
+    <updated>2019-10-01T08:41:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-fish-stocking-green"/>
+    <title>Burlap Fish Stocking - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-fish-stocking-green.jpg?v=1621438867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Burlap Stockings are burlap with a cotton lining.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4174069039189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1466907394101</id>
+    <published>2018-10-31T18:05:46-04:00</published>
+    <updated>2018-10-31T18:05:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-dog-stocking"/>
+    <title>Buffalo Plaid Dog Bone Stocking</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Buffalo-Plaid-Dog-Bone-Stocking_358012f1-68dc-4d62-8fbf-2f5b7a15ef6d.jpg?v=1628785011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buffalo Plaid dog bone stocking lined on the inside.</p>
+<p><span>Lying flat measures approx 16inches long 5.5 inches across the centre.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1466907394101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/19556794369</id>
+    <published>2017-10-28T20:23:15-04:00</published>
+    <updated>2017-10-28T20:23:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-fish-stocking"/>
+    <title>Burlap Fish Stocking - Red</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-fish-stocking-red.jpg?v=1621437904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Burlap Stockings are burlap with a cotton lining.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/19556794369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/19139559425</id>
+    <published>2017-10-28T18:57:04-04:00</published>
+    <updated>2017-10-28T18:57:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/green-plaid-pet-paw"/>
+    <title>Green Plaid Pet Paw - Fleece</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/green-plaid-pet-paw-fleece.jpg?v=1621437903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fleece style stockings are 18x11 inches. poly/cotton.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/19139559425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1411873898549</id>
+    <published>2017-10-28T18:45:48-04:00</published>
+    <updated>2017-10-28T18:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/red-plaid-fleece-stocking"/>
+    <title>Red Plaid Fleece Stocking</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/red-plaid-fleece-stocking.jpg?v=1621438576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fleece style stockings are 18x11 inches. poly/cotton.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1411873898549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/19113541633</id>
+    <published>2017-10-28T18:45:48-04:00</published>
+    <updated>2017-10-28T18:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/red-plaid-pet-paw"/>
+    <title>Red Plaid Pet Paw - Fleece</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/red-plaid-pet-paw-fleece.jpg?v=1621437901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fleece style stockings are 18x11 inches. poly/cotton.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/19113541633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285287489</id>
+    <published>2017-10-09T19:34:15-04:00</published>
+    <updated>2017-10-09T19:34:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-stocking-with-green-chevron-stripes"/>
+    <title>Burlap Stocking with Green Chevron Stripes</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-stocking-with-green-chevron-stripes.jpg?v=1621437873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Burlap stocking with a cotton cuff. Cotton Lining.</span></p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285287489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285236609</id>
+    <published>2017-10-09T19:13:46-04:00</published>
+    <updated>2017-10-09T19:13:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-stocking-with-green-polka-dot"/>
+    <title>Burlap Stocking with Green Polka Dot</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-stocking-with-green-polka-dot.jpg?v=1621437871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Burlap stocking with a cotton cuff. Cotton Lining.</span></p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285236609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285177217</id>
+    <published>2017-10-09T19:08:18-04:00</published>
+    <updated>2017-10-09T19:08:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-stocking-with-beige-plaid-plaid-4"/>
+    <title>Burlap Stocking with Beige Plaid - Plaid 4</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-stocking-with-beige-plaid-plaid-4.jpg?v=1621437870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Burlap stocking with a cotton cuff. Cotton lining.</span></p>
+<p><span>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285177217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285159361</id>
+    <published>2017-10-09T19:00:44-04:00</published>
+    <updated>2017-10-09T19:00:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-stocking"/>
+    <title>Buffalo Plaid Stocking RED</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Buffalo-Plaid-Stocking-RED_3551094c-c132-4769-ac1a-cdbaa4aa269c.jpg?v=1629216824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Cotton buffalo plaid stocking with a faux jute cuff.  </p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285159361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285138817</id>
+    <published>2017-10-09T18:56:05-04:00</published>
+    <updated>2017-10-09T18:56:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-multi-plaid-plaid-3"/>
+    <title>Burlap Stocking with Multi Colour Plaid - Plaid 3</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-stocking-with-multi-colour-plaid-plaid-3.jpg?v=1621437867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burlap stocking with a cotton cuff. Cotton lining.</p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285138817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10285133889</id>
+    <published>2017-10-09T18:54:02-04:00</published>
+    <updated>2017-10-09T18:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-grey-plaid-plaid-2"/>
+    <title>Burlap Stocking with Grey Plaid - Plaid 2</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-stocking-with-grey-plaid-plaid-2.jpg?v=1621437865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Burlap stocking with a cotton cuff. Cotton lining.</span></p>
+<p>Stockings are all approximately 30cm heel to toe x 42cm top to bottom</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stocking</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10285133889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/childrens-toques-beanies.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-12-16T12:48:15-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4451531915349</id>
+    <published>2019-12-16T12:48:15-05:00</published>
+    <updated>2019-12-16T12:48:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-dark-pink"/>
+    <title>KIDS  DOUBLE POM Toque - DARK Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-DOUBLE-POM-Toque-DARK-Pink_a97d3f04-8a52-4eb8-bfba-c37d7ead896c.jpg?v=1629303397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4451531915349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4451530047573</id>
+    <published>2019-12-16T12:46:37-05:00</published>
+    <updated>2019-12-16T12:46:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-black-multi-confetti"/>
+    <title>KIDS  DOUBLE POM Toque - BLACK Multi Confetti</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-double-pom-toque-black-multi-confetti.jpg?v=1621438975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4451530047573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4451528638549</id>
+    <published>2019-12-16T12:45:24-05:00</published>
+    <updated>2019-12-16T12:45:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-pink-multi-confetti"/>
+    <title>KIDS  DOUBLE POM Toque - Pink Multi Confetti</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-DOUBLE-POM-Toque-Pink-Multi-Confetti_bc03c98a-71eb-4aa2-9ee9-76ee467e353e.jpg?v=1629303393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4451528638549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4451524378709</id>
+    <published>2019-12-16T12:42:13-05:00</published>
+    <updated>2019-12-16T12:42:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-blue-white-confetti"/>
+    <title>KIDS  DOUBLE POM Toque - Blue/White Confetti</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-double-pom-toque-bluewhite-confetti.jpg?v=1621438974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4451524378709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4451522740309</id>
+    <published>2019-12-16T12:40:43-05:00</published>
+    <updated>2019-12-16T12:40:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-mint"/>
+    <title>KIDS  DOUBLE POM Toque - Mint</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-double-pom-toque-mint.jpg?v=1621438973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4451522740309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4438145433685</id>
+    <published>2019-12-11T14:35:33-05:00</published>
+    <updated>2019-12-11T14:35:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-light-pink"/>
+    <title>KIDS  DOUBLE POM Toque - Light Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-DOUBLE-POM-Toque-Light-Pink_81055b81-0e63-449a-b3ca-5a33a8b7eaa8.jpg?v=1629303388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4438145433685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4438142189653</id>
+    <published>2019-12-11T14:33:20-05:00</published>
+    <updated>2019-12-11T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-black"/>
+    <title>KIDS  DOUBLE POM Toque - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-DOUBLE-POM-Toque-Black_fed8a4d6-33cb-45c7-9c19-e13458d36b3e.jpg?v=1629303384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits approximately 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4438142189653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4438141010005</id>
+    <published>2019-12-11T14:32:38-05:00</published>
+    <updated>2019-12-11T14:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-light-grey"/>
+    <title>KIDS  DOUBLE POM Toque - Light Grey</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-double-pom-toque-light-grey.jpg?v=1621438969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4438141010005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4438138486869</id>
+    <published>2019-12-11T14:31:10-05:00</published>
+    <updated>2019-12-11T14:31:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-double-pom-toque-white"/>
+    <title>KIDS  DOUBLE POM Toque - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-double-pom-toque-white.jpg?v=1621438969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with double pom-poms. Adorable!</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4438138486869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2552506548309</id>
+    <published>2019-05-13T14:51:32-04:00</published>
+    <updated>2019-05-13T14:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/100-polyester-baby-beanie"/>
+    <title>100% Polyester Baby Beanie Hats</title>
+    <s:type></s:type>
+    <s:vendor>giraffe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/100-Polyester-Baby-Beanie-Hats_a46713c5-1c44-486e-872d-ceee1367715f.png?v=1628871473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>giraffe<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Baby Beanie Hat Interlock Knit.</span><br><span>5.4 Oz 100% Polyester</span></p>
+<p><strong>Size:</strong> 0-6m<br><strong>Color:</strong><span> White</span></p>
+<p><span>CPSIA compliant</span></p>
+<div class="attr">
+<div class="attr_key">Temperature 375F (190C)</div>
+</div>
+<div class="attr">
+<div class="attr_key">Time 35 secs</div>
+</div>
+<div class="attr">
+<div class="attr_key">Pressure Light</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>creeper</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2552506548309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448392228917</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-messy-bun-ponytail-toque-white-black"/>
+    <title>KIDS Messy Bun / PonyTail Toque - White &amp; Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-Messy-Bun-PonyTail-Toque-White-Black_84c6a857-9cef-4196-be2f-9b6293d214b2.jpg?v=1629303354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448392228917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448391802933</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-copy-of-kids-messy-bun-ponytail-toque-cream"/>
+    <title>KIDS Messy Bun / PonyTail Toque - Cream</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-Messy-Bun-PonyTail-Toque-Cream_3d2ce58d-a593-44cd-bcf9-e9fb43bd9b4b.jpg?v=1629303346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448391802933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448391704629</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-kids-messy-bun-ponytail-toque-white"/>
+    <title>KIDS Messy Bun / PonyTail Toque - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-messy-bun-ponytail-toque-white.jpg?v=1621438603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448391704629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

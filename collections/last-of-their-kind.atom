@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/last-of-their-kind.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-05-13T11:59:16-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6578532974677</id>
+    <published>2021-05-13T11:59:16-04:00</published>
+    <updated>2021-05-13T11:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-bundle-of-ornaments"/>
+    <title>Mixed Bundle of Ornaments - 41pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-bundle-of-ornaments-41pcs.jpg?v=1621439642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mixed box of our acrylic ornaments</p>
+<p>5pcs - 100mm round</p>
+<p>11pcs - 100,, flat</p>
+<p>18pcs - 80mm flat</p>
+<p>1pc - lightbulb</p>
+<p>2pcs - 120mm drops</p>
+<p>4pcs - onion bulb</p>
+<p>gold caps and wires</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6578532974677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6560812499029</id>
+    <published>2021-03-29T13:31:49-04:00</published>
+    <updated>2021-03-29T13:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-ribbon-bundle-6-yards"/>
+    <title>Mixed Ribbon Bundle #1 - 6+ yards</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-ribbon-bundle-1-6-yards.jpg?v=1620245758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Mixed bundle of our Stag and Teal ribbons </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6560812499029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834046705749</id>
+    <published>2021-01-18T15:28:08-05:00</published>
+    <updated>2021-01-18T15:28:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/covid-2020-ornaments"/>
+    <title>Covid 2020 Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/covid-2020-ornaments.jpg?v=1620244862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.95 - 5.90
+            <a href="https://www.designblanks.ca/products/covid-2020-ornaments">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Resin ornaments - Some have white polka dots on the hats and some have solid hats. They are chosen at random.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834046705749</id>
+      <title>3-head</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834046705749</id>
+      <title>4-head</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834046705749</id>
+      <title>5-head</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834046705749</id>
+      <title>6-head</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834046705749</id>
+      <title>7-head</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4655918907477</id>
+    <published>2020-05-19T16:45:51-04:00</published>
+    <updated>2020-05-19T16:45:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/handy-key"/>
+    <title>Handy Key - Door Opener - Button Pusher</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/handy-key-door-opener-button-pusher.jpg?v=1621439415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an amazing little device that you and all of your customers will want on their keyring. Use the hook to open door handles out in public without having to touch them. Use the end to interact with touch screens and key pin pads.</p>
+<p>These are currently selling online for $10-15 retail</p>
+<p>Key measures approx 7cm at widest point</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655918907477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4420323606613</id>
+    <published>2019-12-04T18:00:57-05:00</published>
+    <updated>2019-12-04T18:00:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/green-shirt-green-white-stripped-family-pajamas"/>
+    <title>Green Shirt, Green/White Stripped Family Pajamas</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/green-shirt-greenwhite-stripped-family-pajamas.png?v=1621438963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.50 - 21.50
+            <a href="https://www.designblanks.ca/products/green-shirt-green-white-stripped-family-pajamas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 piece pajama set - 95% Cotton 5% Spandex </p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number is based on the pajamas lying flat on a table and being measured on one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p><span style="background-color: #ffff00;">No refunds if you ordered the wrong size</span>. </p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/kidsbp_large.PNG?v=1509387256" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/adult_bp_large.PNG?v=1509387247" alt=""></p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Children 6</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Adult XS</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Adult M</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Adult XL</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>610</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Adult 2XL</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4420323606613</id>
+      <title>Adult 3XL</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>645</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4414341644373</id>
+    <published>2019-12-01T19:29:21-05:00</published>
+    <updated>2019-12-01T19:29:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/red-white-polka-dot-family-pajamas"/>
+    <title>Red/White Polka Dot Kids Pajamas</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/RedWhite-Polka-Dot-Kids-Pajamas_2a153de7-7865-4d3d-b99f-a0ab03d94d0e.png?v=1628785128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 piece pajama set - 95% Cotton 5% Spandex </p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number are based on the pajamas lying flat flat on a table and being measured one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p><span style="background-color: #ffff00;">No refunds if you ordered the wrong size. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/kidsbp_large.PNG?v=1509387256" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/adult_bp_large.PNG?v=1509387247" alt=""></p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341644373</id>
+      <title>Children 3m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341644373</id>
+      <title>Children 2</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341644373</id>
+      <title>Children 3</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4414341087317</id>
+    <published>2019-12-01T19:24:44-05:00</published>
+    <updated>2019-12-01T19:24:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/white-shirt-red-white-stripped-family-pajamas"/>
+    <title>White Shirt, Red/White Stripped Family Pajamas</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/white-shirt-redwhite-stripped-family-pajamas.png?v=1621438956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.50 - 21.50
+            <a href="https://www.designblanks.ca/products/white-shirt-red-white-stripped-family-pajamas">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 piece pajama set - 95% Cotton 5% Spandex </p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number are based on the pajamas lying flat flat on a table and being measured one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p><span style="background-color: #ffff00;">No refunds if you ordered the wrong size. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/kidsbp_large.PNG?v=1509387256" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/adult_bp_large.PNG?v=1509387247" alt=""></p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Children 6m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Children 12m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Children 3</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Children 10</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Adult XS</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Adult S</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4414341087317</id>
+      <title>Adult L</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330048454741</id>
+    <published>2019-10-29T11:39:09-04:00</published>
+    <updated>2019-10-29T11:39:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/grey-berry-ribbon-5-yard-roll"/>
+    <title>Grey Berry Ribbon - 8+ yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-berry-ribbon-8-yard-roll.jpg?v=1620240463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330048454741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670236991573</id>
+    <published>2019-07-28T18:07:21-04:00</published>
+    <updated>2019-07-28T18:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-copy-of-glitter-ponytail-baseball-hat-hot-pink"/>
+    <title>Glitter Ponytail Baseball Hat - Dark Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-dark-pink.jpg?v=1621438807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670236991573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670236106837</id>
+    <published>2019-07-28T18:04:08-04:00</published>
+    <updated>2019-07-28T18:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-glitter-ponytail-baseball-hat-light-blue"/>
+    <title>Glitter Ponytail Baseball Hat - Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-light-blue.jpg?v=1621438804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670236106837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/752698294376</id>
+    <published>2019-06-19T11:06:30-04:00</published>
+    <updated>2019-06-19T11:06:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/satin-robes-adult-3-4-sleeve-3019"/>
+    <title>Satin Robe BLACK ADULT PLUS SIZE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/satin-robe-black-adult-plus-size.jpg?v=1621438337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves <br></p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. </p>
+<p>Plus Size - Bust 71cm, length 100cm<br></p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752698294376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/752696393832</id>
+    <published>2019-01-31T15:17:14-05:00</published>
+    <updated>2019-01-31T15:17:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/premium-flared-satin-robes-with-pockets-3-4-sleeve-2903"/>
+    <title>Premium Satin Flared Pocket Robe - with Pockets!</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/premium-satin-flared-pocket-robe-with-pockets.jpg?v=1621438335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<span>PLEASE NOTE THAT THIS STYLE HAS BEEN DISCONTINUED.</span><span> </span>
+</div>
+<div><span></span></div>
+<p>Beautiful premium satin robes available in regular and plus (limited colours). These feature a very flattering flare style bottom. Not a straight cut robe. This also allows for more flexibility in the sizing and a little more modesty if you drop that mascara!</p>
+<p>Each robe features a hang tab at the back of the neck. An inside waist tie. A side slit pocket on each side. A separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. </p>
+<p>Regular Size - Bust 65cm, Length 90cm</p>
+<p>Plus Size - Bust 71cm, Length 100cm</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin pocket robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752696393832</id>
+      <title>Royal REG</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752696393832</id>
+      <title>Navy REG</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752696393832</id>
+      <title>Purple REG</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2384433840213</id>
+    <published>2019-01-29T18:19:04-05:00</published>
+    <updated>2019-01-29T18:19:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/faux-fur-bunny"/>
+    <title>Faux Fur Bunny - PURPLE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/faux-fur-bunny-purple.jpg?v=1621438672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So incredibly soft! These were almost impossible to take a picture of. They just sort of melt. They are so super squishy! Each with a solid ring attachment to clip to a bag or backpack. The inside of the ear is a soft smooth fabric to add a small personalization. </p>
+<p>Please note that the gold stitching on the feet is stitched through but not tied off with a knot. It is just the way they are manufactured. I have included a close up of the feet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2384433840213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2346571300949</id>
+    <published>2018-12-08T15:04:47-05:00</published>
+    <updated>2018-12-08T15:04:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sequin-sleeve-raglan-charcoal-green-silver-limited"/>
+    <title>Sequin Sleeve - Black with Cobalt Blue/Rose Gold **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-sleeve-black-with-cobalt-bluerose-gold-limited.jpg?v=1621438647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p><span>A soft cotton shirt with the perfect amount of flash! Combine comfortable and fabulous. I have seen these with a large "CHEERS" in rose gold across the chest or get a little saucy with a "May contain Wine' </span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt but this time with a little more bling!</p>
+<p>Fully lined (comfortable) Sequin Sleeves. Long sleeve. Long in the body.</p>
+<p>Fabric content :35% cotton ,65% polyester.<br><br>This sequin sleeve tee fits true to size. Please refer to the size chart. </p>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/42459669_272324636730718_471886660947148800_n_1_large.jpg?v=1544296547" alt=""></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>Small</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>Large</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>2XL</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>3XL</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403273609269</id>
+    <published>2018-11-17T17:35:10-05:00</published>
+    <updated>2018-11-17T17:35:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/red-shirt-red-white-stripped-family-pajamas-this-is-a-pre-order-not-an-in-stock-item"/>
+    <title>Red Shirt, Red/White Stripped Family Pajamas</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/red-shirt-redwhite-stripped-family-pajamas.png?v=1621438545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 piece pajama set - 95% Cotton 5% Spandex </p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number are based on the pajamas lying flat flat on a table and being measured one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p><span style="background-color: #ffff00;">No refunds if you ordered the wrong size. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/kidsbp_large.PNG?v=1509387256" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/adult_bp_large.PNG?v=1509387247" alt=""></p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403273609269</id>
+      <title>Children 3m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403273609269</id>
+      <title>Children 6m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403273609269</id>
+      <title>Children 12m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403273609269</id>
+      <title>Children 2</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403273609269</id>
+      <title>Children 5</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448392228917</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kids-messy-bun-ponytail-toque-white-black"/>
+    <title>KIDS Messy Bun / PonyTail Toque - White &amp; Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-Messy-Bun-PonyTail-Toque-White-Black_84c6a857-9cef-4196-be2f-9b6293d214b2.jpg?v=1629303354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448392228917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448391802933</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-copy-of-kids-messy-bun-ponytail-toque-cream"/>
+    <title>KIDS Messy Bun / PonyTail Toque - Cream</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/KIDS-Messy-Bun-PonyTail-Toque-Cream_3d2ce58d-a593-44cd-bcf9-e9fb43bd9b4b.jpg?v=1629303346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448391802933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1448391704629</id>
+    <published>2018-10-12T16:40:50-04:00</published>
+    <updated>2018-10-12T16:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-kids-messy-bun-ponytail-toque-white"/>
+    <title>KIDS Messy Bun / PonyTail Toque - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kids-messy-bun-ponytail-toque-white.jpg?v=1621438603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This fits 2T to 8yrs. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1448391704629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1412499111989</id>
+    <published>2018-09-22T19:06:29-04:00</published>
+    <updated>2018-09-22T19:06:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/halloween-stripped-family-pajamas-this-is-a-pre-order-not-an-in-stock-item"/>
+    <title>Halloween Stripped Family Pajamas</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Halloween-Stripped-Family-Pajamas_b2451cb7-4e32-4d2a-a3ca-4cff31a276b9.jpg?v=1628784991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.50 - 21.50
+            <a href="https://www.designblanks.ca/products/halloween-stripped-family-pajamas-this-is-a-pre-order-not-an-in-stock-item">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 2 piece pajama set - 95% Cotton 5% Spandex </p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number is based on the pajamas lying flat on a table and being measured on one side.</p>
+<p>We are hearing that the children's sizes are true to size but that larger adult sizes fit close to the body. If you want a loose fit or are in doubt, size up.</p>
+<p>This style does have a mild scoop neckline that becomes more obvious as you move up into the plus sizes. While considered unisex, many feel this gives this style a feminine look.</p>
+<p><span style="background-color: #ffff00;">No refunds if you ordered the wrong size. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/kidsbp_large.PNG?v=1509387256" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/adult_bp_large.PNG?v=1509387247" alt=""></p>
+<meta charset="utf-8">
+<p>These require production time as they are being made for us specifically.</p>
+<p><span>You will not be charged additional buy-in fee or customs fees on this product. You will be required to pay tax and shipping. As always orders over $125 within Ontario and $165 out of Ontario will ship free.</span></p>
+<p>Please do not order in stock items with pre-order items if you are not ok to wait for everything to ship at one time. We will not split orders and ship items separately.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1412499111989</id>
+      <title>Children 6m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1412499111989</id>
+      <title>Children 12m</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1412499111989</id>
+      <title>Children 2</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1412499111989</id>
+      <title>Adult L</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1412499111989</id>
+      <title>Adult XL</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>610</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1445005361205</id>
+    <published>2018-07-30T09:06:56-04:00</published>
+    <updated>2018-07-30T09:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-ponytail-baseball-hat-navy"/>
+    <title>Glitter Ponytail Baseball Hat - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-navy.jpg?v=1621438598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span>We have heard of people successfully applying HTV to these hats but have not tried them ourselves yet.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1445005361205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1349375819829</id>
+    <published>2018-07-30T09:06:56-04:00</published>
+    <updated>2018-07-30T09:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-ponytail-baseball-hat-light-gold"/>
+    <title>Glitter Ponytail Baseball Hat - Light Gold</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-light-gold.jpg?v=1621438489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span>We have heard of people successfully applying HTV to these hats but have not tried them ourselves yet.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1349375819829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9363657665</id>
+    <published>2018-05-15T14:31:58-04:00</published>
+    <updated>2018-05-15T14:31:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pre-order-fidget-spinners"/>
+    <title>Fidget Spinners</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/fidget-spinners.jpg?v=1621437741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Package of 10 random colours! These make the perfect gift for local children if you take a tropical holiday or mission.</p>
+<p>Make it super cool by adding a name or custom image to the centre button. <br></p>
+<p>The boxes that these come in are a little beat up. They have travelled overseas to me and then on to you. </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fidget spinner wholesale</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9363657665</id>
+      <title>Pack of 10pcs - Random Colours</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/752695672936</id>
+    <published>2018-04-10T13:24:50-04:00</published>
+    <updated>2018-04-10T13:24:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-lace-robes-adult-3-4-sleeve-3010"/>
+    <title>Cotton Lace Robes Adult</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cotton-lace-robes-adult.jpg?v=1621438330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.90 - 43.90
+            <a href="https://www.designblanks.ca/products/cotton-lace-robes-adult-3-4-sleeve-3010">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PLEASE NOTE THAT THIS STYLE HAS BEEN DISCONTINUED.<br></p>
+<p>Beautiful cotton rayon robes with 3/4 sleeves. Sleeves and bottom are trimmed with cream lace. Available in regular and plus sizes. These are also available in children's sizes. Check the children's listing.</p>
+<p>Each lace-trimmed robe features a separate satin belt. 100% cotton rayon.</p>
+<p>Measurements are taken lying flat. </p>
+<p>Plus Size - Bust 71cm, length 100cm<br></p>
+<p><span style="color: #990000;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>cotton robe</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>lace trimmed robe</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752695672936</id>
+      <title>Pink PLUS</title>
+      <s:price currency="CAD">15.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752695672936</id>
+      <title>Blush PLUS</title>
+      <s:price currency="CAD">15.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/752695672936</id>
+      <title>Take all 3 robes for</title>
+      <s:price currency="CAD">43.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/406286893096</id>
+    <published>2018-01-23T10:16:30-05:00</published>
+    <updated>2018-01-23T10:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/plaid-sleeve-long-sleeve-shirts"/>
+    <title>Buffalo Plaid Raglan Sleeve Shirts - BLUE *SMALL ONLY*</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-raglan-sleeve-shirts-blue-small-only.jpg?v=1620235772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Buffalo Plaid Sleeve Raglan Shirts in blue plaid.</p>
+<p>Cotton/Poly blend. From the same supplier as the Buffalo Plaid Pj's.</p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number are based on the shirts lying flat on a table and being measured one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p>No refunds if you ordered the wrong size. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/406286893096</id>
+      <title>Blue / S</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/281896321064</id>
+    <published>2017-12-05T11:56:50-05:00</published>
+    <updated>2017-12-05T11:56:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-quilted-tree-skirt"/>
+    <title>Cotton Quilted Tree Skirt - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cotton-quilted-tree-skirt-green.jpg?v=1621437916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The softest cotton with a quilted stitching throughout. </p>
+<p><span>The skirts are approx 50" across. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/281896321064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

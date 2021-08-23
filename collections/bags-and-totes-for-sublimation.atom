@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/bags-and-totes-for-sublimation.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-30T15:26:06-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330114842709</id>
+    <published>2021-07-30T15:26:06-04:00</published>
+    <updated>2021-07-30T15:26:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/reusable-shopping-bag-white"/>
+    <title>Reusable Shopping Bag SUB - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Reusable-Shopping-Bag-SUB-White_81dbba5b-2f3d-4e2a-bb9b-a105857f3659.png?v=1628957975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sublimation! </p>
+<p>Each comes with its own folding carrier bag. </p>
+<p><span data-mce-fragment="1">195C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330114842709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2326908043349</id>
+    <published>2019-10-16T13:59:35-04:00</published>
+    <updated>2019-10-16T13:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-blank-santa-sack"/>
+    <title>POLY Blank Drawstring Sack - Large (natural colour ties not red as pictured)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/POLY-Blank-Drawstring-Sack-Large-natural-colour-ties-not-red-as-pictured.jpg?v=1629216920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa sack birthday sack or laundry bag!</p>
+<p>Heavy polyester drawstring sack with a natural coloured drawstring. Perfect for your custom sublimation designs. </p>
+<p>Approx 50x65cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2326908043349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4264954429525</id>
+    <published>2019-10-16T13:46:00-04:00</published>
+    <updated>2019-10-16T13:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/poly-blank-drawstring-santa-sack-small"/>
+    <title>POLY Blank Sack - Small</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/POLY-Blank-Sack-Small_913206f7-a958-41c2-a1f8-aa458f5c9970.jpg?v=1629216938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy polyester drawstring sack with a red drawstring. Perfect for sublimation designs. </p>
+<p>Approx 32x39cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4264954429525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4172997165141</id>
+    <published>2019-09-30T18:02:38-04:00</published>
+    <updated>2019-09-30T18:02:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tote-bags-polyester"/>
+    <title>Tote Bags - 100% Polyester</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tote-Bags-100-Polyester_61d04fbe-11f7-4dcc-bbb6-fc12ef04c130.jpg?v=1629389689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tote bag with a gusset bottom. Perfect for sublimation but beware they will smoke as you press them.</p>
+<p>Tote bags are 100% polyester. These are a bright white colour.</p>
+<p>They are high quality and measure approx 13.5  x  15.5 inches with a 3.75-inch gusset button.</p>
+<p>30x40x10cm</p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sub tote</s:tag>
+    <s:tag>sublimation tote</s:tag>
+    <s:tag>tote</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4172997165141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

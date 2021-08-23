@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/tea-towels-aprons-for-sublimation.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-04-20T13:47:01-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6568891514965</id>
+    <published>2021-04-20T13:47:01-04:00</published>
+    <updated>2021-04-20T13:47:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-polyester-waffle-weave"/>
+    <title>Tea Towel 100% POLYESTER WAFFLE WEAVE 51 x 70.5 cm</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tea-Towel-100-POLYESTER-WAFFLE-WEAVE-51-x-705-cm_6dda56fc-caf9-490b-be2c-f969584f943b.jpg?v=1629389725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are very high-quality polyester tea towels. They feel like velvet!</span></p>
+<p>Tea Towels are white, 100% Polyester microfibre in a thick and lux waffle weave. Towels are packed individually.  </p>
+<p>They are perfect for sublimation! </p>
+<p>They are large at approx 51cm x 70.5 cm</p>
+<p><span data-mce-fragment="1">195C degrees for 60 seconds</span><span> </span></p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6568891514965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1392479993909</id>
+    <published>2017-04-09T22:51:00-04:00</published>
+    <updated>2017-04-09T22:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tea-towel-100-polyester"/>
+    <title>Tea Towel 100% POLYESTER</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Tea-Towel-100-POLYESTER_682bc610-16d0-4893-a9bf-798c7296ea0e.jpg?v=1628871445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are a very high-quality polyester tea towel. </span>Tea Towels are white, 100% Polyester. Towels are packed individually. </p>
+<p>They are perfect for sublimation! </p>
+<p>They are large at 50cm x 70cm. </p>
+<p><span data-mce-fragment="1">200C degrees for 60 seconds</span><span> </span></p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1392479993909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+</feed>

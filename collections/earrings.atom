@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/earrings.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-01-12T18:05:27-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/2370001633365</id>
+    <published>2019-01-12T18:05:27-05:00</published>
+    <updated>2019-01-12T18:05:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bunny-earrings-solid-bunny"/>
+    <title>Bunny Earrings - Solid Bunny</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bunny-earrings-solid-bunny.jpg?v=1621438653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in silver, gold and rose gold. Delicate bunny rabbit outline earrings.</p>
+<p>Each pair comes with -</p>
+<p>- a blank kraft earring card for you to add your custom stamp or branding</p>
+<p>- an organza gift bag</p>
+<p>Earrings are nickel, cadmium and lead-free. They are a metal alloy. </p>
+<p>*made in China</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2370001633365</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2370001633365</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2370001633365</id>
+      <title>Gold</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9699888961</id>
+    <published>2017-07-28T16:59:00-04:00</published>
+    <updated>2017-07-28T16:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/leaf-earrings-in-rose-gold-plated"/>
+    <title>Leaf Earrings in Rose Gold Plated</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/leaf-earrings-in-rose-gold-plated.jpg?v=1621437802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose gold plated leaf stud earrings with surgical posts. <span>You know your market best but I sell these at my shows for about $12 a pair. They are always a hit. It's nice to have little fillers in your booth space. Give people lots to look at and lots of options.</span></p>
+<p><span>Find them on Etsy priced up to $20 and higher. Sometimes it's all in your packaging.</span></p>
+<p>Each pair of earrings features surgical steel posts and comes with a botanical earring card, a set of rose gold backs, an organza bag in purple or blue (selected by us at random), twine and a small gift tag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9699888961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9702802241</id>
+    <published>2017-06-15T18:12:35-04:00</published>
+    <updated>2017-06-15T18:12:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/diy-cabochon-earrings-glitter-galaxy-collection"/>
+    <title>Glitter Galaxy -  3 pair of DIY Cabochon Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-galaxy-3-pair-of-diy-cabochon-earrings.jpg?v=1621437807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Three pairs of earrings are in this pack. You must provide your own glue.</p>
+<p>10mm Cabochon earrings are beautiful as is or can be customised with tiny vinyl images. </p>
+<p>3 pairs includes - </p>
+<p>3 pair cabochon centres of your choice</p>
+<p>3 pair of silver surgical steel earring posts (the cabochons fit right inside perfectly!)</p>
+<p>3 pair of earring backs</p>
+<p>3 blank kraft paper earring card <span>- you may see my stamped 'Peachy Pony' card in pics but your card will be blank and not have this stamp on it.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Red</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9702802241</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/glitter-bundles.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-15T12:47:08-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6603353915477</id>
+    <published>2021-07-15T12:47:08-04:00</published>
+    <updated>2021-07-15T12:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/vintage-hollywood-glitters-bundle-of-4-colours"/>
+    <title>Vintage Hollywood Glitters - Bundle of  4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/vintage-hollywood-glitters-bundle-of-4-colours.jpg?v=1626452103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50 - 24.35
+            <a href="https://www.designblanks.ca/products/vintage-hollywood-glitters-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle, you will receive 2 Laser Holographic and 2 regular glitters</span></p>
+<p>Bling - (LB101)</p>
+<p>Saturday Night Fever - (LB1002)</p>
+<p>Black - (BO1000)</p>
+<p>Gun Metal - (BO1002)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603353915477</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603353915477</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">24.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6603353129045</id>
+    <published>2021-07-15T12:41:29-04:00</published>
+    <updated>2021-07-15T12:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/campfire-glitters-bundle-of-4-colours"/>
+    <title>Campfire Glitters - Bundle of  4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/campfire-glitters-bundle-of-4-colours.jpg?v=1626452091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50 - 24.35
+            <a href="https://www.designblanks.ca/products/campfire-glitters-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle, you will receive 2 Laser Holographic and 2 regular glitters</span></p>
+<p>Laser Red Holographic - (LB304)</p>
+<p>Desert Gold - (LB201)</p>
+<p>Yukon - (BO214)</p>
+<p>Deep Bronze - (LB402)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603353129045</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603353129045</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">24.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6603352375381</id>
+    <published>2021-07-15T12:37:42-04:00</published>
+    <updated>2021-07-15T12:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ocean-views-glitters-bundle-of-4-colours"/>
+    <title>Ocean Views Glitters - Bundle of  4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Ocean-Views-Glitters-Bundle-of-4-Colours_6b7ce670-fda9-4368-bd36-615eb8dd20c6.jpg?v=1629303524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50 - 24.35
+            <a href="https://www.designblanks.ca/products/ocean-views-glitters-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle, you will receive 2 Laser Holographic and 2 regular glitters</span></p>
+<p>Marina - (LB700)</p>
+<p>Emerald - (LB702)</p>
+<p>Ocean Blue - (BO706)</p>
+<p>Royal Blue - (BO705)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603352375381</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603352375381</id>
+      <title>100gm -  4 colours</title>
+      <s:price currency="CAD">24.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6603348803669</id>
+    <published>2021-07-15T12:24:19-04:00</published>
+    <updated>2021-07-15T12:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/city-nights-glitters-bundle-of-4-colours"/>
+    <title>City Nights Glitters - Bundle of  4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/city-nights-glitters-bundle-of-4-colours.jpg?v=1626452070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50 - 24.35
+            <a href="https://www.designblanks.ca/products/city-nights-glitters-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle, you will receive 2 Laser Holographic and 2 regular glitters</span></p>
+<p>Saturday Night Fever - (LB1002)</p>
+<p><span>Rosey Gold - (LB911)</span></p>
+<p><span>Platinum - (BO103)</span></p>
+<p><span>Birkin - (BO222)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603348803669</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6603348803669</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">24.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6596265410645</id>
+    <published>2021-06-29T14:09:07-04:00</published>
+    <updated>2021-06-29T14:09:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/rocket-glitter-bundle-of-4-colours"/>
+    <title>Rocket Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rocket-glitter-bundle-of-4-colours.jpg?v=1626448716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.10 - 31.00
+            <a href="https://www.designblanks.ca/products/rocket-glitter-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive 2 chunky glitter and 2 regular glitters;</span></p>
+<p><span>Glitzen - (CG59)</span></p>
+<p><span>Crush Cotton Candy - (CG60)</span></p>
+<p><span>Ocean Blue - (BO706)</span></p>
+<p><span>Silver - (BO100)</span></p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596265410645</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596265410645</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6596264493141</id>
+    <published>2021-06-29T14:06:15-04:00</published>
+    <updated>2021-06-29T14:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fairy-picnic-glitter-bundle-of-4-colours"/>
+    <title>Fairy Picnic Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/fairy-picnic-glitter-bundle-of-4-colours.jpg?v=1626448714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.10 - 31.00
+            <a href="https://www.designblanks.ca/products/fairy-picnic-glitter-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive 2 chunky glitter and 2 regular glitters;</span></p>
+<p><span>Funfetti - (CG47)</span></p>
+<p><span>Fairy Dust - (CG05)</span></p>
+<p><span>Olive - (BO612)</span></p>
+<p><span>Blush - (BO915)</span></p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596264493141</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596264493141</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6596261937237</id>
+    <published>2021-06-29T13:55:49-04:00</published>
+    <updated>2021-06-29T13:55:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/trophy-wife-glitter-bundle-of-4-colours"/>
+    <title>Trophy Wife Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/trophy-wife-glitter-bundle-of-4-colours.jpg?v=1626448712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.10 - 31.00
+            <a href="https://www.designblanks.ca/products/trophy-wife-glitter-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive 2 chunky glitter and 2 regular glitters;</span></p>
+<p><span>Star Struck - (CG43)</span></p>
+<p><span>Pink Champagne - (CG02)</span></p>
+<p><span>High Flash Silver - (BO100A)</span></p>
+<p><span>Birkin - (BO222)</span></p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596261937237</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596261937237</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6596260823125</id>
+    <published>2021-06-29T13:52:49-04:00</published>
+    <updated>2021-06-29T13:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/festival-glitter-bundle-of-4-colours"/>
+    <title>Festival Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Festival-Glitter-Bundle-of-4-Colours_f1d3782b-293b-4a3d-8743-3834e05e3647.jpg?v=1629303514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.10 - 31.00
+            <a href="https://www.designblanks.ca/products/festival-glitter-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive 2 chunky glitter and 2 regular glitters;</span></p>
+<p><span>Celebration - (CG56)</span></p>
+<p><span>Northern Lights - (CG52)</span></p>
+<p><span>True Teal - (BO702)</span></p>
+<p><span>Pink Cochineal - (BO906)</span></p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596260823125</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596260823125</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6596193910869</id>
+    <published>2021-06-29T10:17:00-04:00</published>
+    <updated>2021-06-29T10:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/the-witches-glitter-bundle-of-4-colours"/>
+    <title>The Witches Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-witches-glitter-bundle-of-4-colours.jpg?v=1626448708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.10 - 31.00
+            <a href="https://www.designblanks.ca/products/the-witches-glitter-bundle-of-4-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive 2 chunky glitter and 2 regular glitters;</span></p>
+<p><span>Gatsby - (CG50)</span></p>
+<p><span>Hocus Pocus - (CG33)</span></p>
+<p><span>Gun Metal - (BO1002)</span></p>
+<p><span>Blackberry - (BO421)</span></p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596193910869</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6596193910869</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594493644885</id>
+    <published>2021-06-24T15:38:57-04:00</published>
+    <updated>2021-06-24T15:38:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/baby-bounce-glitters-bundle-of-5-colours"/>
+    <title>Baby Bounce Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/baby-bounce-glitters-bundle-of-5-colours.jpg?v=1624638170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50 - 35.45
+            <a href="https://www.designblanks.ca/products/baby-bounce-glitters-bundle-of-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>Rainbow Light - (C04A)</span></p>
+<p><span>Pink Lemonade - (C18)</span></p>
+<p><span>Ice Ice Blue - (C07)</span></p>
+<p><span>Iridescent Yellow (C05)</span></p>
+<p><span>Violet Iridescent Purple - (C46)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594493644885</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594493644885</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">35.45</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594490466389</id>
+    <published>2021-06-24T15:24:18-04:00</published>
+    <updated>2021-06-24T15:24:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/watermelon-glitters-bundle-of-5-colours"/>
+    <title>Watermelon Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/watermelon-glitters-bundle-of-5-colours.jpg?v=1624638165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50 - 35.45
+            <a href="https://www.designblanks.ca/products/watermelon-glitters-bundle-of-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>Rainbow Light - (C04A)</span></p>
+<p><span>Pink Lemonade - (C18)</span></p>
+<p><span>Iridescent Fluorescent Green - (C51)</span></p>
+<p><span>Iridescent Fluorescent Peach - (C52)</span></p>
+<p><span>Dragon Scale - (C20)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594490466389</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594490466389</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">35.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594489385045</id>
+    <published>2021-06-24T15:17:05-04:00</published>
+    <updated>2021-06-24T15:17:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/flowers-bundle-of-5-colours"/>
+    <title>All That Flowers Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/all-that-flowers-glitters-bundle-of-5-colours.jpg?v=1624638159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/flowers-bundle-of-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>Purple Magnolia - (B0814)</span></p>
+<p><span>Pink Cochineal - (B0916)</span></p>
+<p><span>Phantom Blue - (B0704)</span></p>
+<p><span>Pale Gold - (B0215)</span></p>
+<p><span>Ruby Rose - (B0912)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594489385045</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594489385045</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594487582805</id>
+    <published>2021-06-24T15:07:36-04:00</published>
+    <updated>2021-06-24T15:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/dark-and-twisty-bundle-of-5-colours"/>
+    <title>Dark and Twisty Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/dark-and-twisty-glitters-bundle-of-5-colours.jpg?v=1624638153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/dark-and-twisty-bundle-of-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>Gun Metal - (B01002)</span></p>
+<p><span>Blackberry - (B0421)</span></p>
+<p><span>Platinum - (B0103)</span></p>
+<p><span>High Flash Silver - (B0100A)</span></p>
+<p><span>Black - (B01000)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594487582805</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594487582805</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594485321813</id>
+    <published>2021-06-24T14:52:13-04:00</published>
+    <updated>2021-06-24T14:52:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-under-the-sea-glitters-5-colours"/>
+    <title>Under the Sea Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/under-the-sea-glitters-bundle-of-5-colours.jpg?v=1624638148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/bundle-of-under-the-sea-glitters-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>True Teal - (B0702)</span></p>
+<p><span>Azure - (B0711)</span></p>
+<p><span>Olive - (B0612)</span></p>
+<p><span>Ocean Blue - (B0706)</span></p>
+<p><span>X'mas Green - (B0609)</span></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594485321813</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594485321813</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594468282453</id>
+    <published>2021-06-24T13:09:27-04:00</published>
+    <updated>2021-06-24T13:09:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-pretty-in-pink-glitters-5-colours"/>
+    <title>Pretty in Pink Glitters - Bundle of 5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Pretty-in-Pink-Glitters-Bundle-of-5-Colours_da1fbb09-4fc7-487d-aafa-9371d7bb41f9.jpg?v=1629303505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/bundle-of-pretty-in-pink-glitters-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p>Light Pink - (B0900)</p>
+<p>Fuschia - (B0903)</p>
+<p>Ruby Rose - (B0912)</p>
+<p>Blush - (B0915)</p>
+<p>Violet Epi - (B0806) <br></p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594468282453</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594468282453</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6594463891541</id>
+    <published>2021-06-24T12:54:00-04:00</published>
+    <updated>2021-06-24T12:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-blue-metallic-glitters-5-colours"/>
+    <title>Varsity Blue Glitters - Bundle of  5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/varsity-blue-glitters-bundle-of-5-colours.jpg?v=1624638137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/bundle-of-blue-metallic-glitters-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>High Flash Silver - (B0100A)</span></p>
+<p><span>Grey Blue - (B0712)</span></p>
+<p><span>Birkin - (B0222)</span></p>
+<p>Silver Glitter - (B0100)</p>
+<p>Royal Blue - (B0705)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594463891541</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6594463891541</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6590898045013</id>
+    <published>2021-06-14T14:09:40-04:00</published>
+    <updated>2021-06-14T14:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-metallic-glitters-5-colours"/>
+    <title>Heavy Metals Glitters - Bundle of 5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/heavy-metals-glitters-bundle-of-5-colours.jpg?v=1626279308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/bundle-of-metallic-glitters-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p>Silver Glitter - (B0100)</p>
+<p><span>Yukon Gold Glitter - (B0214)</span></p>
+<p>Platinum Glitter - (B0103)</p>
+<p>Lt Copper Glitter - (B0400)</p>
+<p>Deep Bronze Glitter - (B0402)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590898045013</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590898045013</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6590891982933</id>
+    <published>2021-06-14T13:45:36-04:00</published>
+    <updated>2021-06-14T13:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-iridescent-fluorescent-glitter-5-colours"/>
+    <title>Iridescent Fluorescent Glitter - Bundle of 4 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Iridescent-Fluorescent-Glitter-Bundle-of-4-Colours_6a533ab0-b6a5-4b58-b321-d678de60433b.jpg?v=1629303498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 28.40
+            <a href="https://www.designblanks.ca/products/bundle-of-iridescent-fluorescent-glitter-5-colours">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is a cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p><span>Iridescent Fluorescent Yellow Glitter - (C50)</span></p>
+<p><span>Iridescent Fluorescent Green Glitter - (C51)</span></p>
+<p><span>Iridescent Fluorescent Peach Glitter - (C52)</span></p>
+<p><span>Iridescent Fluorescent Pink Glitter - (C53)</span></p>
+<p> </p>
+<p>Bags come in 20gm or 100gm size.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590891982933</id>
+      <title>20gm - 4 colours</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku/>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590891982933</id>
+      <title>100gm - 4 colours</title>
+      <s:price currency="CAD">28.40</s:price>
+      <s:sku/>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6590860623957</id>
+    <published>2021-06-14T10:37:24-04:00</published>
+    <updated>2021-06-14T10:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-iridescent-fluorescent-glitters"/>
+    <title>The Merriest Glitters - Bundle of 5 Colours!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-merriest-glitters-bundle-of-5-colours.jpg?v=1626279302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20 - 29.35
+            <a href="https://www.designblanks.ca/products/bundle-of-iridescent-fluorescent-glitters">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is loose 1/128 ultra fine glitter also known as 0.008 </span>size<span>. Beautiful quality. Exactly what you need for your crafting projects. This is cosmetic-grade glitter. </span></p>
+<p>All of our glitters are cosmetic grade.</p>
+<p><span>In this bundle you will receive;</span></p>
+<p>Silver Glitter - (B0100)</p>
+<p><span>Yukon Gold Glitter - (B0214)</span></p>
+<p><span>X'mas Red Glitter - (B0300)</span></p>
+<p>Olive Glitter (The perfect Grinch Green!) - (B0612)</p>
+<p>X'Mas Green Glitter - (B0609)</p>
+<p>Bags come in 20gm or 100gm sizes.</p>
+<p>We reserve the right to make substitutions with similar colours in a bundle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extra fine glitter</s:tag>
+    <s:tag>loose glitter</s:tag>
+    <s:tag>ultra fine glitter</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590860623957</id>
+      <title>20gm - 5 colours</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6590860623957</id>
+      <title>100gm - 5 colours</title>
+      <s:price currency="CAD">29.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+</feed>

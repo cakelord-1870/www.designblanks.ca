@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/baseball-hats.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-02-02T15:50:21-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838513442901</id>
+    <published>2021-02-02T15:50:21-05:00</published>
+    <updated>2021-02-02T15:50:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-grey"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross GREY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-grey.jpg?v=1620245331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838513442901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838512099413</id>
+    <published>2021-02-02T15:47:38-05:00</published>
+    <updated>2021-02-02T15:47:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-distressed-ponytail-baseball-hat-criss-cross-cheetah"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross ORANGE SODA</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-orange-soda.jpg?v=1620245317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838512099413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838511640661</id>
+    <published>2021-02-02T15:45:45-05:00</published>
+    <updated>2021-02-02T15:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-cheetah"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross CHEETAH</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-cheetah.jpg?v=1620245303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838511640661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838511149141</id>
+    <published>2021-02-02T15:43:52-05:00</published>
+    <updated>2021-02-02T15:43:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-pink"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross PINK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/DISTRESSED-Ponytail-Baseball-Hat-Criss-Cross-PINK_2d619174-0f1a-4dcb-8f9a-fdfb7db3c80d.jpg?v=1629303473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838511149141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838510821461</id>
+    <published>2021-02-02T15:42:36-05:00</published>
+    <updated>2021-02-02T15:42:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-black"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross BLACK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-black.jpg?v=1620245275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838510821461</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838509477973</id>
+    <published>2021-02-02T15:40:08-05:00</published>
+    <updated>2021-02-02T15:40:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-camo"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross CAMO</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-camo.jpg?v=1620245265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838509477973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838508855381</id>
+    <published>2021-02-02T15:38:42-05:00</published>
+    <updated>2021-02-02T15:38:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross-aqua"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross AQUA</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/DISTRESSED-Ponytail-Baseball-Hat-Criss-Cross-AQUA_72239845-771b-4c16-8a6c-4939f74d99dd.jpg?v=1629303458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838508855381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838506922069</id>
+    <published>2021-02-02T15:36:47-05:00</published>
+    <updated>2021-02-02T15:36:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/distressed-ponytail-baseball-hat-criss-cross"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross MUSTARD</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-mustard.jpg?v=1620245238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838506922069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838503120981</id>
+    <published>2021-02-02T15:32:33-05:00</published>
+    <updated>2021-02-02T15:32:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-criss-cross-stone"/>
+    <title>DISTRESSED Ponytail Baseball Hat - Criss Cross STONE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/distressed-ponytail-baseball-hat-criss-cross-stone.jpg?v=1620245221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span>The distressed hats are distressed. They have small slices and rub spots that are intentional. </span></p>
+<p><br></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838503120981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838365593685</id>
+    <published>2021-02-02T11:41:34-05:00</published>
+    <updated>2021-02-02T11:41:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-tie-dye-criss-cross-black-grey-white"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross BLACK GREY WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ponytail-baseball-hat-tie-dye-criss-cross-black-grey-white.jpg?v=1620245163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838365593685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838360416341</id>
+    <published>2021-02-02T11:20:19-05:00</published>
+    <updated>2021-02-02T11:20:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-tie-dye-criss-cross-mint-black-grey"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross MINT GREY BLACK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ponytail-baseball-hat-tie-dye-criss-cross-mint-grey-black.jpg?v=1620245148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838360416341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838355140693</id>
+    <published>2021-02-02T11:13:45-05:00</published>
+    <updated>2021-02-02T11:13:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-tie-dye-criss-cross-pink-aqua-coral"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross PINK AQUA CORAL</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Ponytail-Baseball-Hat-Tie-Dye-Criss-Cross-PINK-AQUA-CORAL_e541378d-e3f9-4a44-bdc5-84767bb49d94.jpg?v=1628958083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838355140693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838143819861</id>
+    <published>2021-02-01T16:17:04-05:00</published>
+    <updated>2021-02-01T16:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-tie-dye-criss-cross-blue-mint-yellow"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross BLUE MINT YELLOW</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Ponytail-Baseball-Hat-Tie-Dye-Criss-Cross-BLUE-MINT-YELLOW_49f33588-19c8-4f14-9800-97476f7985de.jpg?v=1628958073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838143819861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838139297877</id>
+    <published>2021-02-01T16:16:29-05:00</published>
+    <updated>2021-02-01T16:16:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-ponytail-baseball-hat-tie-dye-criss-cross-pink-coral-yellow"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross PINK CORAL YELLOW</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Ponytail-Baseball-Hat-Tie-Dye-Criss-Cross-PINK-CORAL-YELLOW_c468bf5a-b028-4fb2-ad8c-015022309c60.jpg?v=1628958058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p><span><br></span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838139297877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4838126223445</id>
+    <published>2021-02-01T15:02:21-05:00</published>
+    <updated>2021-02-01T15:02:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ponytail-baseball-hat-tie-dye-criss-cross-pink-coral-yellow"/>
+    <title>Ponytail Baseball Hat - Tie Dye Criss Cross GREY CORAL YELLOW</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ponytail-baseball-hat-tie-dye-criss-cross-grey-coral-yellow.jpg?v=1620245094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Criss-cross ponytail messy bun adult baseball hat!!</span></p>
+<p><span>With an elastic criss-cross back, you can choose the height of your ponytail or messy bun. </span></p>
+<p><span> Each hat is hand-dyed and unique in its pattern and colouration.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4838126223445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4836953718869</id>
+    <published>2021-01-29T12:00:33-05:00</published>
+    <updated>2021-01-29T12:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-baseball-hat-white"/>
+    <title>DENIM Baseball Hat - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-baseball-hat-white.jpg?v=1620245042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distressed style  denim baseball hats</span></p>
+<p><span>This is not a ponytail hat.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4836953718869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834590490709</id>
+    <published>2021-01-20T13:22:19-05:00</published>
+    <updated>2021-01-20T13:22:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-ponytail-baseball-hat-grey"/>
+    <title>DENIM Ponytail Baseball Hat - Grey</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-ponytail-baseball-hat-grey.jpg?v=1620244896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Ponytail messy bun baseball hats.</span></p>
+<p><span>This hat has an additional hole in the back for a ponytail or a messy bun.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834590490709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4746754949205</id>
+    <published>2020-08-13T16:53:12-04:00</published>
+    <updated>2020-08-13T16:53:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-baseball-hat-ponytail"/>
+    <title>DENIM Baseball Ponytail Hat - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-baseball-ponytail-hat-black.jpg?v=1621439602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distressed style denim baseball hats with a Ponytail hole above the standard hole at the back.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4746754949205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4735090851925</id>
+    <published>2020-07-24T14:04:46-04:00</published>
+    <updated>2020-07-24T14:04:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-baseball-hat-aqua"/>
+    <title>DENIM Baseball Hat - Aqua</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-baseball-hat-aqua.jpg?v=1621439579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distressed style  denim baseball hats</span></p>
+<p><span>This is not a ponytail hat.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4735090851925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4734936514645</id>
+    <published>2020-07-24T08:45:03-04:00</published>
+    <updated>2020-07-24T08:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-baseball-hat-tangerine"/>
+    <title>DENIM Baseball Hat - Tangerine</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-baseball-hat-tangerine.jpg?v=1621439576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distressed style  denim baseball hats</span></p>
+<p><span>This is not a ponytail hat.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4734936514645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4734922227797</id>
+    <published>2020-07-24T08:35:21-04:00</published>
+    <updated>2020-07-24T08:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-baseball-hat-hot-pink"/>
+    <title>DENIM Baseball Hat - Hot Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-baseball-hat-hot-pink.jpg?v=1621439574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distressed style  denim baseball hats</span></p>
+<p><span>This is not a ponytail hat.</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4734922227797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670236991573</id>
+    <published>2019-07-28T18:07:21-04:00</published>
+    <updated>2019-07-28T18:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-copy-of-glitter-ponytail-baseball-hat-hot-pink"/>
+    <title>Glitter Ponytail Baseball Hat - Dark Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-dark-pink.jpg?v=1621438807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670236991573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670236106837</id>
+    <published>2019-07-28T18:04:08-04:00</published>
+    <updated>2019-07-28T18:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-glitter-ponytail-baseball-hat-light-blue"/>
+    <title>Glitter Ponytail Baseball Hat - Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-ponytail-baseball-hat-light-blue.jpg?v=1621438804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Glitter ponytail messy bun baseball hat!!</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p><span> </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ballcap</s:tag>
+    <s:tag>baseball</s:tag>
+    <s:tag>baseballhat</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ponytail</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670236106837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2584431165525</id>
+    <published>2019-05-28T10:48:34-04:00</published>
+    <updated>2019-05-28T10:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-ponytail-baseball-hat-black"/>
+    <title>DENIM Ponytail Baseball Hat - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-ponytail-baseball-hat-navy.jpg?v=1621438784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Ponytail messy bun baseball hats</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2584431165525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2584430706773</id>
+    <published>2019-05-28T10:48:05-04:00</published>
+    <updated>2019-05-28T10:48:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/denim-ponytail-baseball-hat-olive"/>
+    <title>DENIM Ponytail Baseball Hat - Olive</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/denim-ponytail-baseball-hat-olive.jpg?v=1621438782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Ponytail messy bun baseball hats</span></p>
+<p><span>Size 58-62 adjustable.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>messy bun</s:tag>
+    <s:tag>messy bun ball cap</s:tag>
+    <s:tag>ponytail hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2584430706773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+</feed>

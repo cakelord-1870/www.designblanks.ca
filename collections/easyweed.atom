@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/easyweed.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-04-27T08:47:33-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6572949733461</id>
+    <published>2021-04-27T08:47:33-04:00</published>
+    <updated>2021-04-27T08:47:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cadette-green-12ew25-easyweed-htv"/>
+    <title>Cadette Green EW25  - EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cadette-green-ew25-easyweedr-htv.png?v=1620246006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50 - 365.00
+            <a href="https://www.designblanks.ca/products/cadette-green-12ew25-easyweed-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><span>These rolls are offered in 12 inch width (actual size 11.8)</span></p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6572949733461</id>
+      <title>12&quot; x 12&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6572949733461</id>
+      <title>12&quot; x 1 yard</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku/>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6572949733461</id>
+      <title>12&apos;&apos; x 5 yard</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6572949733461</id>
+      <title>12&quot; x 10 yard</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6572949733461</id>
+      <title>12&quot; x 50 yards</title>
+      <s:price currency="CAD">365.00</s:price>
+      <s:sku/>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6535464157269</id>
+    <published>2021-02-24T18:20:19-05:00</published>
+    <updated>2021-02-24T18:20:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew-galaxy-easyweed-htv-read-instructions-for-use"/>
+    <title>EW Galaxy - EasyWeed® HTV **Read Instructions for use</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew-galaxy-easyweedr-htv-read-instructions-for-use.jpg?v=1620245518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.25 - 26.75
+            <a href="https://www.designblanks.ca/products/ew-galaxy-easyweed-htv-read-instructions-for-use">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Buffalo plaid htv includes a high tack transfer sheet that is required for the application. </h2>
+<p><span style="text-decoration: underline;"><strong>DO NOT MIRROR YOUR DESIGN</strong></span></p>
+<h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span></p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span title="" data-original-title="" data-trigger="hover" data-toggle="popover" data-title="CPSIA Certification" data-placement="top" data-delay="50" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-container="popover-1" data-class="popover-1" data-animation="1" class="fusion-popover popover-1">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p> </p>
+<p> </p>
+<table align="center" cellpadding="0" cellspacing="0" width="90%" border="0">
+<tbody>
+<tr>
+<td valign="top">
+<span><strong>Application instructions (home iron)<br></strong></span><br><span>• Cut material – <strong>DO NOT MIRROR</strong>!<br>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with Kraft paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 10 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+<td valign="top">
+<span><strong>Application Instructions (heat press)<br></strong></span><br><span>• Cut material – <span style="text-decoration: underline;"><strong>DO NOT MIRROR</strong></span>!</span><br><span>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p>
+<p><a href="https://www.youtube.com/watch?v=3IDzvxDqxHI">https://www.youtube.com/watch?v=3IDzvxDqxHI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6535464157269</id>
+      <title>12&quot; x 12&quot; / 12&quot; x 12&quot;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6535464157269</id>
+      <title>12&quot; x 1 yard / 12&quot; x 1 yard</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6535464058965</id>
+    <published>2021-02-24T18:20:17-05:00</published>
+    <updated>2021-02-24T18:20:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew-leopard-cheetah-easyweed-htv-read-instructions-for-use"/>
+    <title>EW Leopard/Cheetah - EasyWeed® HTV **Read Instructions for use</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew-leopardcheetah-easyweedr-htv-read-instructions-for-use.jpg?v=1620245514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.25 - 26.75
+            <a href="https://www.designblanks.ca/products/ew-leopard-cheetah-easyweed-htv-read-instructions-for-use">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Buffalo plaid htv includes a high tack transfer sheet that is required for the application. </h2>
+<p><span style="text-decoration: underline;"><strong>DO NOT MIRROR YOUR DESIGN</strong></span></p>
+<h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span></p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p> </p>
+<p> </p>
+<table border="0" width="90%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td valign="top">
+<span><strong>Application instructions (home iron)<br></strong></span><br><span>• Cut material – <strong>DO NOT MIRROR</strong>!<br>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with Kraft paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 10 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+<td valign="top">
+<span><strong>Application Instructions (heat press)<br></strong></span><br><span>• Cut material – <span style="text-decoration: underline;"><strong>DO NOT MIRROR</strong></span>!</span><br><span>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p>
+<p><a href="https://www.youtube.com/watch?v=3IDzvxDqxHI">https://www.youtube.com/watch?v=3IDzvxDqxHI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6535464058965</id>
+      <title>12&quot; x 12&quot; / 12&quot; x 12&quot;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6535464058965</id>
+      <title>12&quot; x 1 yard / 12&quot; x 1 yard</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834330280021</id>
+    <published>2021-01-19T12:49:12-05:00</published>
+    <updated>2021-01-19T12:49:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/be-mine-easyweed-htv-bundle-12-x-15"/>
+    <title>BE MINE Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/be-mine-easyweed-htv-bundle-12-x-15.png?v=1620244871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Save 10% when you choose a Siser EasyWeed bundle!<br></p>
+<p><span>This Siser Easyweed HTV</span> Bundle includes the following Elle Woods approved colours! </p>
+<p>EW01 - White </p>
+<p><span>EW65 - Light Pink</span></p>
+<p><span>EW05 - Red</span></p>
+<p><span>EW79 - Bubble Gum</span></p>
+<p><span>EW14 - Burgundy</span></p>
+<p>EW09 - Pink</p>
+<p><span>EW55 - Bright Red</span></p>
+<p><span>EW71 - Cardinal</span></p>
+<p><span>EW72 - Maroon</span></p>
+<p>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser HTV Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834330280021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834326052949</id>
+    <published>2021-01-19T12:23:54-05:00</published>
+    <updated>2021-01-19T12:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/special-offer-white-ew01-easyweed-htv-15-for-the-price-of-12"/>
+    <title>*SPECIAL OFFER** White EW01  - EasyWeed® HTV TAKE 15&quot; less than the price of 12&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/SPECIAL-OFFER-White-EW01-EasyWeedr-HTV-TAKE-15-less-than-the-price-of-12_e8b5e960-1d09-4c60-b7ac-d1fae7d92260.jpg?v=1629216989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="background-color: #defbb0;">We got sent a couple of rolls of 15" by mistake. Take a 15" roll for less than the price of a 12" rolls while supplies last!</span></h2>
+<h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure-sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><span>These rolls are offered in 12-inch width (actual size 11.8)</span></p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span title="" data-original-title="" data-trigger="hover" data-toggle="popover" data-title="CPSIA Certification" data-placement="top" data-delay="50" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-container="popover-1" data-class="popover-1" data-animation="1" class="fusion-popover popover-1">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834326052949</id>
+      <title>15&quot; x 1 yard for less than price of 12&quot; x 1 yard</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2377689661525</id>
+    <published>2020-11-24T12:31:09-05:00</published>
+    <updated>2020-11-24T12:31:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew23-orange-soda-siser-easyweed-htv"/>
+    <title>EW23 Orange Soda - EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/EW23-Orange-Soda-EasyWeedr-HTV_808401d2-b16b-40fc-8a5e-58378fe08e26.jpg?v=1629389665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.55 - 365.00
+            <a href="https://www.designblanks.ca/products/ew23-orange-soda-siser-easyweed-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2377689661525</id>
+      <title>12&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2377689661525</id>
+      <title>12&quot; x 1 yard</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2377689661525</id>
+      <title>12&apos;&apos; x 5 yard</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2377689661525</id>
+      <title>12&quot; x 10 yard</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2377689661525</id>
+      <title>12&quot; x 50 yard</title>
+      <s:price currency="CAD">365.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4716146163797</id>
+    <published>2020-06-28T15:09:19-04:00</published>
+    <updated>2020-06-28T15:09:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/siser-easysubli-mask-20-x-1-yard"/>
+    <title>Siser EasySubli MASK 20&quot; x 1 Yard</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Siser-EasySubli-MASK-20-x-1-Yard_64610e8c-86aa-4590-8daa-7f48657166bb.jpg?v=1628785296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1></h1>
+<p style="text-align: center;"><strong>Siser EasySubli™ Mask </strong></p>
+<p><span>Siser Easy Subli Mask 20″ wide x 1 yard lengths to be used in conjunction with the <a href="https://www.designblanks.ca/collections/easyweed/products/siser-easysubli" target="_blank" rel="noopener noreferrer">SISER EasySubli. </a></span></p>
+<p><span>Remove the EasySubli Mask cold.</span></p>
+<p><span>Siser's rolls are labeled 20″ wide actual width is 19.6″</span></p>
+<p>EasySubli Mask is unlike other Siser TTD Mask products but the process is familiar. Use a squeegee to bond your printed EasySubli HTV to multiple pieces aligned and apply all at once. However, this mask is constructed differently and not compatible with other printed HTV products. </p>
+<ul>
+<li>Print and cut your design on your EasySubli Heat Transfer Vinyl sheet. Do not Mirror.</li>
+<li>Weed your design.</li>
+<li>Cut your EasySubli Mask and apply the mask to your design.</li>
+<li>Burnish to ensure full adhesion.</li>
+<li>Peel masking away with design attached.</li>
+<li>
+<p>Apply to garment, and press according to the EasySubli Heat Transfer Vinyl instructions<iframe width="560" height="315" src="https://www.youtube.com/embed/RO_2C6Cq_KU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4716146163797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4601299304533</id>
+    <published>2020-06-28T14:20:39-04:00</published>
+    <updated>2020-06-28T14:20:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/siser-easysubli"/>
+    <title>Siser EasySubli Dye-Sub Paper HTV 20&quot; x 1 Yard</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Siser-EasySubli-Dye-Sub-Paper-HTV-20-x-1-Yard_2e259d43-fc53-487f-8e33-6ff8b4e56781.png?v=1629216965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">EasySubli® Heat Transfer Vinyl</h1>
+<p>You already know that Siser glitter HTV can be sublimated. What if you don't want the sparkle?</p>
+<p>The latest innovation in garment sublimation is here! <span>EasySubli™ is the matte heat transfer vinyl that’s receptive to sublimation inks! Siser EasySubli™ HTV is the key to decorating coloured polyester and cotton blends. Never let yourself be limited to white polyester again when you switch to EasySubli™.</span></p>
+<p>EasySubli® is a brand-new HTV by Siser® that allows you to print custom, full-color designs using your sublimation printer.</p>
+<p>EasySubli can be fed directly through a sublimation printer, which eliminates the need for transfer papers. After printing, it is recommended that you allow the inks to dry for 2 hours before masking, or you can lay your design underneath an open heat press platen for about 45 seconds. While traditional sublimation is limited to white polyester garments,</p>
+<p>EasySubli is also applied at a low temperature of 311°F, compared to 380°F and above for traditional sublimation.</p>
+<p>EasySubli is designed to work with virtually any sublimation printer, however, we recommend Sawgrass® machines</p>
+<p>EasySubli Inks by Sawgrass for best results.</p>
+<p>To apply your designs to your garments you also need to use Sister TTD special application tape (this is COLD peel) BUY HERE</p>
+<p> Applies to: 100% Cotton, 100% Polyester, Poly/Cotton blends</p>
+<p>Temperature: 311°F/155°C Time: 15 seconds</p>
+<p>Pressure: Medium</p>
+<p>Peel: Warm</p>
+<p>Care instructions:</p>
+<p>Wait 24 hours before the first wash.</p>
+<p>Machine wash warm or cold with mild detergent</p>
+<p>Dry on low dryer setting</p>
+<p>Do not dry clean or bleach</p>
+<p>Wash inside-out for best results</p>
+<p>USE WITH SISER <a href="https://www.designblanks.ca/collections/easyweed/products/siser-easysubli-mask-20-x-1-yard" target="_blank" rel="noopener noreferrer">EASYSUBLI MASK FOUND HERE</a></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RO_2C6Cq_KU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4601299304533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590793654357</id>
+    <published>2020-04-08T16:19:48-04:00</published>
+    <updated>2020-04-08T16:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/1-easyweed-htv-bundle"/>
+    <title>Nursery Rhymes Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Nursery-Rhymes-Easyweed-HTV-BUNDLE-12-x-15_52a5c4e8-3c38-4ab7-9505-a5d51b9ef064.jpg?v=1628958021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Easyweed HTV Bundle  </span>includes the following colours:</p>
+<p>EW01 - White 2pcs </p>
+<p>EW83 - Powder Blue</p>
+<p>EW65 - Light Pink</p>
+<p>EW62 - Lilac</p>
+<p>EW29 - Cream</p>
+<p>EW22 - Grey</p>
+<p>EW61 - Pale Blue</p>
+<p>EW85 - Melon</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590793654357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590173290581</id>
+    <published>2020-04-07T20:14:22-04:00</published>
+    <updated>2020-04-07T20:14:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/merry-bright-easyweed-htv-bundle"/>
+    <title>Merry &amp; Bright Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/merry-bright-easyweed-htv-bundle-12-x-15.jpg?v=1621439197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Merry &amp; Bright Easyweed HTV Bundle  </span>includes all the best Christmas and holiday heat transfer vinyl colours:</p>
+<p>EW01 - White</p>
+<p>EW64 - Green Apple</p>
+<p>EW55 - Bright Red</p>
+<p>EW05 - Red</p>
+<p>EW24 - Dark Green</p>
+<p>EW13 - Silver</p>
+<p>EW12 - Gold</p>
+<p>EW07- Green</p>
+<p>EW71 - Cardinal</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590173290581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590132691029</id>
+    <published>2020-04-07T18:38:25-04:00</published>
+    <updated>2020-04-07T18:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fall-easyweed-htv-bundle"/>
+    <title>Fall Into Autumn Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/fall-into-autumn-easyweed-htv-bundle-12-x-15.jpg?v=1621439195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Fall Into Autumn Easyweed HTV Bundle  </span>includes all the best autumn heat transfer vinyl colours:</p>
+<p>EW14 - Burgundy</p>
+<p>EW11 - Brown</p>
+<p>EW76 - Chocolate</p>
+<p>EW24 - Dark Green</p>
+<p>EW27 - Turquoise</p>
+<p>EW07 - Green</p>
+<p>EW15 - Purple</p>
+<p>EW72 - Maroon</p>
+<p>EW29 Cream</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590132691029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4589947420757</id>
+    <published>2020-04-07T14:23:36-04:00</published>
+    <updated>2020-04-07T14:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/summer-easyweed-htv-bundle"/>
+    <title>Summer Loving Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/summer-loving-easyweed-htv-bundle-12-x-15.jpg?v=1621439193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>It's so easy to love our summer-loving bundle! This Siser Summer Easyweed HTV Bundle  </span>includes all the best summer heat transfer vinyl colours:</p>
+<p>EW10 - Sky Blue</p>
+<p>EW21 - Lemon Yellow</p>
+<p>EW09 - Pink</p>
+<p>EW63 - Hibiscus</p>
+<p>EW56 - Wicked Purple</p>
+<p>EW64 - Green Apple</p>
+<p>EW06 - Yellow</p>
+<p>EW08 - Orange</p>
+<p>EW03 - Royal blue</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4589947420757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4589888536661</id>
+    <published>2020-04-07T10:47:19-04:00</published>
+    <updated>2020-04-07T10:47:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/3-easyweed-htv-bundle"/>
+    <title>Rags to Riches Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Rags-to-Riches-Easyweed-HTV-BUNDLE-12-x-15_0c9cfe5b-bc03-498d-bd3b-26aedf9d4e5a.jpg?v=1628958013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Easyweed HTV Bundle  </span>includes the following colours:</p>
+<p>EW01 - White 2pcs </p>
+<p>EW13 - Silver</p>
+<p>EW29 - Cream</p>
+<p>EW22 - Grey</p>
+<p>EW70 - Vegas Gold</p>
+<p>EW80 - Charcoal</p>
+<p>EW12 - Gold</p>
+<p>EW02 - Black<br></p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4589888536661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585571090517</id>
+    <published>2020-04-02T17:05:15-04:00</published>
+    <updated>2020-04-02T17:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fluorescent-easyweed-htv-bundle"/>
+    <title>Bright Fluorescent Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bright-fluorescent-easyweed-htv-bundle-12-x-15.png?v=1621439183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Fluorescent EasyWeed </span>Bundle includes all of the following bright neon colours! </p>
+<p>EW16 - Fluorescent Yellow</p>
+<p>EW17 - <span>Fluorescent Orange</span></p>
+<p>EW18 - <span>Fluorescent Green</span></p>
+<p>EW19 - <span>Fluorescent Pink</span></p>
+<p>EW20 - <span>Fluorescent Blue</span></p>
+<p>EW30 - <span>Fluorescent Raspberry</span></p>
+<p>EW84 - <span>Fluorescent Coral </span></p>
+<p> <span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585571090517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585530916949</id>
+    <published>2020-04-02T16:07:11-04:00</published>
+    <updated>2020-04-02T16:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew84-fluorescent-coral-easyweed-htv"/>
+    <title>EW84 Fluorescent Coral – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew84-fluorescent-coral-easyweedr-htv.jpg?v=1621439181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 54.00
+            <a href="https://www.designblanks.ca/products/ew84-fluorescent-coral-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585530916949</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585530916949</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585530916949</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>385</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585529376853</id>
+    <published>2020-04-02T16:03:49-04:00</published>
+    <updated>2020-04-02T16:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/2-easyweed-htv-bundle"/>
+    <title>Perfect Storm Easyweed - HTV BUNDLE - 12x15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/perfect-storm-easyweed-htv-bundle-12x15.jpg?v=1621439179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Perfect Storm Easyweed HTV Bundle  </span>includes the following stormy colours:</p>
+<p>EW01 - White</p>
+<p>EW83 - Powder Blue</p>
+<p>EW13 - Silver</p>
+<p>EW15 - Purple</p>
+<p>EW13 - Silver</p>
+<p>EW04 - Navy</p>
+<p>EW13 - Silver</p>
+<p>EW80 - Charcoal</p>
+<p>EW61 - Pale Blue</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585529376853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585482682453</id>
+    <published>2020-04-02T15:04:43-04:00</published>
+    <updated>2020-04-02T15:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/easyweed-htv-bundle"/>
+    <title>Elle Woods Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Elle-Woods-Easyweed-HTV-BUNDLE-12-x-15_acaf2f7a-bdbd-407c-a82d-fe913aebb4c3.jpg?v=1628958009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>'I think it gives it a little something extra, don't you think?' - Elle Woods♥</span></p>
+<p><span>Save 10% when you choose a Siser EasyWeed bundle!</span></p>
+<p><span>This Siser Easyweed HTV</span> Bundle includes the following Elle Woods approved colours! </p>
+<p>EW01 - White 2pcs</p>
+<p><span>EW65 - Light Pink</span></p>
+<p><span>EW70 - Vegas Gold 2pcs</span></p>
+<p><span>EW79 - Bubble Gum</span></p>
+<p><span>EW12 - Gold</span></p>
+<p>EW09 - Pink</p>
+<p><span>EW85 - Melon</span></p>
+<p>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser HTV Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585482682453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2644162674773</id>
+    <published>2019-10-07T11:36:50-04:00</published>
+    <updated>2019-10-07T11:36:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew-buffalo-plaid-easyweed-htv"/>
+    <title>EW Buffalo Plaid - EasyWeed® HTV **Read Instructions for use</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew-buffalo-plaid-easyweedr-htv-read-instructions-for-use.jpg?v=1621438796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.25 - 26.75
+            <a href="https://www.designblanks.ca/products/ew-buffalo-plaid-easyweed-htv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Buffalo plaid htv includes high tack transfer sheet that is required for the application. </h2>
+<p><span style="text-decoration: underline;"><strong>DO NOT MIRROR YOUR DESIGN</strong></span></p>
+<h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span></p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p> </p>
+<p> </p>
+<table border="0" width="90%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td valign="top">
+<span><strong>Application instructions (home iron)<br></strong></span><br><span>• Cut material – <strong>DO NOT MIRROR</strong>!<br>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with Kraft paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 10 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+<td valign="top">
+<span><strong>Application Instructions (heat press)<br></strong></span><br><span>• Cut material – <span style="text-decoration: underline;"><strong>DO NOT MIRROR</strong></span>!</span><br><span>• Weed excess material<br>• Mask with TTD High Tack Mask<br></span><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p>
+<p><a href="https://www.youtube.com/watch?v=3IDzvxDqxHI">https://www.youtube.com/watch?v=3IDzvxDqxHI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2644162674773</id>
+      <title>12&quot; x 12&quot; / 12&quot; x 12&quot;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2644162674773</id>
+      <title>12&quot; x 1 yard / 12&quot; x 1 yard</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/455122124840</id>
+    <published>2018-02-26T08:33:49-05:00</published>
+    <updated>2018-02-26T08:33:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew29-white-siser-easyweed-htv"/>
+    <title>EW29 Cream - EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew29-cream-easyweedr-htv.jpg?v=1621438278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.75 - 50.00
+            <a href="https://www.designblanks.ca/products/ew29-white-siser-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/455122124840</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/455122124840</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/455122124840</id>
+      <title>15&apos;&apos; x 5 yard</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/443493777448</id>
+    <published>2018-02-18T11:09:09-05:00</published>
+    <updated>2018-02-18T11:09:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/spring-easyweed-htv-bundle"/>
+    <title>Hello Spring Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/hello-spring-easyweed-htv-bundle-12-x-15.png?v=1621438259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="font-size: 1.4em;">Save 10% when you choose a bundle of 12 x 15" sheets!</span><br></p>
+<p><span>Why, hello! This Siser Spring Easyweed HTV Bundle </span>includes all the best spring heat transfer vinyl colours:</p>
+<p>EW01 - White</p>
+<p>EW09 - Pink</p>
+<p>EW10 - Sky Blue</p>
+<p>EW21 - Lemon Yellow</p>
+<p>EW61 - Pale Blue</p>
+<p>EW62 - Lilac</p>
+<p>EW64 - Green Apple</p>
+<p>EW65 - Light Pink</p>
+<p>EW85 - Melon</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/443493777448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/375431528488</id>
+    <published>2017-12-21T15:30:33-05:00</published>
+    <updated>2017-12-21T15:30:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew60-glow-in-the-dark-siser-easyweed-htv"/>
+    <title>EW60 Glow in the Dark – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/EW60-Glow-in-the-Dark-EasyWeedr-HTV_af82d333-144c-47d0-88ad-f423455fc001.jpg?v=1628784888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50 - 95.00
+            <a href="https://www.designblanks.ca/products/ew60-glow-in-the-dark-siser-easyweed-htv">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375431528488</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375431528488</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375431528488</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375431528488</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/375429136424</id>
+    <published>2017-12-21T15:29:12-05:00</published>
+    <updated>2017-12-21T15:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew20-fluorescent-blue-siser-easyweed-htv"/>
+    <title>EW20 Fluorescent Blue – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew20-fluorescent-blue-easyweedr-htv.jpg?v=1621438057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 54.00
+            <a href="https://www.designblanks.ca/products/ew20-fluorescent-blue-siser-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375429136424</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375429136424</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375429136424</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/398653292584</id>
+    <published>2017-12-21T15:28:26-05:00</published>
+    <updated>2017-12-21T15:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-ew16-fluorescent-yellow-siser-easyweed-htv"/>
+    <title>EW16 Fluorescent Yellow – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew16-fluorescent-yellow-easyweedr-htv.jpg?v=1621438081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 54.00
+            <a href="https://www.designblanks.ca/products/copy-of-ew16-fluorescent-yellow-siser-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/398653292584</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/398653292584</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/398653292584</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/375427006504</id>
+    <published>2017-12-21T15:27:46-05:00</published>
+    <updated>2017-12-21T15:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew30-fluorescent-raspberry-siser-easyweed-htv"/>
+    <title>EW30 Fluorescent Raspberry – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew30-fluorescent-raspberry-easyweedr-htv.jpg?v=1621438054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 54.00
+            <a href="https://www.designblanks.ca/products/ew30-fluorescent-raspberry-siser-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375427006504</id>
+      <title>15&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375427006504</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375427006504</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/375426285608</id>
+    <published>2017-12-21T15:27:05-05:00</published>
+    <updated>2017-12-21T15:27:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/ew19-fluorescent-pink-siser-easyweed-htv"/>
+    <title>EW19 Fluorescent Pink – EasyWeed® HTV</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ew19-fluorescent-pink-easyweedr-htv.jpg?v=1621438053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 54.00
+            <a href="https://www.designblanks.ca/products/ew19-fluorescent-pink-siser-easyweed-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The most trusted heat transfer vinyl brand in the world</h2>
+<p>Siser EasyWeed is<span> </span>extremely durable, wash after wash It uses a lower pressure setting and a lower heat setting for its application.  <em>EasyWeed</em><span> </span>is thinner than others on the market and offers a one-second tack application that’s great for multiple layers.<span> </span><em>EasyWeed</em> has a pressure sensitive carrier that allows you to offer detailed designs on a wide variety of fabrics.<span> </span><em>EasyWeed</em><span> </span>can be cut with laser cutting systems.</p>
+<p><em>EasyWeed</em><span> </span>is<span> </span><span class="fusion-popover popover-1" data-animation="1" data-class="popover-1" data-container="popover-1" data-content="This product has been independently lab tested and is Phthalate &amp; Lead compliant and is safe for application on children’s products" data-delay="50" data-placement="top" data-title="CPSIA Certification" data-toggle="popover" data-trigger="hover" data-original-title="" title="">CPSIA Certified</span><span> making it</span> perfect for children’s clothing and accessories.</p>
+<p><strong>Application Instructions (heat press)<br></strong><br><span>•  Mirror your image when cutting</span><br><span>• Weed excess material</span><br><span>• Preheat garment for 2-3 seconds</span><br><span>• Apply design at 305°F/150°C</span><br><span>• Use medium pressure for 10-15 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><strong>Application instructions (home iron)<br></strong><br><span>• Set iron dial between Cotton and Linen</span><br><span>• Cover design with parchment paper or non-stick cover sheet</span><br><span>• Place on flat, hard surface (ironing board not recommended)</span><br><span>• Press iron with medium/firm pressure (do not slide iron)</span><br><span>• Press each section of design for 10-15 seconds</span><br><span>• If areas of design lift after application, replace cover sheet</span><br><span>and re-press for 5-10 seconds</span><br><span>• Peel carrier hot or cold</span></p>
+<p><span><strong><em>EasyWeed</em> Applies to:</strong></span></p>
+<p>• 100% cotton<br>• Poly/cotton blends<br>• 100% polyester<br>• Leather</p>
+<p><strong>Laundering:</strong></p>
+<p>• Wait 24 hours before 1st wash<br>• Machine wash warm or cold/mild detergent<br>• Dry on normal dryer setting<br>• Do not dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375426285608</id>
+      <title>12&apos;&apos; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375426285608</id>
+      <title>12&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/375426285608</id>
+      <title>12&quot; x 5 yards</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

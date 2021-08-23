@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/make-up-bags.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-11-15T13:42:33-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/414112743464</id>
+    <published>2019-11-15T13:42:33-05:00</published>
+    <updated>2019-11-15T13:42:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/make-up-bag-gusset-bottom"/>
+    <title>Make Up Bag - Gusset Bottom</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Make-Up-Bag-Gusset-Bottom_4c71d920-d2b0-4350-9982-e8772fce6834.jpg?v=1628784922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>100% cotton bags. Perfect for bridesmaid gift bags, hangover kits, make up bags, pencil cases. Featuring a plastic zipper with a silver metal zipper tab. These are not lined. They do have a gusseted bottom. </p>
+<p>Makeup bag measures 19cm high by 24.5cm wide with a 4cm bottom gusset.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic bag</s:tag>
+    <s:tag>pencil case</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/414112743464</id>
+      <title>Grey</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/414112743464</id>
+      <title>Pink</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/414112743464</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/414112743464</id>
+      <title>Navy</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2680030920789</id>
+    <published>2019-08-04T17:21:38-04:00</published>
+    <updated>2019-08-04T17:21:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/canvas-make-up-bag-gusset-bottom"/>
+    <title>Canvas Make Up Bag - Gusset Bottom</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/canvas-make-up-bag-gusset-bottom.jpg?v=1621438818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>100% cotton canvas bags. Perfect for bridesmaid gift bags, hangover kits, make up bags. Featuring a plastic zipper with a canvas zipper tab. These are lined. They do have a gusseted bottom. </p>
+<p>**LIGHT BLUE BAG HAS A DARKER BLUE PULL TAB AS SHOWN IN THE PICTURE</p>
+<p>Approx 23x15x7cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetic bag</s:tag>
+    <s:tag>pencil case</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2680030920789</id>
+      <title>Purple Bottom</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2680030920789</id>
+      <title>Pink Bottom</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2680030920789</id>
+      <title>Red Bottom</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2680030920789</id>
+      <title>Light Blue Bottom</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2680030920789</id>
+      <title>Blue Bottom</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9792280065</id>
+    <published>2017-06-30T15:00:12-04:00</published>
+    <updated>2017-06-30T15:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mermaid-make-up-bags"/>
+    <title>Sequin Mermaid Make-up Bag or Pencil Case</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-mermaid-make-up-bag-or-pencil-case.jpg?v=1621437820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.90 - 39.95
+            <a href="https://www.designblanks.ca/products/mermaid-make-up-bags">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These are amazing! Not really a blank but a super popular item to advertise or sell at shows. </span></p>
+<p><span>Mermaid makeup bags. Brush the sequins up and down with your fingers to change the colours! We can't stop playing with them. They have a nice cotton/poly black lining on the inside and an adorable black velvet ribbon on the zipper pull.</span></p>
+<p><span>They measure approx - 5.5 x 3.75 inches.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>make up bag</s:tag>
+    <s:tag>makeup bag</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Black/White</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Gold/Black</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Pink/Silver</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Pink/Carbon Grey</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Cobalt Blue/Silver</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>355</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Turquoise/Pale Pink</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>365</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>Green-Blue/Black</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>365</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9792280065</id>
+      <title>10 Mermaid Sequin Make-up Bag - Random/Mystery Selection</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/3019-simple-satin-robe.atom"/>
+  <title>Design Blanks</title>
+  <updated>2020-02-12T12:30:39-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527642837077</id>
+    <published>2020-02-12T12:30:39-05:00</published>
+    <updated>2020-02-12T12:30:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-white"/>
+    <title>Simple Satin Robes 3019 WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-white.jpg?v=1621439096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642837077</id>
+      <title>White / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642837077</id>
+      <title>White / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642837077</id>
+      <title>White / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642837077</id>
+      <title>White / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642837077</id>
+      <title>White / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527642509397</id>
+    <published>2020-02-12T12:30:03-05:00</published>
+    <updated>2020-02-12T12:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-purple"/>
+    <title>Simple Satin Robes 3019 PURPLE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-purple.jpg?v=1621439095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642509397</id>
+      <title>Purple / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642509397</id>
+      <title>Purple / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642509397</id>
+      <title>Purple / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642509397</id>
+      <title>Purple / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642509397</id>
+      <title>Purple / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527642050645</id>
+    <published>2020-02-12T12:29:12-05:00</published>
+    <updated>2020-02-12T12:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-navy"/>
+    <title>Simple Satin Robes 3019 NAVY</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-navy.jpg?v=1621439095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642050645</id>
+      <title>Navy / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642050645</id>
+      <title>Navy / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642050645</id>
+      <title>Navy / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642050645</id>
+      <title>Navy / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527642050645</id>
+      <title>Navy / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527641362517</id>
+    <published>2020-02-12T12:28:26-05:00</published>
+    <updated>2020-02-12T12:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-dusty-rose"/>
+    <title>Simple Satin Robes 3019 DUSTY ROSE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Simple-Satin-Robes-3019-DUSTY-ROSE_3e049629-2904-49cf-98ca-3292f78e9a92.jpg?v=1628871549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641362517</id>
+      <title>Dusty Rose / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641362517</id>
+      <title>Dusty Rose / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641362517</id>
+      <title>Dusty Rose / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641362517</id>
+      <title>Dusty Rose / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641362517</id>
+      <title>Dusty Rose / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527641231445</id>
+    <published>2020-02-12T12:27:51-05:00</published>
+    <updated>2020-02-12T12:27:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-burgundy"/>
+    <title>Simple Satin Robes 3019 BURGUNDY</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-burgundy.jpg?v=1621439093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641231445</id>
+      <title>Burgundy / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641231445</id>
+      <title>Burgundy / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641231445</id>
+      <title>Burgundy / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641231445</id>
+      <title>Burgundy / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527641231445</id>
+      <title>Burgundy / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527640346709</id>
+    <published>2020-02-12T12:26:35-05:00</published>
+    <updated>2020-02-12T12:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-champagne"/>
+    <title>Simple Satin Robes 3019 CHAMPAGNE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Simple-Satin-Robes-3019-CHAMPAGNE_5c7a77f1-b343-408b-a430-9b80fd109eea.jpg?v=1628957999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527640346709</id>
+      <title>Champagne / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527640346709</id>
+      <title>Champagne / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527640346709</id>
+      <title>Champagne / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527640346709</id>
+      <title>Champagne / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527640346709</id>
+      <title>Champagne / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527639560277</id>
+    <published>2020-02-12T12:25:43-05:00</published>
+    <updated>2020-02-12T12:25:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-coral"/>
+    <title>Simple Satin Robes 3019 CORAL</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-coral.jpg?v=1621439091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527639560277</id>
+      <title>Coral / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527639560277</id>
+      <title>Coral / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527639560277</id>
+      <title>Coral / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527639560277</id>
+      <title>Coral / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527639560277</id>
+      <title>Coral / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527637594197</id>
+    <published>2020-02-12T12:23:06-05:00</published>
+    <updated>2020-02-12T12:23:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-grey"/>
+    <title>Simple Satin Robes 3019 GREY</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-grey.jpg?v=1621439090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637594197</id>
+      <title>Grey / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637594197</id>
+      <title>Grey / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637594197</id>
+      <title>Grey / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637594197</id>
+      <title>Grey / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637594197</id>
+      <title>Grey / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527637332053</id>
+    <published>2020-02-12T12:22:35-05:00</published>
+    <updated>2020-02-12T12:22:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-blush"/>
+    <title>Simple Satin Robes 3019 BLUSH</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-3019-blush.jpg?v=1621439089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. All colours are available in 3 children's sizes. </p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div>Size 4 - Bust 35cm, Length 56cm</div>
+<div>Size 8 - Bust 41.5cm, Length 72cm</div>
+<div>Size 12 - Bust  50cm, Length 84cm</div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637332053</id>
+      <title>Blush / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637332053</id>
+      <title>Blush / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637332053</id>
+      <title>Blush / Children 4</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637332053</id>
+      <title>Blush / Children 8</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527637332053</id>
+      <title>Blush / Children 12</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4527635398741</id>
+    <published>2020-02-12T12:19:48-05:00</published>
+    <updated>2020-02-12T12:19:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/simple-satin-robes-3019-royal"/>
+    <title>Simple Satin Robes 3019/2903 ROYAL BLUE</title>
+    <s:type></s:type>
+    <s:vendor>Fung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/simple-satin-robes-30192903-royal-blue.jpg?v=1621439088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful satin robes with 3/4 sleeves available in regular and plus sizes. Royal blue is not available in children's sizes.</p>
+<p>Each robe features a separate satin belt. 100% polyester satin.</p>
+<p>Measurements are taken lying flat. This is a half measurement</p>
+<p>Regular Size - Bust 62cm, Length 92cm </p>
+<p>Plus Size - Bust 71cm, length 100cm</p>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brides robes</s:tag>
+    <s:tag>bridesmaid robes</s:tag>
+    <s:tag>custom robes</s:tag>
+    <s:tag>satin robes</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527635398741</id>
+      <title>Royal Blue 2903 (same but with pockets! / Regular</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4527635398741</id>
+      <title>Royal Blue 3019 / Plus</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/beach-towels.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-06-30T11:04:50-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740127064149</id>
+    <published>2021-06-30T11:04:50-04:00</published>
+    <updated>2021-06-30T11:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-3"/>
+    <title>Round Beach Towels - BURGER</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-burger.jpg?v=1621439583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfibre Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740127064149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6585976127573</id>
+    <published>2021-05-31T09:57:40-04:00</published>
+    <updated>2021-05-31T09:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-aqua-clementine"/>
+    <title>Round Beach Towels - AQUA CLEMENTINE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-aqua-clementine.jpg?v=1622477833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6585976127573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6585975701589</id>
+    <published>2021-05-31T09:55:40-04:00</published>
+    <updated>2021-05-31T09:55:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-slice-of-life"/>
+    <title>Round Beach Towels - SLICE OF LIFE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-slice-of-life.jpg?v=1622477827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6585975701589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6585974849621</id>
+    <published>2021-05-31T09:51:10-04:00</published>
+    <updated>2021-05-31T09:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-sunny"/>
+    <title>Round Beach Towels - SUNNY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-sunny.jpg?v=1622477817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6585974849621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6585327812693</id>
+    <published>2021-05-29T20:05:01-04:00</published>
+    <updated>2021-05-29T20:05:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-unicorn"/>
+    <title>Round Beach Towels - Unicorn</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-unicorn.jpg?v=1622391362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6585327812693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6545868816469</id>
+    <published>2021-03-07T14:42:34-05:00</published>
+    <updated>2021-03-07T14:42:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-rainbos-zigs"/>
+    <title>Round Beach Towels - RAINBOW ZIGS</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-rainbow-zigs.jpg?v=1620245712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfibre Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6545868816469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6545868095573</id>
+    <published>2021-03-07T14:40:42-05:00</published>
+    <updated>2021-03-07T14:40:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-beach-ball"/>
+    <title>Round Beach Towels - BLUE LAGOON</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-blue-lagoon.jpg?v=1625760836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6545868095573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250796117</id>
+    <published>2020-08-01T19:09:24-04:00</published>
+    <updated>2020-08-01T19:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-18"/>
+    <title>Round Beach Towels - BEACH BUDDHA</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-beach-buddha.jpg?v=1625760830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250796117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250697813</id>
+    <published>2020-08-01T19:08:55-04:00</published>
+    <updated>2020-08-01T19:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-round-beach-towels-15"/>
+    <title>Round Beach Towels - SUMMERFEST</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-summerfest.jpg?v=1621439598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250697813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250665045</id>
+    <published>2020-08-01T19:08:28-04:00</published>
+    <updated>2020-08-01T19:08:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-17"/>
+    <title>Round Beach Towels - PALM ISLAND</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-palm-island.jpg?v=1621439597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250665045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250533973</id>
+    <published>2020-08-01T19:07:57-04:00</published>
+    <updated>2020-08-01T19:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-16"/>
+    <title>Round Beach Towels - FERRIS WHEEL</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-ferris-wheel.jpg?v=1621439596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250533973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250468437</id>
+    <published>2020-08-01T19:07:26-04:00</published>
+    <updated>2020-08-01T19:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-15"/>
+    <title>Round Beach Towels - NOT A HUGGER</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-not-a-hugger.jpg?v=1621439595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250468437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250402901</id>
+    <published>2020-08-01T19:06:52-04:00</published>
+    <updated>2020-08-01T19:06:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-14"/>
+    <title>Round Beach Towels - BOHO BEAUTY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-boho-beauty.jpg?v=1621439594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250402901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740250206293</id>
+    <published>2020-08-01T19:06:06-04:00</published>
+    <updated>2020-08-01T19:06:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-13"/>
+    <title>Round Beach Towels - SERENITY</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-serenity.jpg?v=1621439593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740250206293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740169793621</id>
+    <published>2020-08-01T19:05:31-04:00</published>
+    <updated>2020-08-01T19:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-12"/>
+    <title>Round Beach Towels - NAUTICAL</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-nautical.jpg?v=1621439593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740169793621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740168581205</id>
+    <published>2020-08-01T14:55:54-04:00</published>
+    <updated>2020-08-01T14:55:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-9"/>
+    <title>Round Beach Towels - PEACOCK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-peacock.jpg?v=1621439590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740168581205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740168908885</id>
+    <published>2020-08-01T14:55:45-04:00</published>
+    <updated>2020-08-01T14:55:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-10"/>
+    <title>Round Beach Towels - CHECKMATE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-checkmate.jpg?v=1625760825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740168908885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740164616277</id>
+    <published>2020-08-01T14:43:28-04:00</published>
+    <updated>2020-08-01T14:43:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-8"/>
+    <title>Round Beach Towels - WATERMELON</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-watermelon.jpg?v=1621439587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfibre Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740164616277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740163960917</id>
+    <published>2020-08-01T14:42:17-04:00</published>
+    <updated>2020-08-01T14:42:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-7"/>
+    <title>Round Beach Towels - GYPSY BLUES</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-gypsy-blues.jpg?v=1621439586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740163960917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740131684437</id>
+    <published>2020-08-01T14:13:29-04:00</published>
+    <updated>2020-08-01T14:13:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-6"/>
+    <title>Round Beach Towels - PINEAPPLES</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-pineapples.jpg?v=1626189471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740131684437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740130111573</id>
+    <published>2020-08-01T14:09:54-04:00</published>
+    <updated>2020-08-01T14:09:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-5"/>
+    <title>Round Beach Towels - TIDAL WAVES</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-tidal-waves.jpg?v=1621439585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740130111573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4740128964693</id>
+    <published>2020-08-01T14:07:53-04:00</published>
+    <updated>2020-08-01T14:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-4"/>
+    <title>Round Beach Towels - RISING SUN</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-rising-sun.jpg?v=1621439584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4740128964693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4738888728661</id>
+    <published>2020-07-30T23:10:26-04:00</published>
+    <updated>2020-07-30T23:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels-2"/>
+    <title>Round Beach Towels - PAISLEY SPLASH</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-paisley-splash.jpg?v=1621439582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4738888728661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4738882273365</id>
+    <published>2020-07-30T22:59:25-04:00</published>
+    <updated>2020-07-30T22:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/round-beach-towels"/>
+    <title>Round Beach Towels - KALEIDOSCOPE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/round-beach-towels-kaleidoscope.jpg?v=1621439581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4738882273365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403294941237</id>
+    <published>2018-05-29T23:41:01-04:00</published>
+    <updated>2018-05-29T23:41:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/white-blank-beach-towels-round"/>
+    <title>White/Blank  Beach Towels Round</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/whiteblank-beach-towels-round_33bcc124-6f47-46ea-9463-733ad9d95fd4.jpg?v=1622477805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for a day at the beach or hanging out by the pool at your house! Round beach towels with a fringe. Can be sublimated.</p>
+<p>The image below is a custom made towel a customer made. The towel comes white and any image can be added to it.</p>
+<p>Details:</p>
+<p>150cm (about 5 feet)</p>
+<p>100% Polyester Microfiber Terry</p>
+<p> <span data-mce-fragment="1">200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403294941237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

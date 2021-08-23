@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/charms.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-08T14:42:51-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/1438130208821</id>
+    <published>2021-07-08T14:42:51-04:00</published>
+    <updated>2021-07-08T14:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/2018-charms-25-pcs"/>
+    <title>2021 Charms - 20 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/2021-Charms-20-pcs_4478a94e-f22a-452f-927f-c7f4d733838b.jpg?v=1629216909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful charms are a great addition to your ornaments or keychains.</p>
+<main role="main" id="MainContent" class="main-content">
+<div class="shopify-section" id="shopify-section-product-template">
+<div data-enable-history-state="true" data-section-type="product" data-section-id="product-template" id="ProductSection-product-template" class="product-template__container page-width" itemtype="http://schema.org/Product" itemscope="">
+<div class="grid product-single">
+<div class="grid__item medium-up--one-half">
+<div class="product-single__meta">
+<div class="product-single__description rte" itemprop="description">
+<p> Approx10mm x 14 mm. Silver.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1438130208821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10270276929</id>
+    <published>2017-10-07T00:17:53-04:00</published>
+    <updated>2017-10-07T00:17:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-gem-charms-15pcs"/>
+    <title>Mixed Gem Charms - 25pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-gem-charms-25pcs.jpg?v=1621437853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are becoming very popular additions to your custom acrylic blank keychains or custom Christmas ornaments. </p>
+<p>This is a package of 25 pieces. Colours are a random mix. Gems are made of plastic.</p>
+<p>Each gem measures approx 11mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10270276929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

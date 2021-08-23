@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/bundles.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-05-13T12:58:03-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6578537955413</id>
+    <published>2021-05-13T12:58:03-04:00</published>
+    <updated>2021-05-13T12:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bundle-of-4-plus-size-long-sleeve-shirts"/>
+    <title>Bundle of 4 Plus Size Long Sleeve Shirts 2XL</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bundle-of-4-plus-size-long-sleeve-shirts-2xl.jpg?v=1621439643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As pictured 4 long sleeve shirts. A nice weight, black quilted fabric with cotton/poly plaid insert across back and inside neckline. Not elastic on cuffs or bottom. 5 snaps. Nice curved bottom hem, long in the body, tunic style. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6578537955413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6578532974677</id>
+    <published>2021-05-13T11:59:16-04:00</published>
+    <updated>2021-05-13T11:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-bundle-of-ornaments"/>
+    <title>Mixed Bundle of Ornaments - 41pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-bundle-of-ornaments-41pcs.jpg?v=1621439642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mixed box of our acrylic ornaments</p>
+<p>5pcs - 100mm round</p>
+<p>11pcs - 100,, flat</p>
+<p>18pcs - 80mm flat</p>
+<p>1pc - lightbulb</p>
+<p>2pcs - 120mm drops</p>
+<p>4pcs - onion bulb</p>
+<p>gold caps and wires</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6578532974677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6549803925589</id>
+    <published>2021-03-12T18:58:23-05:00</published>
+    <updated>2021-03-12T18:58:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/baby-tshirt-bundles-by-rabbit-skins"/>
+    <title>Baby 6 Month TSHIRT BUNDLES by Rabbit Skins 3 or 4 piece bundles</title>
+    <s:type></s:type>
+    <s:vendor>AB</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/baby-6-month-tshirt-bundles-by-rabbit-skins-3-or-4-piece-bundles.jpg?v=1620245754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AB<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.45 - 15.30
+            <a href="https://www.designblanks.ca/products/baby-tshirt-bundles-by-rabbit-skins">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Rabbit Skins 3401 Infant Tee Shirt Series (6m-18m)</p>
+<p> <strong>Features:</strong></p>
+<ul class="bullet">
+<li>100% cotton jersey</li>
+<li>ribbed crew neck</li>
+<li>taped shoulder-to-shoulder</li>
+<li>double-needle hemmed sleeves and bottom</li>
+<li>CPSIA compliant- tracking label inside seam</li>
+<li>White is sewn with 100% cotton thread</li>
+<li>Ash is 99% cotton, 1% polyester; Heather is 90% cotton, 10% polyester</li>
+<li>Inventory for this style may contain tearaway and non-tearaway labels</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/infant_size_1400x_370d7fbf-1a6e-462e-a701-6ba9f9f5b019_large.png?v=1558540985" alt=""></p>
+<div class="toprow">
+<div class="topleft"><img src="//cdn.shopify.com/s/files/1/1669/2063/files/toddler_shirt_size_large.PNG?v=1532969743" alt=""></div>
+<div class="topleft">How to measure:</div>
+</div>
+<div class="howto">
+<div class="howMeasure">
+<strong>BODY WIDTH:</strong> Lay garment flat. 1" below the armhole flat measure the garment across the chest.</div>
+<div class="howMeasure">
+<strong>FULL BODY LENGTH:</strong> Lay garment flat(face down). Measure from centre back neckline seam straight down to the back bottom hem.</div>
+<div class="howMeasure">
+<strong>SLEEVE LENGTH:</strong> Lay garment flat(face down). Measure from centre back neck to the outer edge of shoulder seam, then along outer edge to sleeve end.</div>
+<div class="howMeasure">
+<div class="howMeasure"></div>
+<div class="howMeasure"></div>
+<div class="howMeasure">
+<p> </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>infant</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>shirts</s:tag>
+    <s:tag>T-Shirt</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>toddler</s:tag>
+    <s:tag>tshirts</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Royal Blue, Light Blue, Black (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Grey, Black, Red (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Navy, Light Blue, Grey (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>White Only 4 pieces</title>
+      <s:price currency="CAD">15.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Pink, White, White (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Red, Grey, White (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Light Blue, Grey, White (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6549803925589</id>
+      <title>Light Pink, Grey, White (one of each)</title>
+      <s:price currency="CAD">11.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835794354261</id>
+    <published>2021-01-25T14:05:04-05:00</published>
+    <updated>2021-01-25T14:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/seconds-bundle-of-25-neoprene-koozies"/>
+    <title>**SECONDS** Bundle of 25 Neoprene Koozies - Buffalo Plaid or Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/SECONDS-Bundle-of-25-Neoprene-Koozies-Buffalo-Plaid-or-Black_ccd61d09-b9e5-4fee-9946-c2f8d892d273.jpg?v=1628785347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Koozies came to us in a compressed bale.</p>
+<p>Neoprene shouldn't be shipped under compression. These may work for you but you may find some of them wrinkled, may have dents in them, or just be a little on the flat side.</p>
+<p>They may come back to shape with time or manipulation but we can't make any promises. It may also help to have a cold can inside of them :)</p>
+<p>**Heads up, we peeked at these and many have come back to shape and look perfect, others may be slow to return to normal or may stay wrinkled. Pressing or inserting a can may still help.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835794354261</id>
+      <title>BUFFALO PLAID</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4800298582101</id>
+    <published>2020-11-03T21:52:39-05:00</published>
+    <updated>2020-11-03T21:52:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stunning-shades-of-gold-cushion-covers-samples"/>
+    <title>Stunning Shades of Gold Cushion Covers BUNDLE 6PCS **Samples**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stunning-shades-of-gold-cushion-covers-bundle-6pcs-samples.jpg?v=1620244728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxury cushion covers. We ordered these to sample but we felt the price point was too high. They are gorgeous fabrics and very well made. </p>
+<p>This is a pack of 6 beige/gold cushion covers. </p>
+<p>2 heavy velvet</p>
+<p>2 heavy polyester satin</p>
+<p>2 mid weight polyester with a subtle pinstripe</p>
+<p>**last of their kind items are not eligible for return or refund**</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4800298582101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4401743691861</id>
+    <published>2019-11-25T19:17:04-05:00</published>
+    <updated>2019-11-25T19:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/10-mermaid-sequin-cushion-covers-random-mystery-selection"/>
+    <title>10 Mermaid Sequin Cushion Covers - Random/Mystery Selection</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/10-mermaid-sequin-cushion-covers-randommystery-selection.png?v=1621438952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is for 10 random mermaid sequin cushion covers. <span style="background-color: #80ff00;">These will NOT be suitable for sublimation as no white sequin covers will be included.</span> Some people have success doing sublimation using black images on silver or cream sequins but we can't guarantee your success. </p>
+<p><span>These are satin back and suede back cushion covers approx 16x16 in size. </span></p>
+<p><span>Mystery Bundle Items are not eligible for return or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4401743691861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4326314836053</id>
+    <published>2019-10-27T22:51:28-04:00</published>
+    <updated>2019-10-27T22:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pack-of-10pcs-acrylic-blank"/>
+    <title>Pack of 10pcs Acrylic Blank - Random/Mystery Selection + Glitter + Keychains</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pack-of-10pcs-acrylic-blank-randommystery-selection-glitter-keychains.png?v=1621438915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This mystery bundle includes</span></p>
+<p>10 random acrylic blanks</p>
+<p>2 packs of glitter. 10gm bags in colours of our choice.</p>
+<p>10pcs of keyring and chain</p>
+<p><span>These are flat (2mm) acrylic ornaments. They make great tree ornaments, gift tags, or keychains.</span></p>
+<p><span>Mystery Bundle Items are not eligible for return or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4326314836053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2322035048533</id>
+    <published>2018-10-19T18:07:57-04:00</published>
+    <updated>2018-10-19T18:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/adult-christmas-tree-car-lounge-pants-special-buy-in-stock"/>
+    <title>BUNDLE of ADULT Christmas Tree Car Lounge Pants 4 Pair (2pr XL 2pr 2XL)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bundle-of-adult-christmas-tree-car-lounge-pants-4-pair-2pr-xl-2pr-2xl.jpeg?v=1621438627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bundle of 4 pairs of adult pajama bottoms 2 pair of XL and 2 pair of 2XL. Our regular price is $18 per pair. Now $12.50 per pair when bought as a bundle.</p>
+<p>Fabric :75% polyester ,20% cotton ,5% spandex .<br>Elastic waist, no drawstring.<br><br>Unisex fit.</p>
+<p>Women may wish to go one size down. This is a very loose fit. </p>
+<p>These are in-stock but this is a special buy and they cannot be re-ordered. When they are sold out, they are gone. </p>
+<p>Please follow the size chart.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>pyjama</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2322035048533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778593304680</id>
+    <published>2018-05-17T10:02:55-04:00</published>
+    <updated>2018-05-17T10:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/love-you-daddy-keychain"/>
+    <title>Love you Daddy KeyChain BUNDLE of 21pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/love-you-daddy-keychain-bundle-of-21pcs.jpg?v=1621438371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Such a great gift for Dads. A key ring with 3 tools attached.</p>
+<p>8pcs of Saw/Axe with the Daddy Circle reg $2.90 each</p>
+<p>2pcs Saw/Axe only (no circle) reg $2.30each</p>
+<p>11pcs of Hammer/Screwdriver/Wrench only (no circle) reg $2.30each</p>
+<p> </p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>key chain</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778593304680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+</feed>

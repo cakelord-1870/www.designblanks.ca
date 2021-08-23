@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/20oz-30oz-travel.atom"/>
+  <title>Design Blanks</title>
+  <updated>2020-10-22T19:20:11-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4793860751445</id>
+    <published>2020-10-22T19:20:11-04:00</published>
+    <updated>2020-10-22T19:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-light-blue"/>
+    <title>20oz TRAVEL Tumbler -  Light Ice Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-light-ice-blue.jpg?v=1620244564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> <span style="background-color: #f4f482;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4793860751445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4793843646549</id>
+    <published>2020-10-22T18:15:39-04:00</published>
+    <updated>2020-10-22T18:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-skinny-tumbler-light-pink"/>
+    <title>20oz SKINNY Tumbler - Light Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-SKINNY-Tumbler-Light-Pink_68b63dfb-f6f4-4559-93fa-89fa7ced7ff1.jpg?v=1629216985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #ffffae;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4793843646549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4793842991189</id>
+    <published>2020-10-22T18:13:14-04:00</published>
+    <updated>2020-10-22T18:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-skinny-tumbler-light-blue"/>
+    <title>20oz SKINNY Tumbler - Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-SKINNY-Tumbler-Light-Blue_e18efb12-b677-40ac-94ae-edec93f17458.jpg?v=1629130569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #fbfbb0;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4793842991189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/438307979304</id>
+    <published>2020-10-17T17:05:24-04:00</published>
+    <updated>2020-10-17T17:05:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-mug-rose-gold"/>
+    <title>20oz TRAVEL Tumbler - Rose Gold</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-rose-gold.jpg?v=1620236640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #fefea4;"> Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/438307979304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585630629973</id>
+    <published>2020-04-02T18:52:00-04:00</published>
+    <updated>2020-04-02T18:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-skinny-tumbler-rose-gold-1"/>
+    <title>20oz SKINNY Tumbler - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-SKINNY-Tumbler-White_48369c24-2de1-4108-bf5d-6b37930f640e.jpg?v=1628871563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #ffffaa;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. Customize with adhesive PSV vinyl by Siser!</p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold </p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. Metal may scratch if pressed with a sharp object.</span></p>
+<p><span>Not suitable for sublimation</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585630629973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585622765653</id>
+    <published>2020-04-02T18:33:13-04:00</published>
+    <updated>2020-04-02T18:33:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-skinny-tumbler-rose-gold"/>
+    <title>20oz SKINNY Tumbler - Rose Gold</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-SKINNY-Tumbler-Rose-Gold_afb4435c-6d90-4d28-b26f-46aab0934f2b.jpg?v=1629216961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #f7f988;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p> <span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585622765653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585611821141</id>
+    <published>2020-04-02T18:09:24-04:00</published>
+    <updated>2020-04-02T18:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-skinny-tumbler-black"/>
+    <title>20oz SKINNY Tumbler - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-SKINNY-Tumbler-Black_bfa5bf4f-4124-4db2-a690-74d2d22a4815.jpg?v=1629303426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #f9f99f;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585611821141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2648070258773</id>
+    <published>2019-07-11T11:59:06-04:00</published>
+    <updated>2019-07-11T11:59:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/replacement-lids-for-20oz-tumblers"/>
+    <title>Replacement Lids for 20oz Travel Tumblers</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/replacement-lids-for-20oz-travel-tumblers.jpg?v=1621438797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2648070258773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1332145913960</id>
+    <published>2018-06-22T17:44:52-04:00</published>
+    <updated>2018-06-22T17:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-mug-white"/>
+    <title>20oz TRAVEL Tumbler - White (P)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-white-p.jpg?v=1621438441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: #f9f9ab;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws! <a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p>
+<p><span>Not suitable for sublimation</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1332145913960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1338223820904</id>
+    <published>2018-02-13T21:30:48-05:00</published>
+    <updated>2018-02-13T21:30:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-mug-dark-pink"/>
+    <title>20oz TRAVEL Tumbler - Dark Pink (B)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-dark-pink-b.jpg?v=1621438453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #fbfbae;"> Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and </span><span>you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1338223820904</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/438309683240</id>
+    <published>2018-02-13T21:30:48-05:00</published>
+    <updated>2018-02-13T21:30:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-mug-baby-blue"/>
+    <title>20oz TRAVEL Tumbler - Stainless Steel</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-stainless-steel.jpg?v=1621438257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #fbfbb9;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/438309683240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/438308306984</id>
+    <published>2018-02-13T21:30:48-05:00</published>
+    <updated>2018-02-13T21:30:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/20oz-travel-tumbler-mug"/>
+    <title>20oz TRAVEL Tumbler - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/20oz-travel-tumbler-black.jpg?v=1620236653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background-color: #f9f998;">Not suitable for sublimation. Please note that these are NOT suitable for sublimation printing. They are not coated.</span></p>
+<p>These double-walled stainless steel tumblers with lids are great for summer parties or wedding party gifts. </p>
+<p>The 20oz size lids feature a sliding lid for an option to close it. The cup can also be used without a lid.</p>
+<p>Perfect for your hot and cold liquids.</p>
+<p>Looks amazing with one of our reusable straws!<span> </span><a href="https://www.designblanks.ca/products/reusable-straw" target="_blank">Find them here</a></p>
+<p><span>DISCLAIMER: Tumblers are manufactured in small batches and you will see differences between colours and finishes between different batches and dye lots, we apologize that this is out of our control. Hand-wash only and do NOT let lids soak, do not pour boiling water over them. Plastic lids will not last as long as stainless steel tumblers and replacement lids are available. Dishwashing the lids will cause hazing and cracking of the lids. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/438308306984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>495</s:grams>
+    </s:variant>
+  </entry>
+</feed>

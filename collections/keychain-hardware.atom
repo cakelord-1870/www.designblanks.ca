@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/keychain-hardware.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-08T14:42:51-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/1438130208821</id>
+    <published>2021-07-08T14:42:51-04:00</published>
+    <updated>2021-07-08T14:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/2018-charms-25-pcs"/>
+    <title>2021 Charms - 20 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/2021-Charms-20-pcs_4478a94e-f22a-452f-927f-c7f4d733838b.jpg?v=1629216909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful charms are a great addition to your ornaments or keychains.</p>
+<main role="main" id="MainContent" class="main-content">
+<div class="shopify-section" id="shopify-section-product-template">
+<div data-enable-history-state="true" data-section-type="product" data-section-id="product-template" id="ProductSection-product-template" class="product-template__container page-width" itemtype="http://schema.org/Product" itemscope="">
+<div class="grid product-single">
+<div class="grid__item medium-up--one-half">
+<div class="product-single__meta">
+<div class="product-single__description rte" itemprop="description">
+<p> Approx10mm x 14 mm. Silver.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1438130208821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4521019244629</id>
+    <published>2020-02-06T11:28:39-05:00</published>
+    <updated>2020-02-06T11:28:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/faux-fur-easter-bunny-keychain-puffs"/>
+    <title>Faux Fur EASTER BUNNY Keychain Pom Pom</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/faux-fur-easter-bunny-keychain-pom-pom.jpg?v=1621439056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They have bunny ears or could be cat ears. They have very nice hardware with a large solid ring and a lobster clip. All hardware is gold.</p>
+<p>A cute addition to an Easter bucket or bag!</p>
+<p>I didn't take as much time as I should have to fluff them for pics but when you take the time... wowza! so cute.</p>
+<p>People are selling these faux fur keychain puffs for $10 and up on Etsy! I think that seems kinda crazy but what an amazing addition to a custom keychain. </p>
+<p>If they arrive a little squished, just a gentle shake should put them right. I have also heard that you can use a hair dryer on low for maximum puff.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux rabbit fur keychain puffs</s:tag>
+    <s:tag>pom pom</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4521019244629</id>
+      <title>White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4521019244629</id>
+      <title>Grey</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4521019244629</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670227947605</id>
+    <published>2019-07-28T17:36:05-04:00</published>
+    <updated>2019-07-28T17:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/faux-leather-key-ring"/>
+    <title>Faux Leather Key Ring SUB</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Faux-Leather-Key-Ring-SUB_61627cb5-1343-4d1b-9642-83f1de570aa5.jpg?v=1628871482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Well made faux leather key rings for sublimation. Will also work for htv.</p>
+<p>Double-sided white printing surface.</p>
+<p>Leather portion 3.25 x 1.75 inches</p>
+<p>Full key ring 4.25 x 1.75</p>
+<p><span>200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670227947605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/280634621992</id>
+    <published>2017-11-09T21:46:40-05:00</published>
+    <updated>2017-11-09T21:46:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/key-ring-chain-5pcs-gold-plated"/>
+    <title>Key Ring &amp; Chain 5pcs - Gold Plated</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Key-Ring-Chain-5pcs-Gold-Plated_db01d944-6293-4178-a405-76b244bf2357.jpg?v=1628871375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Split </span>Key Ring &amp; Chains, Gold Plated 60mm long. Each order is for 5 pieces.</p>
+<p>Turn any acrylic blank into a keychain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/280634621992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10289514369</id>
+    <published>2017-10-10T23:01:18-04:00</published>
+    <updated>2017-10-10T23:01:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stubbie-keychain-tassels-faux-suede-20pcs"/>
+    <title>Stubbie Keychain Tassels - Faux Suede - 20pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Stubbie-Keychain-Tassels-Faux-Suede-20pcs_d2df0323-8a34-441d-a406-c8f68f3bace3.jpg?v=1628871370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each tassel measures 4cm long. These have a silver or gold plastic cap.</p>
+<p>Each 20 pack is made up of mixed colours. You can choose gold or silver cap.</p>
+<p>Now you need an acrylic blank and a keychain and you are on your way to a cute custom keychain!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10289514369</id>
+      <title>Gold Caps</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10289514369</id>
+      <title>Silver Caps</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/8617620225</id>
+    <published>2017-01-02T17:33:00-05:00</published>
+    <updated>2017-01-02T17:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/key-ring-chain"/>
+    <title>Key Ring &amp; Chain 10pcs - Silver</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Key-Ring-Chain-10pcs-Silver_dc262916-e15c-49bd-9f27-87b60a575641.jpg?v=1628871292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Split </span>Key Ring &amp; Chains, Rhodium Plated 60mm long. Each order is for 10 pieces.</p>
+<p>Turn any acrylic blank into a keychain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/8617620225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+</feed>

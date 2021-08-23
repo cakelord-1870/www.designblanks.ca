@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/ribbon.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-03-29T13:31:49-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6560812499029</id>
+    <published>2021-03-29T13:31:49-04:00</published>
+    <updated>2021-03-29T13:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-ribbon-bundle-6-yards"/>
+    <title>Mixed Ribbon Bundle #1 - 6+ yards</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-ribbon-bundle-1-6-yards.jpg?v=1620245758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Mixed bundle of our Stag and Teal ribbons </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6560812499029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330050617429</id>
+    <published>2019-10-29T11:40:16-04:00</published>
+    <updated>2019-10-29T11:40:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/snowflake-ribbon-5-yard-roll"/>
+    <title>Snowflake Ribbon - 6+ yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/snowflake-ribbon-6-yard-roll.jpg?v=1621438921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330050617429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330048454741</id>
+    <published>2019-10-29T11:39:09-04:00</published>
+    <updated>2019-10-29T11:39:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/grey-berry-ribbon-5-yard-roll"/>
+    <title>Grey Berry Ribbon - 8+ yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-berry-ribbon-8-yard-roll.jpg?v=1620240463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330048454741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330039541845</id>
+    <published>2019-10-29T11:32:36-04:00</published>
+    <updated>2019-10-29T11:32:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/teal-pattern-ribbon-5-yard-roll"/>
+    <title>Teal Pattern Ribbon - 5 yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/teal-pattern-ribbon-5-yard-roll.jpg?v=1621438920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch Teal cross-hatch ribbon would make great addition to your decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330039541845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1444895195189</id>
+    <published>2018-10-01T10:12:02-04:00</published>
+    <updated>2018-10-01T10:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/rainbow-honeycomb-ribbon-5-yard-rolls"/>
+    <title>Rainbow Honeycomb Ribbon - 5 yard rolls</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rainbow-honeycomb-ribbon-5-yard-rolls.jpg?v=1621438596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 1.5 inch Rainbow Honeycomb grosgrain ribbon would make great addition to any decorations or ornaments.</p>
+<p>Comes in 5 yard rolls.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1444895195189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1444892966965</id>
+    <published>2018-10-01T10:12:02-04:00</published>
+    <updated>2018-10-01T10:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stag-ribbon-5-yard-rolls"/>
+    <title>Stag (Deer) Ribbon - 5 yard rolls</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stag-deer-ribbon-5-yard-rolls.jpg?v=1621438595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch Stag (Deer) ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>Comes in 5 yard rolls.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1444892966965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

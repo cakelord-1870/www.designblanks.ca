@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/featured-christmas.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-11-02T21:42:08-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4340679344213</id>
+    <published>2019-11-02T21:42:08-04:00</published>
+    <updated>2019-11-02T21:42:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/solid-buffalo-plaid-tree-skirt-white"/>
+    <title>Solid Buffalo Plaid Tree Skirt - WHITE</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/solid-buffalo-plaid-tree-skirt-white.jpg?v=1621438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4340679344213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4290637004885</id>
+    <published>2019-10-19T16:56:51-04:00</published>
+    <updated>2019-10-19T16:56:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-buffalo-plaid-tree-skirt-white"/>
+    <title>Burlap with Buffalo Plaid Tree Skirt - WHITE BUF PLAID</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-with-buffalo-plaid-tree-skirt-white-buf-plaid.jpg?v=1621438910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>Tree Skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4290637004885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10284333761</id>
+    <published>2019-10-09T11:04:05-04:00</published>
+    <updated>2019-10-09T11:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-ruffle-tree-skirt"/>
+    <title>Solid Burlap Ruffle Tree Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/solid-burlap-ruffle-tree-skirt.jpg?v=1621437863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10284333761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/281896321064</id>
+    <published>2017-12-05T11:56:50-05:00</published>
+    <updated>2017-12-05T11:56:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-quilted-tree-skirt"/>
+    <title>Cotton Quilted Tree Skirt - Green</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cotton-quilted-tree-skirt-green.jpg?v=1621437916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The softest cotton with a quilted stitching throughout. </p>
+<p><span>The skirts are approx 50" across. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/281896321064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/311177838632</id>
+    <published>2017-12-05T11:46:39-05:00</published>
+    <updated>2017-12-05T11:46:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-quilted-tree-skirt-red"/>
+    <title>Cotton Quilted Tree Skirt - Red</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cotton-quilted-tree-skirt-red.jpg?v=1621437977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The softest cotton with a quilted stitching throughout. </p>
+<p><span>The skirts are approx 50" across. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/311177838632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/287102533672</id>
+    <published>2017-11-17T11:35:32-05:00</published>
+    <updated>2017-11-17T11:35:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-buffalo-plaid-tree-skirt"/>
+    <title>Burlap with Buffalo Plaid Tree Skirt - RED BUF PLAID</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-with-buffalo-plaid-tree-skirt-red-buf-plaid.jpg?v=1621437923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/287102533672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10284317953</id>
+    <published>2017-10-09T15:06:18-04:00</published>
+    <updated>2017-10-09T15:06:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-red-ruffle-tree-skirt"/>
+    <title>Burlap with Red Ruffle Tree Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-with-red-ruffle-tree-skirt.jpg?v=1621437861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10284317953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10284301441</id>
+    <published>2017-10-09T15:04:19-04:00</published>
+    <updated>2017-10-09T15:04:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-with-cream-ruffle-tree-skirt"/>
+    <title>Burlap with Cream Ruffle Tree Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/burlap-with-cream-ruffle-tree-skirt.jpg?v=1621437859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and heavy cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10284301441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10284275585</id>
+    <published>2017-10-09T14:57:31-04:00</published>
+    <updated>2017-10-09T14:57:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid"/>
+    <title>Solid Buffalo Plaid Tree Skirt - RED</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/solid-buffalo-plaid-tree-skirt-red.jpg?v=1621437857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Some of the tree skirts have matching stockings but these are not included and must be ordered separately. You can find them under Christmas stockings. </span></p>
+<p><span>The skirts are approx 50" across. </span></p>
+<p><span>These are a combination of burlap fabric and cotton fabric. The skirts do have a lining on the back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10284275585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

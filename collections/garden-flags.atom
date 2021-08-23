@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/garden-flags.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-10-08T11:42:00-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4183760732245</id>
+    <published>2019-10-08T11:42:00-04:00</published>
+    <updated>2019-10-08T11:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-garden-flag-pennant-shape"/>
+    <title>Polyester Garden Flag - Pennant Shape</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/polyester-garden-flag-pennant-shape.jpg?v=1621438889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% polester.</p>
+<p>Perfect for sublimation printing.</p>
+<p>Flag measures approximately 12x18 inches.<span></span></p>
+<p> <span data-mce-fragment="1">200C degrees for 60 seconds</span></p>
+<meta charset="utf-8">
+<p><span> </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4183760732245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4183759028309</id>
+    <published>2019-10-08T11:39:46-04:00</published>
+    <updated>2019-10-08T11:39:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-garden-flag-rectangle"/>
+    <title>Polyester Garden Flag - Rectangle</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/polyester-garden-flag-rectangle.jpg?v=1621438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% polester.</p>
+<p>Perfect for sublimation printing.</p>
+<p>Flag measures approximately 12x18 inches.<span></span></p>
+<p> <span data-mce-fragment="1">200C degrees for 60 seconds</span></p>
+<p> </p>
+<meta charset="utf-8">
+<p><span> </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4183759028309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2743502569557</id>
+    <published>2019-09-12T14:37:23-04:00</published>
+    <updated>2019-09-12T14:37:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/halloween-garden-flags"/>
+    <title>Halloween Garden Flags</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/halloween-garden-flags.png?v=1620240074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halloween garden flags. Fun to customize! See some of our examples pictured. </p>
+<p> </p>
+<p> </p>
+<meta charset="utf-8">
+<p><span> </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743502569557</id>
+      <title>Witch</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2743502569557</id>
+      <title>Moon</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/408788697128</id>
+    <published>2018-01-18T11:17:29-05:00</published>
+    <updated>2018-01-18T11:17:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-rose-led-fairy-lights"/>
+    <title>Rose LED fairy lights</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rose-led-fairy-lights.jpg?v=1621438154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful rose LED fairy lights make perfect decoration for any room.</p>
+<p>These lights are battery operated, designed to be used anywhere.</p>
+<p>It needs 3 AA batteries (not included) inserted in the battery box attached at the end of the string of lights.</p>
+<p>7.5 feet long.</p>
+<p>** unlit light strands in both pink and white look the same however once lit you see the colour difference</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/408788697128</id>
+      <title>White</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/408788697128</id>
+      <title>Pink</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9961640769</id>
+    <published>2017-07-28T11:23:39-04:00</published>
+    <updated>2017-07-28T11:23:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/christmas-stockings-garden-flag"/>
+    <title>Christmas Stocking GARDEN FLAG PENNANTS</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/christmas-stocking-garden-flag-pennants.jpg?v=1621437833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double-sided! Each side is exactly the same. These are very well made and make cute garden flags or door hanger decorations.</p>
+<p>These are not stockings! These are stocking shaped garden flags! I am not a huge Christmas fan but these are melting my icy heart.  </p>
+<p>Approx 12x18.5 inches.</p>
+<p> <a href="https://www.designblanks.ca/products/natural-dowel-4-pk" target="_blank" rel="noopener noreferrer">Find our 4pack of wood dowels here! </a></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas stocking</s:tag>
+    <s:tag>garden flag</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9961640769</id>
+      <title>Chevron Stripe</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9961640769</id>
+      <title>Polka Dot</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1465223086133</id>
+    <published>2017-06-05T18:32:34-04:00</published>
+    <updated>2017-06-05T18:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-garden-flag-buffalo-plaid-ruffle"/>
+    <title>Faux Burlap Garden Flag - Buffalo Plaid Ruffle</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/faux-burlap-garden-flag-buffalo-plaid-ruffle.jpg?v=1621438621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faux Burlap garden flags with a cute ruffle on the bottom. The flag holder is not included. This is only the flag. It measures 12x18 including the ruffle (ruffle is just over 2')</p>
+<p> </p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1465223086133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778384113768</id>
+    <published>2017-06-05T18:32:34-04:00</published>
+    <updated>2017-06-05T18:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/burlap-garden-flags-with-tab-this-is-a-pre-order-not-an-in-stock-item"/>
+    <title>Burlap Garden Flag - With Tab -</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Burlap-Garden-Flag-With-Tab_15b0b5ac-d0a4-4ae4-a931-144e6e19e7ae.png?v=1628871410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burlap garden flags with tab top. Never struggle to feed it onto a garden pole again!</p>
+<p>The flag holder is not included. This is only the flag. It measures approx 12x18 </p>
+<p>These are very well made. All the corners are finished and they have a coating on the back to strengthen them and preserve them in outdoor environments.</p>
+<meta charset="utf-8">
+<p><span> </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778384113768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

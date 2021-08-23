@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/pre-made-keychains.atom"/>
+  <title>Design Blanks</title>
+  <updated>2020-05-19T17:08:22-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4655930081365</id>
+    <published>2020-05-19T17:08:22-04:00</published>
+    <updated>2020-05-19T17:08:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/neoprene-hand-sanitizer-holder"/>
+    <title>Hand Sanitizer Holder Keyring - Neoprene 11 PATTERNS!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Hand-Sanitizer-Holder-Keyring-Neoprene-11-PATTERNS_5302c7da-320d-4b28-b342-ca8177fdffbc.jpg?v=1628785292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00 - 1.95
+            <a href="https://www.designblanks.ca/products/neoprene-hand-sanitizer-holder">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holds a small personal use bottle of hand sanitizer. <span data-mce-fragment="1">Hand sanitizer or sanitizer bottle is not included. </span><span data-mce-fragment="1">Empty bottles sold separately and can be found in this listing. </span></p>
+<p>Measures approx 10.5 x 6 cm</p>
+<p>Hand sanitizer is not included. <span>Empty bottles sold separately and can be found in this listing. </span></p>
+<p><span>200C degrees for 60 seconds for sublimation printing. Only styles with white space are recommended for sublimation printing. </span></p>
+<p><span>All styles are suitable for htv. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Serape</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Pink Rose</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Tie Dye</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Camo</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Baseball</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Buffalo Plaid</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Cacti</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Secret Garden</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655930081365</id>
+      <title>Empty 30ml bottle with flip top</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4655918907477</id>
+    <published>2020-05-19T16:45:51-04:00</published>
+    <updated>2020-05-19T16:45:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/handy-key"/>
+    <title>Handy Key - Door Opener - Button Pusher</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/handy-key-door-opener-button-pusher.jpg?v=1621439415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an amazing little device that you and all of your customers will want on their keyring. Use the hook to open door handles out in public without having to touch them. Use the end to interact with touch screens and key pin pads.</p>
+<p>These are currently selling online for $10-15 retail</p>
+<p>Key measures approx 7cm at widest point</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4655918907477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4624913170517</id>
+    <published>2020-05-04T15:14:35-04:00</published>
+    <updated>2020-05-04T15:14:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mom-keychain-tattoo-style"/>
+    <title>Mom Keychain - Tattoo Style</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mom-keychain-tattoo-style.jpg?v=1621439373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable! A solid cabochon keyring</p>
+<p>It comes with an organza gift bag and a tassel and split ring to attach the tassel. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4624913170517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/781401227368</id>
+    <published>2020-04-07T20:26:40-04:00</published>
+    <updated>2020-04-07T20:26:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pencil-keychain-with-tassel-preorder"/>
+    <title>Pencil keychain - 4 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Pencil-keychain-4-pcs_bac9795c-9004-446d-ab23-ebafbc2f3bb9.jpg?v=1628871419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect teacher gifts. Teachers love these for hall passes or supply closets! Simply customize as needed. </p>
+<p>It comes with 4 pencil designs each with a key ring. 2 pink pieces and 2 blue pieces.  </p>
+<p>*imperfection or wrinkles in the photo are from the protective film.</p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/781401227368</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2670227947605</id>
+    <published>2019-07-28T17:36:05-04:00</published>
+    <updated>2019-07-28T17:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/faux-leather-key-ring"/>
+    <title>Faux Leather Key Ring SUB</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Faux-Leather-Key-Ring-SUB_61627cb5-1343-4d1b-9642-83f1de570aa5.jpg?v=1628871482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Well made faux leather key rings for sublimation. Will also work for htv.</p>
+<p>Double-sided white printing surface.</p>
+<p>Leather portion 3.25 x 1.75 inches</p>
+<p>Full key ring 4.25 x 1.75</p>
+<p><span>200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2670227947605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2559906218069</id>
+    <published>2019-05-13T12:36:43-04:00</published>
+    <updated>2019-05-13T12:36:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-bottle-opener-key-ring"/>
+    <title>Sublimation Bottle Opener Key Ring - 4pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-bottle-opener-key-ring-4pack.jpg?v=1625760819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">4 bottle opener keyrings for sublimation.</span></p>
+<p>Sublimation disc measures approx 1 inch or 2.5cm</p>
+<p>200C degrees for 60 seconds<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2559906218069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2549218082901</id>
+    <published>2019-05-07T11:14:53-04:00</published>
+    <updated>2019-05-07T11:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/dog-bone-keychain"/>
+    <title>Dog Bone Keychain</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/dog-bone-keychain.jpg?v=1621438739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strong and solid! Throw me a bone. Perfect for dog lovers everywhere. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2549218082901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2384409821269</id>
+    <published>2019-01-29T17:41:16-05:00</published>
+    <updated>2019-01-29T17:41:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bunny-key-chain-2pcs"/>
+    <title>Bunny Key Chain - 2pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bunny-key-chain-2pcs.jpg?v=1621438670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95 - 22.00
+            <a href="https://www.designblanks.ca/products/bunny-key-chain-2pcs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute set of keychains. One with a bowtie and one with a heart. Each says love inside the ear. Break up the set and sell individually or keep together. </p>
+<p>Metal Alloy</p>
+<p>Made in China</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2384409821269</id>
+      <title>One set of 2pcs</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2384409821269</id>
+      <title>Bundle of 10pcs - Save 25%</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2369920467029</id>
+    <published>2019-01-12T16:41:44-05:00</published>
+    <updated>2019-01-12T16:41:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/heart-keychain"/>
+    <title>Silver Heart Keychain</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/silver-heart-keychain.jpg?v=1621438652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavyweight, well made.</p>
+<p>Each heart key chain comes with an organza gift bag in a love shade! Red, wine, pink or cream.</p>
+<p>Silver Metal Alloy</p>
+<p>*made in China</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2369920467029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/779551866984</id>
+    <published>2018-05-22T18:54:38-04:00</published>
+    <updated>2018-05-22T18:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/teacher-big-heart-keychain"/>
+    <title>Teacher Big Heart Keychain</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/teacher-big-heart-keychain.jpg?v=1621438373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The perfect teacher keychain. Features an enamel apple, a large heart charm to remind them that it takes a big heart to help shape little minds and a smaller thank you heart charm. The apple and large heart are both blank on the back side and slightly textured.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/779551866984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778593304680</id>
+    <published>2018-05-17T10:02:55-04:00</published>
+    <updated>2018-05-17T10:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/love-you-daddy-keychain"/>
+    <title>Love you Daddy KeyChain BUNDLE of 21pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/love-you-daddy-keychain-bundle-of-21pcs.jpg?v=1621438371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Such a great gift for Dads. A key ring with 3 tools attached.</p>
+<p>8pcs of Saw/Axe with the Daddy Circle reg $2.90 each</p>
+<p>2pcs Saw/Axe only (no circle) reg $2.30each</p>
+<p>11pcs of Hammer/Screwdriver/Wrench only (no circle) reg $2.30each</p>
+<p> </p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>key chain</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778593304680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/776472232040</id>
+    <published>2018-05-08T18:14:48-04:00</published>
+    <updated>2018-05-08T18:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mama-bear-keychain"/>
+    <title>Mama Bear Keychain</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mama-bear-keychain.jpg?v=1621438340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable! Baby bear cut out of the Momma bear.</p>
+<p>Stainless steel and the 'mama bear' is lightly engraved.</p>
+<p>The bear measures 16 mm high and 27 mm long and 2mm thick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/776472232040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9948354177</id>
+    <published>2017-07-26T12:44:02-04:00</published>
+    <updated>2017-07-26T12:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/enamel-keychain-with-fringe-tassel"/>
+    <title>Enamel Key Chain with Fringe Tassel</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/enamel-key-chain-with-fringe-tassel.jpg?v=1621437832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enamel Keychains with a fringe tassel! Available in gold or silver hardware. These look super classy with a monogram!</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blanks for vinyl keychains</s:tag>
+    <s:tag>key chain enamel</s:tag>
+    <s:tag>monogram keychain</s:tag>
+    <s:tag>tassel keychain</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9948354177</id>
+      <title>Green/Gold</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9602340353</id>
+    <published>2017-06-06T19:39:46-04:00</published>
+    <updated>2017-06-06T19:39:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pre-order-aluminum-bottle-and-can-opener"/>
+    <title>Aluminum Bottle and Can Opener</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Aluminum-Bottle-and-Can-Opener_4f305af5-0853-4659-89d4-7d4ee1259eb4.jpg?v=1628871315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.95 - 7.00
+            <a href="https://www.designblanks.ca/products/pre-order-aluminum-bottle-and-can-opener">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They are a bottle opener on one side and a can tab opener on the other.  </p>
+<p>They are approximately 68mm long. </p>
+<p>Perfect for wedding parties, ball teams and Dads!</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9602340353</id>
+      <title>Blue</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9602340353</id>
+      <title>10pcs pack -Blue</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9401670401</id>
+    <published>2017-05-10T18:28:41-04:00</published>
+    <updated>2017-05-10T18:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/lip-chap-keychain"/>
+    <title>Lip Chap Keychain</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/lip-chap-keychain.jpg?v=1621437749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75 - 20.60
+            <a href="https://www.designblanks.ca/products/lip-chap-keychain">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I can't live without one of these clipped inside my purse to keep my lip balm handy. I also have one in my beach bag. Such a great idea and so cute! </p>
+<p>The chevrons are 100% cotton. Pink with white polka dots is satin ribbon. Pink with black polka dots, nautical and blue with white polka dots are finely ribbed grosgrain ribbon.</p>
+<p>Lip Chap is just to show size and NOT included with the lip chap keychain.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chapstick holder</s:tag>
+    <s:tag>lip balm holder</s:tag>
+    <s:tag>lip balm keychain</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Light Pink Chevron</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Red Chevron</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Yellow Chevron</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Turquoise Chevron</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Green Chevron</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>Anchor Red</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9401670401</id>
+      <title>MIxed Bundle of 10pcs - Randomly Chosen Save 25%</title>
+      <s:price currency="CAD">20.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/8621392193</id>
+    <published>2017-01-03T14:25:00-05:00</published>
+    <updated>2017-01-03T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/tassel-keychains-many-colours"/>
+    <title>Stainless Steel Keychain with Tassel - PINK</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stainless-steel-keychain-with-tassel-pink.jpg?v=1621437691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>These are stunning once customized with a vinyl letter or small design! These are quality keychains and the tassels have a metal cap (cheaper versions have plastic cap and break easy).</span></div>
+<div><span></span></div>
+<div><span>Tassel12 x 60mm   </span></div>
+<div><span>Metal KeyChain :32mm</span></div>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/8621392193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

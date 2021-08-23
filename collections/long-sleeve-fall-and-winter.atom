@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/long-sleeve-fall-and-winter.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-01-28T15:30:33-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835091513429</id>
+    <published>2021-01-28T15:30:33-05:00</published>
+    <updated>2021-01-28T15:30:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/slouchy"/>
+    <title>The Rebel - Slouchy Off the Shoulder</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-rebel-slouchy-off-the-shoulder.png?v=1620244932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You need this. We all need this! A gorgeous slouchy, off the shoulder long sleeve sweater. This is a lightweight french terry fabric. </p>
+<p>This is a limited boutique buy. We can't guarantee that these can be restocked. </p>
+<p>65% polyester 30% cotton 5% spandex</p>
+<p>Available in size small to 3XL These fit true to size. Size up if you want a more slouch fit. Both models pictured wear size 8 and are wearing a medium. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835091513429</id>
+      <title>Small</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835091513429</id>
+      <title>Medium</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835091513429</id>
+      <title>Large</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835091513429</id>
+      <title>XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835091513429</id>
+      <title>2XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4760622399573</id>
+    <published>2020-12-11T20:44:10-05:00</published>
+    <updated>2020-12-11T20:44:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cowl-neck-pullover-3-colours"/>
+    <title>Cowl Neck Pullover</title>
+    <s:type>BeFun</s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cowl-neck-pullover.jpg?v=1620244372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong>BeFun<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boutique quality and North American sizing. Long sleeve with cowl neck hood. The cowl hood is lined in the same fabric as the sleeves. This pullover will become your new favourite. </p>
+<p>70% Polyester, 20% Cotton  5% Spandex</p>
+<p>These fit true to size or generous fit.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>Small / Black with Colourful Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>Small / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>Medium / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>Large / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>XL / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>2XL / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>3XL / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>4XL / Black with Colourful Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760622399573</id>
+      <title>4XL / Black with Red/Black Buffalo Plaid</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4760656117845</id>
+    <published>2020-09-08T15:54:02-04:00</published>
+    <updated>2020-09-08T15:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/childrens-buffalo-plaid-raglan-sleeve-shirts-red-sleeve-light-grey-body"/>
+    <title>CHILDREN&apos;S Buffalo Plaid Raglan Sleeve Shirts - RED Sleeve LIGHT GREY Body</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/childrens-buffalo-plaid-raglan-sleeve-shirts-red-sleeve-light-grey-body.png?v=1620244401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Children's Buffalo Plaid Sleeve Raglan Shirts. Light grey body with red/black buffalo plaid sleeves.</p>
+<p>65% cotton 30% polyester 5% spandex</p>
+<p>These fit true to size. Refer to the size chart.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>Small KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>Medium KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>Large KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>XL KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>2XL KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>3XS KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>2XS KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760656117845</id>
+      <title>XS KIDS</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4760648941653</id>
+    <published>2020-09-08T15:52:11-04:00</published>
+    <updated>2020-09-08T15:52:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/candy-stripe-sleeve-2-colours"/>
+    <title>Candy Stripe Raglan Sleeve -  2 Colours HOLIDAY FAVE!</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/candy-stripe-raglan-sleeve-2-colours-holiday-fave.png?v=1620244391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a limited edition item and when it is gone it is gone!<br></p>
+<p>Super soft, super flattering. Perfect for the holidays!</p>
+<p>Long in the body.</p>
+<p>Fabric content Green/White Stripe : 95% polyester 5% Spandex</p>
+<p>Fabric content Red/White Stripe : 65% cotton 30% polyester 5% spandex<br><br>This tee fits true to size or generous fit.</p>
+<div style="text-align: left;"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>3XS KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>2XS KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>2XS KIDS / Red/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>XS KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>Small KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>XL KIDS / Red/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>2XL KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>3XL KIDS / Green/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4760648941653</id>
+      <title>3XL KIDS / Red/White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4758387294293</id>
+    <published>2020-09-02T16:41:37-04:00</published>
+    <updated>2020-09-02T16:41:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/celebration-black-with-green-plaid-sleeves"/>
+    <title>CELEBRATION - Black with Green Plaid Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/celebration-black-with-green-plaid-sleeves.png?v=1620244358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p><span>A very soft cotton shirt with the perfect amount of holiday plaid! Combine comfortable and fabulous. I have seen these with a large "CHEERS" in gold across the chest or get a little saucy with a "May contain Wine' </span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt but this time with a little spicy plaid!</p>
+<p>Long sleeve with ribbon tie cuff. Long in the body.</p>
+<p>Fabric content :30% cotton ,65% polyester 5% Spandex<br><br>This shirt fits true to size or generous. Please refer to the size chart. </p>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/42459669_272324636730718_471886660947148800_n_1_large.jpg?v=1544296547" alt=""></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4758387294293</id>
+      <title>Small</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4758387294293</id>
+      <title>Large</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4758387294293</id>
+      <title>XL</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4758387294293</id>
+      <title>2XL</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4674399961173</id>
+    <published>2020-05-30T17:40:54-04:00</published>
+    <updated>2020-05-30T17:40:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/polyester-cotton-ladies-lulu-shirt-white-body"/>
+    <title>Polyester/Cotton Ladies LULU Shirt - White Body</title>
+    <s:type>S&amp;S</s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/polyestercotton-ladies-lulu-shirt-white-body.jpg?v=1620243298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong>S&amp;S<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies colour block long sleeve shirt. These will work for sublimation but with only a 65% poly content you can expect a vintage or faded image. This will work beautifully for heat transfer vinyl. </p>
+<p>65% Polyester, 30% Cotton, 5% Spandex.</p>
+<p>Fit true to size or generous. </p>
+<p><span>180C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blanks for heat treat vinyl</s:tag>
+    <s:tag>blanks for sublimation</s:tag>
+    <s:tag>raglans for sublimation</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4674399961173</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4674399961173</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4674399961173</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4674399961173</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4484933648469</id>
+    <published>2020-01-08T17:31:25-05:00</published>
+    <updated>2020-01-08T17:31:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-tunic-teal-black"/>
+    <title>Buffalo Plaid Tunic - Teal/Black **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-tunic-tealblack-limited.jpg?v=1621438990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Beautiful Buffalo Plaid Tunic style ladies shirts. Available in Red, Pink or Teal.</p>
+<p><span>75% polyester, 20% cotton, 5% spandex for stretch. </span></p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>These fit true to size but if you wish a loose fit please size up. Refer to the size chart.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484933648469</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4484920213589</id>
+    <published>2020-01-08T17:28:14-05:00</published>
+    <updated>2020-01-08T17:28:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-tunic-pink-black"/>
+    <title>Buffalo Plaid Tunic - Pink/Black **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-tunic-pinkblack-limited.jpg?v=1621438988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Beautiful Buffalo Plaid Tunic style ladies shirts. Available in Red, Pink and Teal.</p>
+<p>75% polyester, 20% cotton, 5% spandex for stretch. </p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>These fit true to size but if you wish a loose fit please size up. Refer to the size chart.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484920213589</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4484542333013</id>
+    <published>2020-01-08T14:39:53-05:00</published>
+    <updated>2020-01-08T14:39:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-tunic-red-black"/>
+    <title>Buffalo Plaid Tunic - Red/Black ** LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-tunic-redblack-limited.jpg?v=1621438986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Beautiful Buffalo Plaid Tunic style ladies shirts. Available in Red, Pink or Teal.</p>
+<p><span>75% polyester, 20% cotton, 5% spandex for stretch. </span></p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>These fit true to size but if you wish a loose fit please size up. Refer to the size chart.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4484542333013</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4426509058133</id>
+    <published>2019-12-20T11:48:26-05:00</published>
+    <updated>2019-12-20T11:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-raglan-sleeve-shirts-red-sleeve-grey-body"/>
+    <title>Buffalo Plaid Raglan Sleeve Shirts - RED Sleeve GREY Body</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-raglan-sleeve-shirts-red-sleeve-grey-body.png?v=1621438964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buffalo Plaid Sleeve Raglan Shirts. Black body with red/black buffalo plaid sleeves.</p>
+<p>Poly/Cotton 95/5 blend. </p>
+<p>These fit true to size but slim fit if you wish a loose fit please size up. Refer to the size chart.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4426509058133</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2721943814229</id>
+    <published>2019-08-30T19:40:51-04:00</published>
+    <updated>2019-08-30T19:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/the-piper-stripe-sleeve-grey-body-limited"/>
+    <title>The Piper Stripe Sleeve - Grey Body **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-piper-stripe-sleeve-grey-body-limited.jpg?v=1620239998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casual with a chance of glam!</p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content : 40% cotton, 60% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1669/2063/files/Piper_600x600.jpg?v=1567206019" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943814229</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2721943093333</id>
+    <published>2019-08-30T19:38:19-04:00</published>
+    <updated>2019-08-30T19:38:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/the-piper-stripe-sleeve-berry-body-limited"/>
+    <title>The Piper Stripe Sleeve - Berry Body **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-piper-stripe-sleeve-berry-body-limited.jpg?v=1620239984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casual with a chance of glam!</p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content : 40% cotton, 60% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1669/2063/files/Piper_600x600.jpg?v=1567206019" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721943093333</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2721928839253</id>
+    <published>2019-08-30T19:05:22-04:00</published>
+    <updated>2019-08-30T19:05:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/the-piper-stripe-sleeve-khaki-body-limited"/>
+    <title>The Piper Stripe Sleeve - Khaki Body **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-piper-stripe-sleeve-khaki-body-limited.jpg?v=1620239968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casual with a chance of glam!</p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content : 40% cotton, 60% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1669/2063/files/Piper_600x600.jpg?v=1567206019" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721928839253</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2721917501525</id>
+    <published>2019-08-30T18:34:42-04:00</published>
+    <updated>2019-08-30T18:34:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/the-piper-stripe-sleeve-navy-body"/>
+    <title>The Piper Stripe Sleeve - Navy Body **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/the-piper-stripe-sleeve-navy-body-limited.jpg?v=1620239948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casual with a chance of glam!</p>
+<p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content : 40% cotton, 60% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1669/2063/files/Piper_600x600.jpg?v=1567206019" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2721917501525</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2712164565077</id>
+    <published>2019-08-25T10:10:07-04:00</published>
+    <updated>2019-08-25T10:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-long-sleeve-raglan"/>
+    <title>Buffalo Plaid Raglan Sleeve Shirts - RED Sleeve BLACK Body</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Buffalo-Plaid-Raglan-Sleeve-Shirts-RED-Sleeve-BLACK-Body_4d93d094-9cdd-4ce7-85e7-d7f0f4b5cb65.jpg?v=1629389685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buffalo Plaid Sleeve Raglan Shirts. Black body with red/black buffalo plaid sleeves.</p>
+<p>Cotton/Poly blend. </p>
+<p>These fit true to size but slim/close fit if you wish a loose fit please size up.</p>
+<p>No refunds if you ordered the wrong size. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/1669/2063/files/53088257_433507290724731_3792952070831603712_n_480x480.jpg?v=1573574652" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>Medium</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>2XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2712164565077</id>
+      <title>3XL</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2346571300949</id>
+    <published>2018-12-08T15:04:47-05:00</published>
+    <updated>2018-12-08T15:04:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sequin-sleeve-raglan-charcoal-green-silver-limited"/>
+    <title>Sequin Sleeve - Black with Cobalt Blue/Rose Gold **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-sleeve-black-with-cobalt-bluerose-gold-limited.jpg?v=1621438647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p><span>A soft cotton shirt with the perfect amount of flash! Combine comfortable and fabulous. I have seen these with a large "CHEERS" in rose gold across the chest or get a little saucy with a "May contain Wine' </span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt but this time with a little more bling!</p>
+<p>Fully lined (comfortable) Sequin Sleeves. Long sleeve. Long in the body.</p>
+<p>Fabric content :35% cotton ,65% polyester.<br><br>This sequin sleeve tee fits true to size. Please refer to the size chart. </p>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/42459669_272324636730718_471886660947148800_n_1_large.jpg?v=1544296547" alt=""></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>Small</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>Large</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>2XL</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346571300949</id>
+      <title>3XL</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2346498064469</id>
+    <published>2018-12-08T13:33:27-05:00</published>
+    <updated>2018-12-08T13:33:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sequin-pocket-boyfriend-long-sleeve-tee-charcoal"/>
+    <title>Sequin Pocket Boyfriend - Long Sleeve Tee - Charcoal  **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-pocket-boyfriend-long-sleeve-tee-charcoal-limited.jpg?v=1621438645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content :35% cotton ,65% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<p>Normally I wear a large. I happily sized down to a medium. </p>
+<p><span>Our picture is hanging on the mirror, the photo on the model is from the manufacturer.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/41675848_269691493660699_491720927294259200_n_a4939598-a57b-40d0-959f-30b38f04ef0d_large.jpg?v=1544292768" alt=""></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>Small</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>Medium</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>2XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346498064469</id>
+      <title>3XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2346496950357</id>
+    <published>2018-12-08T13:33:22-05:00</published>
+    <updated>2018-12-08T13:33:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sequin-pocket-boyfriend-long-sleeve-tee-forest"/>
+    <title>Sequin Pocket Boyfriend - Long Sleeve Tee - Forest **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-pocket-boyfriend-long-sleeve-tee-forest-limited.jpg?v=1621438643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is a limited edition item and when it is gone it is gone!</span></p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content :35% cotton ,65% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<p>Normally I wear a large. I happily sized down to a medium. </p>
+<p><span>Our picture is hanging on the mirror, the photo on the model is from the manufacturer.</span></p>
+<p><em>﻿<img src="//cdn.shopify.com/s/files/1/1669/2063/files/41675848_269691493660699_491720927294259200_n_a4939598-a57b-40d0-959f-30b38f04ef0d_large.jpg?v=1544292768" alt=""></em></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346496950357</id>
+      <title>Small</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346496950357</id>
+      <title>Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346496950357</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346496950357</id>
+      <title>3XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2346171793493</id>
+    <published>2018-12-08T13:33:17-05:00</published>
+    <updated>2018-12-08T13:33:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sequin-pocket-boyfriend-long-sleeve-tee-wine"/>
+    <title>Sequin Pocket Boyfriend - Long Sleeve Tee - Wine **LIMITED**</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sequin-pocket-boyfriend-long-sleeve-tee-wine-limited.jpg?v=1621438641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a limited edition item and when it is gone it is gone!</p>
+<p>Super soft, super flattering. Your new fave long sleeve t-shirt. </p>
+<p>Rose gold sequin pocket. Long sleeve. Long in the body.</p>
+<p>Fabric content :35% cotton ,65% polyester.<br><br>This sequin pocket tee fits true to size or generous. Please refer to the size chart. </p>
+<p>Normally I wear a large. I happily sized down to a medium. </p>
+<p>Our picture is hanging on the mirror, the photo on the model is from the manufacturer.</p>
+<p><img src="//cdn.shopify.com/s/files/1/1669/2063/files/41675848_269691493660699_491720927294259200_n_a4939598-a57b-40d0-959f-30b38f04ef0d_large.jpg?v=1544292768" alt=""></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>Small</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>Medium</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>2XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2346171793493</id>
+      <title>3XL</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1353666265141</id>
+    <published>2018-07-31T14:23:48-04:00</published>
+    <updated>2018-07-31T14:23:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/floral-raglan-shirts"/>
+    <title>Floral Raglan Shirts</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/floral-raglan-shirts.png?v=1621438497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are similar to our Plaid Raglan Shirts, 35% poly 65% cotton</p>
+<p>They fit true to size but are very close-fitting so if you want a looser fit, we suggest sizing up.</p>
+<p><strong>Size Chart</strong></p>
+<table width="133">
+<tbody>
+<tr style="height: 4px;">
+<td style="width: 551px; height: 4px;">
+<p>Size</p>
+</td>
+<td style="width: 551px; height: 4px;">
+<p>Bust</p>
+</td>
+<td style="width: 551px; height: 4px;">
+<p>Length</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 551px; height: 36px;">
+<p>Small</p>
+</td>
+<td style="width: 551px; height: 36px;"><span>17.5''</span></td>
+<td style="width: 551px; height: 36px;">27.5''</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 551px; height: 36px;">
+<p>Medium</p>
+</td>
+<td style="width: 551px; height: 36px;"><span>19.5''</span></td>
+<td style="width: 551px; height: 36px;">28.5''</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 551px; height: 36px;">
+<p>Large</p>
+</td>
+<td style="width: 551px; height: 36px;"><span>21.5''</span></td>
+<td style="width: 551px; height: 36px;">29.5''</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 551px; height: 36px;">
+<p>Extra Large</p>
+</td>
+<td style="width: 551px; height: 36px;"><span>23.5''</span></td>
+<td style="width: 551px; height: 36px;">30.5''</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 551px; height: 36px;">
+<p>2XL</p>
+</td>
+<td style="width: 551px; height: 36px;"><span>25.5''</span></td>
+<td style="width: 551px; height: 36px;">31.5''</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>long sleeve</s:tag>
+    <s:tag>raglan</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>shirts</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Small / 2- Purple/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Small / 3- Light BluePink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Small / 4- Green/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Medium / 1- Pink/Green</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Medium / 2- Purple/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Medium / 3- Light BluePink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Medium / 4- Green/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Large / 2- Purple/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Large / 3- Light BluePink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Large / 4- Green/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>Extra Large / 4- Green/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1353666265141</id>
+      <title>2XL / 4- Green/Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/406286893096</id>
+    <published>2018-01-23T10:16:30-05:00</published>
+    <updated>2018-01-23T10:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/plaid-sleeve-long-sleeve-shirts"/>
+    <title>Buffalo Plaid Raglan Sleeve Shirts - BLUE *SMALL ONLY*</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-raglan-sleeve-shirts-blue-small-only.jpg?v=1620235772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Buffalo Plaid Sleeve Raglan Shirts in blue plaid.</p>
+<p>Cotton/Poly blend. From the same supplier as the Buffalo Plaid Pj's.</p>
+<p>Please review the size charts and when in doubt size up! Please keep in mind that the size chart number are based on the shirts lying flat on a table and being measured one side.</p>
+<p>I have heard reports that the larger sizes fit close to the body. If you want a loose fit, size up.</p>
+<p>No refunds if you ordered the wrong size. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/406286893096</id>
+      <title>Blue / S</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

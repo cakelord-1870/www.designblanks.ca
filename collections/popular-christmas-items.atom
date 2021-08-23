@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/popular-christmas-items.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-07-30T16:08:25-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/6608818765909</id>
+    <published>2021-07-30T16:08:25-04:00</published>
+    <updated>2021-07-30T16:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mystery-box-of-christmas-items"/>
+    <title>Mystery Box of Christmas Items</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mystery-box-of-christmas-items.jpg?v=1627748127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will find a good selection of non-sublimation items in this mystery box. </p>
+<p>With a regular value of $110 you are bound to find value here!</p>
+<p>Mystery boxes are non-returnable and non-refundable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6608818765909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1438130208821</id>
+    <published>2021-07-08T14:42:51-04:00</published>
+    <updated>2021-07-08T14:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/2018-charms-25-pcs"/>
+    <title>2021 Charms - 20 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/2021-Charms-20-pcs_4478a94e-f22a-452f-927f-c7f4d733838b.jpg?v=1629216909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful charms are a great addition to your ornaments or keychains.</p>
+<main role="main" id="MainContent" class="main-content">
+<div class="shopify-section" id="shopify-section-product-template">
+<div data-enable-history-state="true" data-section-type="product" data-section-id="product-template" id="ProductSection-product-template" class="product-template__container page-width" itemtype="http://schema.org/Product" itemscope="">
+<div class="grid product-single">
+<div class="grid__item medium-up--one-half">
+<div class="product-single__meta">
+<div class="product-single__description rte" itemprop="description">
+<p> Approx10mm x 14 mm. Silver.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1438130208821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/6560812499029</id>
+    <published>2021-03-29T13:31:49-04:00</published>
+    <updated>2021-03-29T13:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/mixed-ribbon-bundle-6-yards"/>
+    <title>Mixed Ribbon Bundle #1 - 6+ yards</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/mixed-ribbon-bundle-1-6-yards.jpg?v=1620245758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Mixed bundle of our Stag and Teal ribbons </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/6560812499029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367102115925</id>
+    <published>2019-11-12T21:10:44-05:00</published>
+    <updated>2019-11-12T21:10:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/black-pre-glittered-80mm-flat-ornaments"/>
+    <title>Black Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/black-pre-glittered-80mm-flat-ornaments.jpg?v=1621438951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367102115925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367101231189</id>
+    <published>2019-11-12T21:10:20-05:00</published>
+    <updated>2019-11-12T21:10:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/iridesceent-green-yellow-pre-glittered-80mm-flat-ornaments"/>
+    <title>Iridesceent Yellow Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/iridesceent-yellow-pre-glittered-80mm-flat-ornaments.jpg?v=1621438950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p>Perfect for emoji face ornaments!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367101231189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367100215381</id>
+    <published>2019-11-12T21:09:48-05:00</published>
+    <updated>2019-11-12T21:09:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/birkin-pre-glittered-80mm-flat-ornaments"/>
+    <title>Birkin Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Birkin-Pre-Glittered-80mm-flat-Ornaments_1f58e1fe-8f55-44e2-9a0e-94bb37f487fb.jpg?v=1628957979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367100215381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367099232341</id>
+    <published>2019-11-12T21:09:18-05:00</published>
+    <updated>2019-11-12T21:09:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/silver-pre-glittered-80mm-flat-ornaments"/>
+    <title>Silver Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/silver-pre-glittered-80mm-flat-ornaments.jpg?v=1621438948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367099232341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367096905813</id>
+    <published>2019-11-12T21:08:21-05:00</published>
+    <updated>2019-11-12T21:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/olive-pre-glittered-80mm-flat-ornaments"/>
+    <title>Olive Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/olive-pre-glittered-80mm-flat-ornaments.jpg?v=1621438947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367096905813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367095890005</id>
+    <published>2019-11-12T21:07:51-05:00</published>
+    <updated>2019-11-12T21:07:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/xmas-green-pre-glittered-80mm-flat-ornaments"/>
+    <title>X&apos;mas Green Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/xmas-green-pre-glittered-80mm-flat-ornaments.jpg?v=1621438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367095890005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367094087765</id>
+    <published>2019-11-12T21:07:11-05:00</published>
+    <updated>2019-11-12T21:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/royal-blue-pre-glittered-80mm-flat-ornaments"/>
+    <title>Royal Blue Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/royal-blue-pre-glittered-80mm-flat-ornaments.jpg?v=1621438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367094087765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367092711509</id>
+    <published>2019-11-12T21:06:33-05:00</published>
+    <updated>2019-11-12T21:06:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/xmas-red-pre-glittered-80mm-flat-ornaments"/>
+    <title>X&apos;mas Red Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/xmas-red-pre-glittered-80mm-flat-ornaments.jpg?v=1621438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367092711509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367090417749</id>
+    <published>2019-11-12T21:05:27-05:00</published>
+    <updated>2019-11-12T21:05:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/peach-pre-glittered-80mm-flat-ornaments"/>
+    <title>Peach Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/peach-pre-glittered-80mm-flat-ornaments.jpg?v=1621438943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367090417749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4367085862997</id>
+    <published>2019-11-12T21:02:44-05:00</published>
+    <updated>2019-11-12T21:02:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/violet-pre-glittered-80mm-flat-ornaments"/>
+    <title>Violet Pre-Glittered 80mm flat Ornaments</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/violet-pre-glittered-80mm-flat-ornaments.jpg?v=1621438942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't have time or don't like glittering but love the look?</p>
+<p>Our beautiful 80mm ornaments already glitter for you and ready to have some vinyl applied!!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4367085862997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330050617429</id>
+    <published>2019-10-29T11:40:16-04:00</published>
+    <updated>2019-10-29T11:40:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/snowflake-ribbon-5-yard-roll"/>
+    <title>Snowflake Ribbon - 6+ yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/snowflake-ribbon-6-yard-roll.jpg?v=1621438921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330050617429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330048454741</id>
+    <published>2019-10-29T11:39:09-04:00</published>
+    <updated>2019-10-29T11:39:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/grey-berry-ribbon-5-yard-roll"/>
+    <title>Grey Berry Ribbon - 8+ yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-berry-ribbon-8-yard-roll.jpg?v=1620240463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330048454741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4330039541845</id>
+    <published>2019-10-29T11:32:36-04:00</published>
+    <updated>2019-10-29T11:32:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/teal-pattern-ribbon-5-yard-roll"/>
+    <title>Teal Pattern Ribbon - 5 yard roll</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/teal-pattern-ribbon-5-yard-roll.jpg?v=1621438920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch Teal cross-hatch ribbon would make great addition to your decorations or ornaments.</p>
+<p>This is one-sided ribbon, the backside is white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4330039541845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4312769986645</id>
+    <published>2019-10-24T14:00:00-04:00</published>
+    <updated>2019-10-24T14:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/christmas-cushion-covers-cc04"/>
+    <title>Christmas Cushion Covers - CC04</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/christmas-cushion-covers-cc04.jpg?v=1621438915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are polyester cushion covers. They come in Christmas or winter themed designs. They can be personalized.</p>
+<p>This is only a cover and the cushion insert is not included. </p>
+<p>Each cushion measures approx 45*45 cm. They have a zipper on one side. The back of the cushion is blank.</p>
+<meta charset="utf-8">
+<p><span>We recommend using a sheet of teflon, parchment paper or pressing pillow inside all of our polyester cushions when pressing/ironing to prevent the inside from fusing to itself. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4312769986645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4312767496277</id>
+    <published>2019-10-24T13:57:51-04:00</published>
+    <updated>2019-10-24T13:57:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/christmas-cushion-covers-cc02"/>
+    <title>Christmas Cushion Covers - CC02</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/christmas-cushion-covers-cc02.jpg?v=1621438914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are polyester cushion covers. They come in Christmas or winter themed designs. They can be personalized.</p>
+<p>This is only a cover and the cushion insert is not included. </p>
+<p>Each cushion measures approx 45*45 cm. They have a zipper on one side. The back of the cushion is blank.</p>
+<meta charset="utf-8">
+<p><span>We recommend using a sheet of teflon, parchment paper or pressing pillow inside all of our polyester cushions when pressing/ironing to prevent the inside from fusing to itself. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4312767496277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4312764383317</id>
+    <published>2019-10-24T13:54:43-04:00</published>
+    <updated>2019-10-24T13:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/christmas-cushion-covers-cc01"/>
+    <title>Christmas Cushion Covers - CC01</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/christmas-cushion-covers-cc01.jpg?v=1621438913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are polyester cushion covers. They come in Christmas or winter themed designs. They can be personalized.</p>
+<p>This is only a cover and the cushion insert is not included. </p>
+<p>Each cushion measures approx 45*45 cm. They have a zipper on one side. The back of the cushion is blank.</p>
+<meta charset="utf-8">
+<p><span>We recommend using a sheet of teflon, parchment paper or pressing pillow inside all of our polyester cushions when pressing/ironing to prevent the inside from fusing to itself. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4312764383317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1444895195189</id>
+    <published>2018-10-01T10:12:02-04:00</published>
+    <updated>2018-10-01T10:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/rainbow-honeycomb-ribbon-5-yard-rolls"/>
+    <title>Rainbow Honeycomb Ribbon - 5 yard rolls</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rainbow-honeycomb-ribbon-5-yard-rolls.jpg?v=1621438596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 1.5 inch Rainbow Honeycomb grosgrain ribbon would make great addition to any decorations or ornaments.</p>
+<p>Comes in 5 yard rolls.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1444895195189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1444892966965</id>
+    <published>2018-10-01T10:12:02-04:00</published>
+    <updated>2018-10-01T10:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stag-ribbon-5-yard-rolls"/>
+    <title>Stag (Deer) Ribbon - 5 yard rolls</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/stag-deer-ribbon-5-yard-rolls.jpg?v=1621438595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful 7/8 inch Stag (Deer) ribbon would make great addition to your Christmas decorations or ornaments.</p>
+<p>Comes in 5 yard rolls.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1444892966965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/20428095489</id>
+    <published>2017-10-29T14:14:51-04:00</published>
+    <updated>2017-10-29T14:14:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/santa-and-friends-cushion-cover"/>
+    <title>Santa and Friends Cushion Cover CC06</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/santa-and-friends-cushion-cover-cc06.jpg?v=1621437907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are polyester cushion covers. They come in Christmas or winter themed designs. They can be personalized.</p>
+<p>This is only a cover and the cushion insert is not included. </p>
+<p>Each cushion measures approx 45*45 cm. They have a zipper on one side. The back of the cushion is blank.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/20428095489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/20222705665</id>
+    <published>2017-10-29T09:30:33-04:00</published>
+    <updated>2017-10-29T09:30:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/santa-suit-wine-bag-1"/>
+    <title>Santa Suit Wine Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/santa-suit-wine-bag.jpg?v=1621437905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>I do not know if </span>htv<span> can be applied to these wine bags. You would have to test with low heat. Regardless, they make an adorable gift or tradeshow item.</span></p>
+<p><span>5.5 x 12 inches</span></p>
+<p><span>Fleece Polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/20222705665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10029805953</id>
+    <published>2017-10-26T12:29:43-04:00</published>
+    <updated>2017-10-26T12:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/feather-wings"/>
+    <title>Feather Angel Wings</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/feather-angel-wings.jpg?v=1621437837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What a great idea for a special memorial Christmas ornament</p>
+<p>These are made with real feathers they are a natural product and come with small (naturally occurring) flaws.   </p>
+<p>Approximately 15cm wide by 13cm long.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>angel wings</s:tag>
+    <s:tag>feathers</s:tag>
+    <s:tag>memorial ornament</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10029805953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/10324929921</id>
+    <published>2017-10-18T17:25:11-04:00</published>
+    <updated>2017-10-18T17:25:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/santas-keys"/>
+    <title>Santa Keys</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/santa-keys.jpg?v=1621437897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When Santa needs a key to enter your home on Christmas Eve!</p>
+<p>This metal key measures 12cm long and 4cm at it's widest point. The inscription reads 'Santa's special Christmas Key'.</p>
+<p>The enamel circle is the perfect place to add Santa's SC initials or your personal house number. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magic Santa Key</s:tag>
+    <s:tag>Santa Key</s:tag>
+    <s:tag>Santa&apos;s Keys</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10324929921</id>
+      <title>Green</title>
+      <s:price currency="CAD">5.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10324929921</id>
+      <title>White</title>
+      <s:price currency="CAD">5.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/10324929921</id>
+      <title>Red</title>
+      <s:price currency="CAD">5.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+  </entry>
+</feed>

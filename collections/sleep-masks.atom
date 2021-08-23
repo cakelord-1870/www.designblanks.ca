@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/sleep-masks.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-01-22T14:54:29-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835278258261</id>
+    <published>2021-01-22T14:54:29-05:00</published>
+    <updated>2021-01-22T14:54:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cheetah-lux-silk-sleep-mask"/>
+    <title>Cheetah Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cheetah-lux-silk-sleep-mask.jpg?v=1620244971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835278258261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835277897813</id>
+    <published>2021-01-22T14:53:37-05:00</published>
+    <updated>2021-01-22T14:53:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/berry-lux-silk-sleep-mask"/>
+    <title>Berry Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/berry-lux-silk-sleep-mask.jpg?v=1620244962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835277897813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835277406293</id>
+    <published>2021-01-22T14:51:31-05:00</published>
+    <updated>2021-01-22T14:51:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pale-lilac-lux-silk-sleep-mask"/>
+    <title>Pale Lavender Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pale-lavender-lux-silk-sleep-mask.jpg?v=1620244952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835277406293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4835275309141</id>
+    <published>2021-01-22T14:50:04-05:00</published>
+    <updated>2021-01-22T14:50:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/peacock-lux-silk-sleep-mask"/>
+    <title>Peacock Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/peacock-lux-silk-sleep-mask.jpg?v=1620244943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4835275309141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778515251304</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/black-lux-silk-sleep-mask"/>
+    <title>Black Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/black-lux-silk-sleep-mask.jpg?v=1621438368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778515251304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778509516904</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/light-blue-lux-silk-sleep-mask"/>
+    <title>Light Blue Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/light-blue-lux-silk-sleep-mask.jpg?v=1621438364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778509516904</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778508566632</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/navy-lux-silk-sleep-mask"/>
+    <title>Navy Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/navy-lux-silk-sleep-mask.jpg?v=1621438362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778508566632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778508468328</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/roya-blue-lux-silk-sleep-mask"/>
+    <title>Royal Blue Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/royal-blue-lux-silk-sleep-mask.jpg?v=1621438361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778508468328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778508435560</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pink-lux-silk-sleep-mask"/>
+    <title>Pink Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Pink-Lux-Silk-Sleep-Mask_e35ed77f-c511-4819-8058-920b8ffd56ee.jpg?v=1628957859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778508435560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778508402792</id>
+    <published>2018-05-16T22:01:05-04:00</published>
+    <updated>2018-05-16T22:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/plum-lux-silk-sleep-mask"/>
+    <title>Plum Lux Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/plum-lux-silk-sleep-mask.jpg?v=1621438357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silk, padded with adjustable elastic strap sleep masks. Luxurious and a fave with bridal parties!</p>
+<p>Perfect gift for that special someone in your life. Help them get a good night sleep with this comfortable sleep mask.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778508402792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778507583592</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/red-sleep-masks"/>
+    <title>Red Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/red-sleep-masks-3-pack.jpg?v=1621438355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 pack - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778507583592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494673000</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/purple-sleep-masks"/>
+    <title>Purple Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/purple-sleep-masks-3-pack.jpg?v=1621438354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494673000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494640232</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/grey-sleep-masks"/>
+    <title>Grey Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/grey-sleep-masks-3-pack.jpg?v=1621438352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494640232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494509160</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/royal-blue-sleep-masks"/>
+    <title>Royal Blue Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/royal-blue-sleep-masks-3-pack.jpg?v=1621438350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494509160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494443624</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/yellow-sleep-masks"/>
+    <title>Rainbow Package of Sleep Masks - 10pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/rainbow-package-of-sleep-masks-10pcs.jpg?v=1621438348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most. Colour selection may not be exactly as shown. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494443624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494378088</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/light-blue-sleep-masks"/>
+    <title>Light Blue Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/light-blue-sleep-masks-3-pack.jpg?v=1621438346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494378088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/778494345320</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pink-sleep-masks"/>
+    <title>Pink Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pink-sleep-masks-3-pack.jpg?v=1621438343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/778494345320</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/444504539176</id>
+    <published>2018-02-19T12:32:22-05:00</published>
+    <updated>2018-02-19T12:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/black-sleep-masks"/>
+    <title>Black Sleep Masks 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/black-sleep-masks-3-pack.jpg?v=1621438260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 masks - Each mask is polyester with 2 thin elastic straps that are not adjustable. </p>
+<p>These are a nice affordable sleep mask but not as high quality as our satin polka dot masks or our lux silk sleep masks. </p>
+<p>One size fits most.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye mask</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/444504539176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

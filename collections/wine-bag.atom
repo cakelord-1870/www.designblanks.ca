@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/wine-bag.atom"/>
+  <title>Design Blanks</title>
+  <updated>2020-01-29T12:56:44-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/405551382568</id>
+    <published>2020-01-29T12:56:44-05:00</published>
+    <updated>2020-01-29T12:56:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/cotton-wine-bag"/>
+    <title>Cotton Wine Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/cotton-wine-bag.jpg?v=1621438147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These small blank sacks feature a drawstring top and are natural<span> </span><span>unbleached</span> 100% Cotton.</p>
+<p>Reminder, it is the nature of unbleached cotton to contain flecks in it and have a beige tint. </p>
+<p>They will take fabric dye well. They will take htv very well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/405551382568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4335844065365</id>
+    <published>2019-10-31T10:45:28-04:00</published>
+    <updated>2019-10-31T10:45:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-wine-bag-red"/>
+    <title>Buffalo Plaid Wine Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-wine-bag.jpg?v=1621438926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful buffalo plaid wine bags with a ribbon drawstring.</p>
+<p>Available in Red buffalo plaid check or White buffalo plaid check</p>
+<p>100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4335844065365</id>
+      <title>RED Buffalo Plaid</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4335844065365</id>
+      <title>WHITE Buffalo Plaid</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/20222705665</id>
+    <published>2017-10-29T09:30:33-04:00</published>
+    <updated>2017-10-29T09:30:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/santa-suit-wine-bag-1"/>
+    <title>Santa Suit Wine Bag</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/santa-suit-wine-bag.jpg?v=1621437905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>I do not know if </span>htv<span> can be applied to these wine bags. You would have to test with low heat. Regardless, they make an adorable gift or tradeshow item.</span></p>
+<p><span>5.5 x 12 inches</span></p>
+<p><span>Fleece Polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/20222705665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403497578549</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/copy-of-wine-bags-wheat-beige"/>
+    <title>Wine Bags - Beige</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-beige.jpg?v=1621438573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well  </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403497578549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403497480245</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-lilac"/>
+    <title>Wine Bags - Lilac</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-lilac.jpg?v=1621438571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well  </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403497480245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403497349173</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-dark-blue"/>
+    <title>Wine Bags - Dark Blue</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-dark-blue.jpg?v=1621438569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well  </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403497349173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403496792117</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-berry-pink"/>
+    <title>Wine Bags - Dark Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-dark-pink.jpg?v=1621438567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well  </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403496792117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403496562741</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-mocha-brown"/>
+    <title>Wine Bags - Mocha Brown</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Wine-Bags-Mocha-Brown_bd8da381-1847-4dc1-9114-078e506fcdd0.jpg?v=1629216884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403496562741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403495743541</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-charcoal-grey"/>
+    <title>Wine Bags - Grey</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Wine-Bags-Grey_c0aeecbf-9031-444a-b864-7efaaa919834.jpg?v=1629216874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well </span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403495743541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1403495022645</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/wine-bags-light-pink"/>
+    <title>Wine Bags - Light Pink</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-light-pink.jpg?v=1621438562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in polyester faux jute. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>These bags are referred to as '</span>jute<span>' but they are a synthetic polyester fabric. They take </span>htv<span> very well</span></p>
+<p><span>*Polyester bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8">
+<p><span>Size: 13 x 5.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1403495022645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1367152295989</id>
+    <published>2017-01-05T19:08:00-05:00</published>
+    <updated>2017-01-05T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/white-polyester-wine-bags"/>
+    <title>Wine Bags - White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/wine-bags-white.jpg?v=1621438513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blank wine bags in faux jute/polyester. <br><br>Make these into the perfect gift set by adding one of our wine stoppers. <br><br>Make it a cheeky gift set by adding a saucy saying.</p>
+<p><span>*These bags do have a fusing on the inside that will fuse to itself under high temperatures and pressure. It is advised to use a teflon sheet inside and you may have to lower your temperature and use a longer pressing time. </span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>Size: 13 x 5.5</span><span> inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1367152295989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

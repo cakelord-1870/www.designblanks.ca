@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/siser-htv-bundles.atom"/>
+  <title>Design Blanks</title>
+  <updated>2021-01-19T12:49:12-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4834330280021</id>
+    <published>2021-01-19T12:49:12-05:00</published>
+    <updated>2021-01-19T12:49:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/be-mine-easyweed-htv-bundle-12-x-15"/>
+    <title>BE MINE Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/be-mine-easyweed-htv-bundle-12-x-15.png?v=1620244871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Save 10% when you choose a Siser EasyWeed bundle!<br></p>
+<p><span>This Siser Easyweed HTV</span> Bundle includes the following Elle Woods approved colours! </p>
+<p>EW01 - White </p>
+<p><span>EW65 - Light Pink</span></p>
+<p><span>EW05 - Red</span></p>
+<p><span>EW79 - Bubble Gum</span></p>
+<p><span>EW14 - Burgundy</span></p>
+<p>EW09 - Pink</p>
+<p><span>EW55 - Bright Red</span></p>
+<p><span>EW71 - Cardinal</span></p>
+<p><span>EW72 - Maroon</span></p>
+<p>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser HTV Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4834330280021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590793654357</id>
+    <published>2020-04-08T16:19:48-04:00</published>
+    <updated>2020-04-08T16:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/1-easyweed-htv-bundle"/>
+    <title>Nursery Rhymes Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Nursery-Rhymes-Easyweed-HTV-BUNDLE-12-x-15_52a5c4e8-3c38-4ab7-9505-a5d51b9ef064.jpg?v=1628958021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Easyweed HTV Bundle  </span>includes the following colours:</p>
+<p>EW01 - White 2pcs </p>
+<p>EW83 - Powder Blue</p>
+<p>EW65 - Light Pink</p>
+<p>EW62 - Lilac</p>
+<p>EW29 - Cream</p>
+<p>EW22 - Grey</p>
+<p>EW61 - Pale Blue</p>
+<p>EW85 - Melon</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590793654357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590173290581</id>
+    <published>2020-04-07T20:14:22-04:00</published>
+    <updated>2020-04-07T20:14:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/merry-bright-easyweed-htv-bundle"/>
+    <title>Merry &amp; Bright Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/merry-bright-easyweed-htv-bundle-12-x-15.jpg?v=1621439197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Merry &amp; Bright Easyweed HTV Bundle  </span>includes all the best Christmas and holiday heat transfer vinyl colours:</p>
+<p>EW01 - White</p>
+<p>EW64 - Green Apple</p>
+<p>EW55 - Bright Red</p>
+<p>EW05 - Red</p>
+<p>EW24 - Dark Green</p>
+<p>EW13 - Silver</p>
+<p>EW12 - Gold</p>
+<p>EW07- Green</p>
+<p>EW71 - Cardinal</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590173290581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4590132691029</id>
+    <published>2020-04-07T18:38:25-04:00</published>
+    <updated>2020-04-07T18:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fall-easyweed-htv-bundle"/>
+    <title>Fall Into Autumn Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/fall-into-autumn-easyweed-htv-bundle-12-x-15.jpg?v=1621439195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>This Siser Fall Into Autumn Easyweed HTV Bundle  </span>includes all the best autumn heat transfer vinyl colours:</p>
+<p>EW14 - Burgundy</p>
+<p>EW11 - Brown</p>
+<p>EW76 - Chocolate</p>
+<p>EW24 - Dark Green</p>
+<p>EW27 - Turquoise</p>
+<p>EW07 - Green</p>
+<p>EW15 - Purple</p>
+<p>EW72 - Maroon</p>
+<p>EW29 Cream</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4590132691029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4589947420757</id>
+    <published>2020-04-07T14:23:36-04:00</published>
+    <updated>2020-04-07T14:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/summer-easyweed-htv-bundle"/>
+    <title>Summer Loving Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/summer-loving-easyweed-htv-bundle-12-x-15.jpg?v=1621439193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p><span>It's so easy to love our summer-loving bundle! This Siser Summer Easyweed HTV Bundle  </span>includes all the best summer heat transfer vinyl colours:</p>
+<p>EW10 - Sky Blue</p>
+<p>EW21 - Lemon Yellow</p>
+<p>EW09 - Pink</p>
+<p>EW63 - Hibiscus</p>
+<p>EW56 - Wicked Purple</p>
+<p>EW64 - Green Apple</p>
+<p>EW06 - Yellow</p>
+<p>EW08 - Orange</p>
+<p>EW03 - Royal blue</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4589947420757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4589888536661</id>
+    <published>2020-04-07T10:47:19-04:00</published>
+    <updated>2020-04-07T10:47:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/3-easyweed-htv-bundle"/>
+    <title>Rags to Riches Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Rags-to-Riches-Easyweed-HTV-BUNDLE-12-x-15_0c9cfe5b-bc03-498d-bd3b-26aedf9d4e5a.jpg?v=1628958013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Easyweed HTV Bundle  </span>includes the following colours:</p>
+<p>EW01 - White 2pcs </p>
+<p>EW13 - Silver</p>
+<p>EW29 - Cream</p>
+<p>EW22 - Grey</p>
+<p>EW70 - Vegas Gold</p>
+<p>EW80 - Charcoal</p>
+<p>EW12 - Gold</p>
+<p>EW02 - Black<br></p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4589888536661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585571090517</id>
+    <published>2020-04-02T17:05:15-04:00</published>
+    <updated>2020-04-02T17:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/fluorescent-easyweed-htv-bundle"/>
+    <title>Bright Fluorescent Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bright-fluorescent-easyweed-htv-bundle-12-x-15.png?v=1621439183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Fluorescent EasyWeed </span>Bundle includes all of the following bright neon colours! </p>
+<p>EW16 - Fluorescent Yellow</p>
+<p>EW17 - <span>Fluorescent Orange</span></p>
+<p>EW18 - <span>Fluorescent Green</span></p>
+<p>EW19 - <span>Fluorescent Pink</span></p>
+<p>EW20 - <span>Fluorescent Blue</span></p>
+<p>EW30 - <span>Fluorescent Raspberry</span></p>
+<p>EW84 - <span>Fluorescent Coral </span></p>
+<p> <span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585571090517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585529376853</id>
+    <published>2020-04-02T16:03:49-04:00</published>
+    <updated>2020-04-02T16:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/2-easyweed-htv-bundle"/>
+    <title>Perfect Storm Easyweed - HTV BUNDLE - 12x15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/perfect-storm-easyweed-htv-bundle-12x15.jpg?v=1621439179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle of 12 x 15" sheets!</span></p>
+<p><span>This Siser Perfect Storm Easyweed HTV Bundle  </span>includes the following stormy colours:</p>
+<p>EW01 - White</p>
+<p>EW83 - Powder Blue</p>
+<p>EW13 - Silver</p>
+<p>EW15 - Purple</p>
+<p>EW13 - Silver</p>
+<p>EW04 - Navy</p>
+<p>EW13 - Silver</p>
+<p>EW80 - Charcoal</p>
+<p>EW61 - Pale Blue</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585529376853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/4585482682453</id>
+    <published>2020-04-02T15:04:43-04:00</published>
+    <updated>2020-04-02T15:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/easyweed-htv-bundle"/>
+    <title>Elle Woods Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Elle-Woods-Easyweed-HTV-BUNDLE-12-x-15_acaf2f7a-bdbd-407c-a82d-fe913aebb4c3.jpg?v=1628958009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>'I think it gives it a little something extra, don't you think?' - Elle Woods♥</span></p>
+<p><span>Save 10% when you choose a Siser EasyWeed bundle!</span></p>
+<p><span>This Siser Easyweed HTV</span> Bundle includes the following Elle Woods approved colours! </p>
+<p>EW01 - White 2pcs</p>
+<p><span>EW65 - Light Pink</span></p>
+<p><span>EW70 - Vegas Gold 2pcs</span></p>
+<p><span>EW79 - Bubble Gum</span></p>
+<p><span>EW12 - Gold</span></p>
+<p>EW09 - Pink</p>
+<p><span>EW85 - Melon</span></p>
+<p>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser HTV Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4585482682453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/443493777448</id>
+    <published>2018-02-18T11:09:09-05:00</published>
+    <updated>2018-02-18T11:09:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/spring-easyweed-htv-bundle"/>
+    <title>Hello Spring Easyweed - HTV BUNDLE 12 x 15</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/hello-spring-easyweed-htv-bundle-12-x-15.png?v=1621438259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="font-size: 1.4em;">Save 10% when you choose a bundle of 12 x 15" sheets!</span><br></p>
+<p><span>Why, hello! This Siser Spring Easyweed HTV Bundle </span>includes all the best spring heat transfer vinyl colours:</p>
+<p>EW01 - White</p>
+<p>EW09 - Pink</p>
+<p>EW10 - Sky Blue</p>
+<p>EW21 - Lemon Yellow</p>
+<p>EW61 - Pale Blue</p>
+<p>EW62 - Lilac</p>
+<p>EW64 - Green Apple</p>
+<p>EW65 - Light Pink</p>
+<p>EW85 - Melon</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with similar matching bundle colours. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:tag>Siser htv Bundle</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/443493777448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/390559662120</id>
+    <published>2018-01-03T16:19:46-05:00</published>
+    <updated>2018-01-03T16:19:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/glitter-1"/>
+    <title>Glitter HTV - All GL Colours Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/glitter-htv-all-gl-colours-bundle.png?v=1621438064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.40 - 61.97
+            <a href="https://www.designblanks.ca/products/glitter-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This beautiful glittery bundle is a great way to start off your Siser® HTV glitter collection or to add to your current one. Buy this bundle today to say 10% off!</p>
+<p>This bundle includes the following colours:</p>
+<p>GL00 White</p>
+<p>GL02 Black</p>
+<p>GL03 Royal Blue</p>
+<p>GL05 Red</p>
+<p>GL09 Blush</p>
+<p>GL10 Aqua</p>
+<p>GL13 Silver</p>
+<p>GL15 Purple</p>
+<p>GL25 Old Gold</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/390559662120</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">32.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/390559662120</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">61.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>1440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/390558122024</id>
+    <published>2018-01-03T16:18:35-05:00</published>
+    <updated>2018-01-03T16:18:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/stripflock"/>
+    <title>StripFlock® HTV - All SF Colours Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/StripFlockr-HTV-All-SF-Colours-Bundle_c5c127d6-5bd9-4470-acef-c4b22cdde7e1.png?v=1629044143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.90 - 36.25
+            <a href="https://www.designblanks.ca/products/stripflock">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This fuzzy little bundle is a great way to start off your HTV StripFlock collection or to add to your current one. Buy this bundle today to say 10% off!</p>
+<p>This bundle includes the following colours:</p>
+<p>SF01 White</p>
+<p>SF02 Black</p>
+<p>SF05 Red</p>
+<p>SF09 Pink</p>
+<p>SF15 Purple</p>
+<p>SF22 Gray</p>
+<p>SF61 Pale Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/390558122024</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">18.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>1320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/390558122024</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">36.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>1320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/401840898088</id>
+    <published>2017-12-21T13:50:03-05:00</published>
+    <updated>2017-12-21T13:50:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/siser-easyweed-stretch-htv"/>
+    <title>EasyWeed® Stretch HTV Bundle - 21 ST Colours Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/EasyWeedr-Stretch-HTV-Bundle-21-ST-Colours-Bundle_cc62b97a-a3e7-4f4c-ad8a-c74b1b24a4a0.jpg?v=1629303328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.05 - 207.00
+            <a href="https://www.designblanks.ca/products/siser-easyweed-stretch-htv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save 10% when you choose a bundle!</p>
+<p>This bundle is a great way to start your collection or add to it.</p>
+<p>It includes one of every colour of the following (all the stretch colours):</p>
+<p>ST01 – White</p>
+<p>ST02 – Black</p>
+<p>ST03 – Royal Blue</p>
+<p>ST04 – Navy</p>
+<p>ST05 – Red</p>
+<p>ST06 – Yellow</p>
+<p>ST07 – Green</p>
+<p>ST08 – Orange</p>
+<p>ST12 – Gold</p>
+<p>ST13 – Silver</p>
+<p>ST28 – Sun Yellow</p>
+<p>ST44 – Rose Gold</p>
+<p>ST55 – Bright Red</p>
+<p>ST62 – Lilac</p>
+<p>ST86 – Passion Pink</p>
+<p>ST87 – Coral</p>
+<p>ST88 – Sea Glass</p>
+<p>ST89 – Sweet Mint</p>
+<p>ST90 – Purple Berry</p>
+<p>ST91 – Ballerina</p>
+<p>ST92 – Chestnut</p>
+<p><span>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with Black or White. In the event that we have more than 2 colours out of stock at the time of your order, we will contact you so you can make your substitution choices. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401840898088</id>
+      <title>15” x 12”</title>
+      <s:price currency="CAD">85.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>1680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401840898088</id>
+      <title>15” x 1 yard</title>
+      <s:price currency="CAD">207.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/401840144424</id>
+    <published>2017-12-20T18:58:25-05:00</published>
+    <updated>2017-12-20T18:58:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/siser-easyweed-htv"/>
+    <title>EasyWeed® HTV - 34 EW Colours Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Siser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/easyweedr-htv-34-ew-colours-bundle.jpg?v=1621438137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Siser<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.05 - 328.95
+            <a href="https://www.designblanks.ca/products/siser-easyweed-htv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Save 10% when you choose a bundle!</span></p>
+<p>33 colour bundle includes all of our EasyWeed® (EXCEPT the Fluorescent colours and Glow in the Dark, find them in the <a href="https://www.designblanks.ca/collections/siser-htv-bundles/products/fluorescent-easyweed-htv-bundle">Fluorescent Bundle here</a>.)</p>
+<p>EW01 – White</p>
+<p>EW02 – Black</p>
+<p>EW03 – Royal Blue</p>
+<p>EW04 – Navy</p>
+<p>EW05 – Red</p>
+<p>EW06 – Yellow</p>
+<p>EW07 – Green</p>
+<p>EW08 – Orange</p>
+<p>EW09 – Pink</p>
+<p>EW10 – Sky Blue</p>
+<p>EW11 – Brown</p>
+<p>EW12 – Gold</p>
+<p>EW13 – Silver</p>
+<p>EW14 – Burgundy</p>
+<p>EW15 – Purple</p>
+<p>EW21 – Lemon Yellow</p>
+<p>EW22 – Grey</p>
+<p>EW24 – Dark Green</p>
+<p>EW27 – Turquoise</p>
+<p>EW29 – Cream</p>
+<p>EW55 – Bright Red</p>
+<p>EW61 – Pale Blue</p>
+<p>EW62 – Lilac</p>
+<p>EW63 – Hibiscus</p>
+<p>EW64 – Green Apple</p>
+<p>EW65 – Light Pink</p>
+<p>EW70 – Vegas Gold</p>
+<p>EW71 - Cardinal Red</p>
+<p>EW72 – Maroon</p>
+<p>EW76 – Chocolate</p>
+<p>EW79 – Bubblegum</p>
+<p>EW80 – Charcoal</p>
+<p>EW83 – Powder Blue</p>
+<p>EW85 – Melon</p>
+<p>We reserve the right to substitute any out of stock colours. Out of stock colours will be substituted with Black or White. In the event that we have more than 2 colours out of stock at the time of your order, we will contact you so you can make your substitution choices. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>noinv</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401840144424</id>
+      <title>15” x 12”</title>
+      <s:price currency="CAD">130.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>2640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/401840144424</id>
+      <title>15” x 1 yard</title>
+      <s:price currency="CAD">328.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

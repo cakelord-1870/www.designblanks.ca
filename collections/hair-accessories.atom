@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/hair-accessories.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-01-19T17:32:48-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/2376038449237</id>
+    <published>2019-01-19T17:32:48-05:00</published>
+    <updated>2019-01-19T17:32:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/silver-heart-barrette"/>
+    <title>Silver Heart Barrette</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/silver-heart-barrette.jpg?v=1621438657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet heart barrette. These have a nice strong clip and are a very generous 5cm or 2 inches long. The end of the clip does extend longer. </p>
+<p>With your own cute packaging, these will make excellent gifts.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2376038449237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2375003668565</id>
+    <published>2019-01-19T17:32:48-05:00</published>
+    <updated>2019-01-19T17:32:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/silver-bunny-barrette"/>
+    <title>Silver Bunny Barrette</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/silver-bunny-barrette.jpg?v=1620238986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet rabbit barrette. These have a nice strong clip and are a very generous 5cm or 2 inches long. The end of the clip does extend longer. </p>
+<p>With your own cute packaging, these will make excellent Easter basket stuffers.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2375003668565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/325078908968</id>
+    <published>2017-12-09T17:20:54-05:00</published>
+    <updated>2017-12-09T17:20:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pontail-holder"/>
+    <title>Ponytail Holder</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/ponytail-holder.jpg?v=1621437980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75 - 20.60
+            <a href="https://www.designblanks.ca/products/pontail-holder">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A strong elastic ponytail holder with a perfect circle for a name, monogram or image! Perfect for any type of hair.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/325078908968</id>
+      <title>Pink</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/325078908968</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/325078908968</id>
+      <title>Dark Blue</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/325078908968</id>
+      <title>Mixed Bundle of 10pcs - Save 25%</title>
+      <s:price currency="CAD">20.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9603204929</id>
+    <published>2017-05-29T18:17:36-04:00</published>
+    <updated>2017-05-29T18:17:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/kitty-cat-barrette-hair-clips"/>
+    <title>Kitty Cat Barrette Hair Clips - 2pcs</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/kitty-cat-barrette-hair-clips-2pcs.jpg?v=1621437782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kitty ears on alligator hair clips. These are identical on the front and the back so it doesn't matter which way they go in. </p>
+<p>Kitty ear from tip to bottom is 3cm, clip opening measures 3.5cm</p>
+<p>This is a pair of 2 barrettes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603204929</id>
+      <title>Pink &amp; Gold</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603204929</id>
+      <title>Teal &amp; Pink</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603204929</id>
+      <title>Dark Pink &amp; Blue</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603204929</id>
+      <title>Navy &amp; Red</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603204929</id>
+      <title>Green &amp; Pink</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9603156993</id>
+    <published>2017-05-29T17:38:57-04:00</published>
+    <updated>2017-05-29T17:38:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/bunny-rabbit-ears-hair-clip"/>
+    <title>Bunny Rabbit Ears Hair Clip</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/bunny-rabbit-ears-hair-clip.jpg?v=1621437778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Alligator hair clip with a mini pair of bunny rabbit ears in soft pink or dark pink.</p>
+<p>bunny ears measure 5cm top to bottom. Hair clip has an opening 3.5cm</p>
+<p>This is for one barrette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair clip</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603156993</id>
+      <title>Light Pink</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9603156993</id>
+      <title>Dark Pink</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

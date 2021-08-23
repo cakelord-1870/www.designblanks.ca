@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/bottle-openers.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-08-08T14:15:32-04:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/2687515885653</id>
+    <published>2019-08-08T14:15:32-04:00</published>
+    <updated>2019-08-08T14:15:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/magnetic-sublimation-bottle-opener"/>
+    <title>Magnetic Sublimation Bottle Opener</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Magnetic-Sublimation-Bottle-Opener_6cca4bb9-6a39-4986-abdf-52f22db985f1.jpg?v=1628871494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everyone needs this on the side of the refrigerator.</p>
+<p><span>200C degrees for 60 seconds</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2687515885653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2559906218069</id>
+    <published>2019-05-13T12:36:43-04:00</published>
+    <updated>2019-05-13T12:36:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/sublimation-bottle-opener-key-ring"/>
+    <title>Sublimation Bottle Opener Key Ring - 4pack</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/sublimation-bottle-opener-key-ring-4pack.jpg?v=1625760819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">4 bottle opener keyrings for sublimation.</span></p>
+<p>Sublimation disc measures approx 1 inch or 2.5cm</p>
+<p>200C degrees for 60 seconds<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2559906218069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/9602340353</id>
+    <published>2017-06-06T19:39:46-04:00</published>
+    <updated>2017-06-06T19:39:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pre-order-aluminum-bottle-and-can-opener"/>
+    <title>Aluminum Bottle and Can Opener</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/Aluminum-Bottle-and-Can-Opener_4f305af5-0853-4659-89d4-7d4ee1259eb4.jpg?v=1628871315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.95 - 7.00
+            <a href="https://www.designblanks.ca/products/pre-order-aluminum-bottle-and-can-opener">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They are a bottle opener on one side and a can tab opener on the other.  </p>
+<p>They are approximately 68mm long. </p>
+<p>Perfect for wedding parties, ball teams and Dads!</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9602340353</id>
+      <title>Blue</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/9602340353</id>
+      <title>10pcs pack -Blue</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+</feed>

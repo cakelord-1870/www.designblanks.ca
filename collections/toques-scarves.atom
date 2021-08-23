@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.designblanks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.designblanks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.designblanks.ca/collections/toques-scarves.atom"/>
+  <title>Design Blanks</title>
+  <updated>2019-12-11T14:23:19-05:00</updated>
+  <author>
+    <name>Design Blanks</name>
+  </author>
+  <entry>
+    <id>https://www.designblanks.ca/products/4438126854229</id>
+    <published>2019-12-11T14:23:19-05:00</published>
+    <updated>2019-12-11T14:23:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-light-grey"/>
+    <title>Pom Pom Toque -  Light Grey</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-light-grey.jpg?v=1621438968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/4438126854229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2342680854613</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-black"/>
+    <title>Pom Pom Toque - Black</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-black.jpg?v=1621438640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p>
+<p>This toque is a true black but appears lighter due to the lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2342680854613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2342669516885</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-wine"/>
+    <title>Pom Pom Toque - Wine</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-wine.jpg?v=1621438639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2342669516885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2342662930517</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-grey"/>
+    <title>Pom Pom Toque - Grey</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-grey.jpg?v=1621438637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2342662930517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2342659784789</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-white"/>
+    <title>Pom Pom Toque -  White</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-white.jpg?v=1621438636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2342659784789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/2342655524949</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/pom-pom-toque-navy"/>
+    <title>Pom Pom Toque -  Navy</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/pom-pom-toque-navy.jpg?v=1621438635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a pom pom on top. </p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/2342655524949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/1349371658293</id>
+    <published>2018-07-30T08:50:57-04:00</published>
+    <updated>2018-07-30T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/messy-bun-ponytail-toque-green-07"/>
+    <title>Messy Bun / PonyTail Toque - Green - (07)</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/messy-bun-ponytail-toque-green-07.jpg?v=1621438477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft and comfy. 100% acrylic toques with a hole on top. The hole does have an elastic for the perfect stretch to get those ponytails and messy buns through.</p>
+<p>This is an average ladies size toque. It is soft and stretchy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>winter beanie</s:tag>
+    <s:tag>winter hat</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/1349371658293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.designblanks.ca/products/308203454504</id>
+    <published>2017-12-04T15:42:27-05:00</published>
+    <updated>2017-12-04T15:42:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.designblanks.ca/products/buffalo-plaid-blanket-scarf"/>
+    <title>Buffalo Plaid Blanket Scarf</title>
+    <s:type></s:type>
+    <s:vendor>Design Blanks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1669/2063/products/buffalo-plaid-blanket-scarf.jpg?v=1621437972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Design Blanks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amazingly super soft 100% acrylic that it referred to as faux cashmere. </p>
+<p>Extra large 140x140cm blanket scarf. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>buffalo plaid</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://www.designblanks.ca/products/308203454504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>395</s:grams>
+    </s:variant>
+  </entry>
+</feed>
